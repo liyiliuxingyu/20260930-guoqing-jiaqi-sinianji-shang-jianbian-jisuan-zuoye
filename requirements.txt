@@ -1,0 +1,4 @@
+# Tested versions; install in a project virtual environment.
+PyMuPDF==1.26.6
+Pillow==13.0.0
+

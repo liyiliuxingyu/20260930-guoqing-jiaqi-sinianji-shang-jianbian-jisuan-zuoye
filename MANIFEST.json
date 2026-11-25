@@ -1,0 +1,1130 @@
+{
+  "schema": 1,
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 78,
+      "sha256": "6511f62eb5a92ef0710277d81505fe0b6904b0fcff355edf59d0d619a9150527"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 60,
+      "sha256": "cdd36eaf94867a7c405b0f08b402a287e825ce56a28bbc631ec7381879524a18"
+    },
+    {
+      "path": "00_接续说明.txt",
+      "bytes": 3983,
+      "sha256": "18333ba396e5e49e67d9101e79e958303a7856c67433a05639c12752a72b1da9"
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 1844,
+      "sha256": "8f7472238606ceade3ed518d52951ad6ed47a270187ce613f9b09dd4f3acf8d8"
+    },
+    {
+      "path": "DEPENDENCIES.md",
+      "bytes": 3008,
+      "sha256": "fcecb1db2d851598dd65ed625ebe34fc85baf1880b03e247f0d8e28bd5f26cfb"
+    },
+    {
+      "path": "HISTORY.md",
+      "bytes": 3897,
+      "sha256": "286bb44d4de2e489fb013e99f4448c9a5809069bdae0dad608fd2d5755969d81"
+    },
+    {
+      "path": "PUBLICATION.md",
+      "bytes": 1905,
+      "sha256": "8c194581c198a2e62050efed9a272b303c7d635d2ca1891fbaac24ca5654bd70"
+    },
+    {
+      "path": "README.md",
+      "bytes": 6968,
+      "sha256": "2ddc2c9f3c6a50024790f78406228a179a4e94c8eb1a4dd2937e6b854de70a94"
+    },
+    {
+      "path": "REQUIRED_FILES.json",
+      "bytes": 11403,
+      "sha256": "ee0b8fa4b22bed6cdc2be63955403a6df81c2073f433101071a963df84d15dfd"
+    },
+    {
+      "path": "assets/pptx_layout.json",
+      "bytes": 22372,
+      "sha256": "92da1bb6d13678720b7c8bb7c08136bb75ced5a5722dcd9ab2305e0bf3abb1fc"
+    },
+    {
+      "path": "assets/pptx_template/[Content_Types].xml",
+      "bytes": 4594,
+      "sha256": "83c8aad5a1df01ed67165080169fc02bc2e912776c98bd598cbe1b1da55be565"
+    },
+    {
+      "path": "assets/pptx_template/_rels/.rels",
+      "bytes": 737,
+      "sha256": "694cc89ebda975bfb74644f943f86114504d64d5a6b2e420304f58ba494f0e11"
+    },
+    {
+      "path": "assets/pptx_template/docProps/app.xml",
+      "bytes": 1133,
+      "sha256": "77fbd43c41b96be9a40d41a267cd83108a274ee5860675dfb543828472d76867"
+    },
+    {
+      "path": "assets/pptx_template/docProps/core.xml",
+      "bytes": 988,
+      "sha256": "b54e09dd4367125718c34ccbd443720551b665d755b480084a8a319507e18a6b"
+    },
+    {
+      "path": "assets/pptx_template/docProps/thumbnail.jpeg",
+      "bytes": 4067,
+      "sha256": "116f9aa8ea038e39ef47ee99a23592ab569cf77feafecd0a30e222369e931d25"
+    },
+    {
+      "path": "assets/pptx_template/ppt/_rels/presentation.xml.rels",
+      "bytes": 1689,
+      "sha256": "cd0d6ce5cf05455b83c6bdcbe55df69b8857db763c27f86a7a24896ef9c54b45"
+    },
+    {
+      "path": "assets/pptx_template/ppt/notesMasters/_rels/notesMaster1.xml.rels",
+      "bytes": 291,
+      "sha256": "e04df15e1a39b683aba4f1c1d05d09619c02d0eb334bbb9f9ec15d3c3f6f556c"
+    },
+    {
+      "path": "assets/pptx_template/ppt/notesMasters/notesMaster1.xml",
+      "bytes": 7627,
+      "sha256": "970fd6eed1e6c9ce4ccf270a6ed26e381f852de88d22d5eff8cf75f383b85311"
+    },
+    {
+      "path": "assets/pptx_template/ppt/notesSlides/_rels/notesSlide1.xml.rels",
+      "bytes": 446,
+      "sha256": "c1e57cc916d3afda8a60f9a5ba41ad132fcb4cb5d0fe5a8cafac9905be15ab7f"
+    },
+    {
+      "path": "assets/pptx_template/ppt/notesSlides/_rels/notesSlide2.xml.rels",
+      "bytes": 446,
+      "sha256": "55c9833a37d52b6fe9f23147c66a2bc3eed85077972a8d96845d079a65dcf131"
+    },
+    {
+      "path": "assets/pptx_template/ppt/notesSlides/_rels/notesSlide3.xml.rels",
+      "bytes": 446,
+      "sha256": "4ac223d905d6a5f66aa435a2159b39d3bc750e331510712a5e5e5a7920991620"
+    },
+    {
+      "path": "assets/pptx_template/ppt/notesSlides/_rels/notesSlide4.xml.rels",
+      "bytes": 446,
+      "sha256": "f470194d5dd2edcffb60fe860c39e689a467ab010340c4d9e986ec2770f4ba44"
+    },
+    {
+      "path": "assets/pptx_template/ppt/notesSlides/notesSlide1.xml",
+      "bytes": 2308,
+      "sha256": "dd06f2e4ae0046ed385f42f7e1a5031cc98f6de1e0c497abea659b53b024f173"
+    },
+    {
+      "path": "assets/pptx_template/ppt/notesSlides/notesSlide2.xml",
+      "bytes": 2303,
+      "sha256": "9edaab9c82f9a1009b1802ca83ce4b7068bf529c70174e846ad3b91adf09fe7a"
+    },
+    {
+      "path": "assets/pptx_template/ppt/notesSlides/notesSlide3.xml",
+      "bytes": 2291,
+      "sha256": "2de9f32c375ae4f952877287813bc810ddebe6adb14a70c13181a4cb001c768c"
+    },
+    {
+      "path": "assets/pptx_template/ppt/notesSlides/notesSlide4.xml",
+      "bytes": 2286,
+      "sha256": "36db56e26aeab2c29a0b0d4620497d0c5bc92e00685db4b79c6b6eee1b3af935"
+    },
+    {
+      "path": "assets/pptx_template/ppt/presProps.xml",
+      "bytes": 649,
+      "sha256": "b42af61236cda9ea4d781f60908296da476489b2828df32fc9625d996808087b"
+    },
+    {
+      "path": "assets/pptx_template/ppt/presentation.xml",
+      "bytes": 3348,
+      "sha256": "4d81effd32009d9cb196392abd0831d547c7305bd0e0c6ca24a6235bcb110637"
+    },
+    {
+      "path": "assets/pptx_template/ppt/printerSettings/printerSettings1.bin",
+      "bytes": 9395,
+      "sha256": "d7768f87e07d29634782e448ece1cddd05a52b9499254222b1190bc8f6dc579e"
+    },
+    {
+      "path": "assets/pptx_template/ppt/slideLayouts/_rels/slideLayout1.xml.rels",
+      "bytes": 310,
+      "sha256": "7c1f290acd6ca3ce664fe95aaf0b129bbb3cbf2b75c8d09905a2821641981027"
+    },
+    {
+      "path": "assets/pptx_template/ppt/slideLayouts/_rels/slideLayout10.xml.rels",
+      "bytes": 310,
+      "sha256": "7c1f290acd6ca3ce664fe95aaf0b129bbb3cbf2b75c8d09905a2821641981027"
+    },
+    {
+      "path": "assets/pptx_template/ppt/slideLayouts/_rels/slideLayout11.xml.rels",
+      "bytes": 310,
+      "sha256": "7c1f290acd6ca3ce664fe95aaf0b129bbb3cbf2b75c8d09905a2821641981027"
+    },
+    {
+      "path": "assets/pptx_template/ppt/slideLayouts/_rels/slideLayout2.xml.rels",
+      "bytes": 310,
+      "sha256": "7c1f290acd6ca3ce664fe95aaf0b129bbb3cbf2b75c8d09905a2821641981027"
+    },
+    {
+      "path": "assets/pptx_template/ppt/slideLayouts/_rels/slideLayout3.xml.rels",
+      "bytes": 310,
+      "sha256": "7c1f290acd6ca3ce664fe95aaf0b129bbb3cbf2b75c8d09905a2821641981027"
+    },
+    {
+      "path": "assets/pptx_template/ppt/slideLayouts/_rels/slideLayout4.xml.rels",
+      "bytes": 310,
+      "sha256": "7c1f290acd6ca3ce664fe95aaf0b129bbb3cbf2b75c8d09905a2821641981027"
+    },
+    {
+      "path": "assets/pptx_template/ppt/slideLayouts/_rels/slideLayout5.xml.rels",
+      "bytes": 310,
+      "sha256": "7c1f290acd6ca3ce664fe95aaf0b129bbb3cbf2b75c8d09905a2821641981027"
+    },
+    {
+      "path": "assets/pptx_template/ppt/slideLayouts/_rels/slideLayout6.xml.rels",
+      "bytes": 310,
+      "sha256": "7c1f290acd6ca3ce664fe95aaf0b129bbb3cbf2b75c8d09905a2821641981027"
+    },
+    {
+      "path": "assets/pptx_template/ppt/slideLayouts/_rels/slideLayout7.xml.rels",
+      "bytes": 310,
+      "sha256": "7c1f290acd6ca3ce664fe95aaf0b129bbb3cbf2b75c8d09905a2821641981027"
+    },
+    {
+      "path": "assets/pptx_template/ppt/slideLayouts/_rels/slideLayout8.xml.rels",
+      "bytes": 310,
+      "sha256": "7c1f290acd6ca3ce664fe95aaf0b129bbb3cbf2b75c8d09905a2821641981027"
+    },
+    {
+      "path": "assets/pptx_template/ppt/slideLayouts/_rels/slideLayout9.xml.rels",
+      "bytes": 310,
+      "sha256": "7c1f290acd6ca3ce664fe95aaf0b129bbb3cbf2b75c8d09905a2821641981027"
+    },
+    {
+      "path": "assets/pptx_template/ppt/slideLayouts/slideLayout1.xml",
+      "bytes": 4357,
+      "sha256": "25c93a2f186df69897585729d52fc610349e29dcf0b5b6080160df6490698709"
+    },
+    {
+      "path": "assets/pptx_template/ppt/slideLayouts/slideLayout10.xml",
+      "bytes": 3021,
+      "sha256": "1f8304c9d6c08ff9bd41b639d0c7e866b6515f61e6081c9ccc89ed8d0f8b4194"
+    },
+    {
+      "path": "assets/pptx_template/ppt/slideLayouts/slideLayout11.xml",
+      "bytes": 3245,
+      "sha256": "355ac266c2671b83b662759afb0ee0ecfb7cdd6ec936019ecef60dbc95c14dac"
+    },
+    {
+      "path": "assets/pptx_template/ppt/slideLayouts/slideLayout2.xml",
+      "bytes": 2966,
+      "sha256": "5f800acd9e43b9b438c987bd71cf0966b27ad02ce8df14df80708510cbd700be"
+    },
+    {
+      "path": "assets/pptx_template/ppt/slideLayouts/slideLayout3.xml",
+      "bytes": 4440,
+      "sha256": "e83a85b737e1447051ac7fd9bbaaba4ac1b4210cfc630cdcfcdbc191fdb141d1"
+    },
+    {
+      "path": "assets/pptx_template/ppt/slideLayouts/slideLayout4.xml",
+      "bytes": 4712,
+      "sha256": "1ebe316051a0caaac0e972989a7591e66d1fbb4a0764fe984c31a4ab5b6554bf"
+    },
+    {
+      "path": "assets/pptx_template/ppt/slideLayouts/slideLayout5.xml",
+      "bytes": 7222,
+      "sha256": "3df8e6f498622ef440f5568a2c967c97f47c74b46b47a976304c7b7c9ab54c74"
+    },
+    {
+      "path": "assets/pptx_template/ppt/slideLayouts/slideLayout6.xml",
+      "bytes": 2232,
+      "sha256": "18e5b26c6f7c30dabe0b294faf38b2d2ef60ae778fbba9c3fe71f6560143a402"
+    },
+    {
+      "path": "assets/pptx_template/ppt/slideLayouts/slideLayout7.xml",
+      "bytes": 1895,
+      "sha256": "e4d86b009a8ca6ca9ecfadc97c68b7123b60544df09a7ea42864a4f5f74ce09c"
+    },
+    {
+      "path": "assets/pptx_template/ppt/slideLayouts/slideLayout8.xml",
+      "bytes": 4802,
+      "sha256": "950b9d16468d58fe59a8c0aeb17a03b7d18a9f5bbeac438e38a2248462a72cbe"
+    },
+    {
+      "path": "assets/pptx_template/ppt/slideLayouts/slideLayout9.xml",
+      "bytes": 4657,
+      "sha256": "4e9439878755a7faea188d684939b2fb7d26b7e09086e792789f9137ca353e15"
+    },
+    {
+      "path": "assets/pptx_template/ppt/slideMasters/_rels/slideMaster1.xml.rels",
+      "bytes": 1990,
+      "sha256": "52e5efa51d86e5426d78ad9b143b863e71d00c269f6494e759cf0b3adc900116"
+    },
+    {
+      "path": "assets/pptx_template/ppt/slideMasters/slideMaster1.xml",
+      "bytes": 11986,
+      "sha256": "44cc65956f47c1cf689803dcc7a1d9225c93d3fd90754a9f85e2bdcea27565bc"
+    },
+    {
+      "path": "assets/pptx_template/ppt/slides/_rels/slide1.xml.rels",
+      "bytes": 6531,
+      "sha256": "cd18b8d30f2f9695102c931079145044865c97d6c282f7f0d2cc8fe61f4e9680"
+    },
+    {
+      "path": "assets/pptx_template/ppt/slides/_rels/slide2.xml.rels",
+      "bytes": 6538,
+      "sha256": "f66f1a3d33bfd2b359ad75b19a698e1a7dd44acf8f7c08b31430c627e08c7523"
+    },
+    {
+      "path": "assets/pptx_template/ppt/slides/_rels/slide3.xml.rels",
+      "bytes": 6539,
+      "sha256": "cf49832feffa20d76fc60698b6fc98445608a5ba7ef4fb482219110aff5d59c5"
+    },
+    {
+      "path": "assets/pptx_template/ppt/slides/_rels/slide4.xml.rels",
+      "bytes": 6539,
+      "sha256": "191936ca1e5dde0f1c24eb6ebdad76f48eec50de8725d45fac981d85adb1ef6b"
+    },
+    {
+      "path": "assets/pptx_template/ppt/slides/slide1.xml",
+      "bytes": 13463,
+      "sha256": "50e7371a27b3cdd440bb59a6790427a5e7dfbafe8ea9de44da70175ab38bbea0"
+    },
+    {
+      "path": "assets/pptx_template/ppt/slides/slide2.xml",
+      "bytes": 13458,
+      "sha256": "59004096c34a2e3e76d89c9ac4a3bc445fba953aca8e0096043321416a979618"
+    },
+    {
+      "path": "assets/pptx_template/ppt/slides/slide3.xml",
+      "bytes": 13446,
+      "sha256": "19b29cedacf2127bb1d21a1fd68432aa97a5e6a0f3ffe439fed16aea958c74bb"
+    },
+    {
+      "path": "assets/pptx_template/ppt/slides/slide4.xml",
+      "bytes": 13441,
+      "sha256": "968ef56f8704b38b297491d973a71d05b2e25ba48411210e9ceb4b699f7e0c4c"
+    },
+    {
+      "path": "assets/pptx_template/ppt/tableStyles.xml",
+      "bytes": 182,
+      "sha256": "0e7ac03251337ecbaf6c8ca13619db1caeda5c90c4e3210d45d6c3f5df4de103"
+    },
+    {
+      "path": "assets/pptx_template/ppt/theme/theme1.xml",
+      "bytes": 7655,
+      "sha256": "4c3412087e8fa20cf5642f42e69f1e733881c28611a2bdd4622654ee313d214e"
+    },
+    {
+      "path": "assets/pptx_template/ppt/theme/theme2.xml",
+      "bytes": 7654,
+      "sha256": "3d2fb2883cfcaa95ba6d9bc7d6203b2487dec9c04cf22cc12ee8b899e7f505a5"
+    },
+    {
+      "path": "assets/pptx_template/ppt/viewProps.xml",
+      "bytes": 898,
+      "sha256": "f2e3578e8a2a2607ca7f850d99f2cbe5f22806084c8e519bb754388ed7ebdb69"
+    },
+    {
+      "path": "assets/previews/简便计算_PPT四页预览.png",
+      "bytes": 279765,
+      "sha256": "d6059716907c44e0738db3914a5d58304968af96ae5bbe2381d91344ac383cc1"
+    },
+    {
+      "path": "assets/previews/简便计算_答案对齐预览.png",
+      "bytes": 29016,
+      "sha256": "172f20d56e20a173567ab6f9c9644c41e00b285c9fa348d85528dcba149bcc0d"
+    },
+    {
+      "path": "build.bat",
+      "bytes": 181,
+      "sha256": "b77e8ddba8b6ee97794db704869b177575452aeaca2b9a6288f23017888f30ca"
+    },
+    {
+      "path": "build.sh",
+      "bytes": 145,
+      "sha256": "bbab3d5d60d4799357596f985059be75694834b5deaff8d50667d3a9f690f309"
+    },
+    {
+      "path": "checks/clean_extract_build.json",
+      "bytes": 779,
+      "sha256": "ec96bb3a0fa5cb8025213021af6a231ebf04271d520e482c6e1c48fce1fe79da"
+    },
+    {
+      "path": "checks/full_build_build_report.json",
+      "bytes": 6350,
+      "sha256": "1198ed1fd195f8796a3f631b10ccac3db74b770d21dc1e886a4de901b9e50e03"
+    },
+    {
+      "path": "checks/full_build_math_validation.json",
+      "bytes": 2798,
+      "sha256": "211c745df2262ef0c0c14dce2d124e7aba7653b99a66460e5cfb85bb66014701"
+    },
+    {
+      "path": "checks/full_build_pptx_validation.json",
+      "bytes": 1191,
+      "sha256": "38d95fc5fd26c597ef237ae9afaeaad70e0bdd67a16660c0f094cfcb4faf0719"
+    },
+    {
+      "path": "checks/math_review.txt",
+      "bytes": 2486,
+      "sha256": "176b63bfbba67f943498f82f140bff48db130d114fa4940a2de85f498760ffd6"
+    },
+    {
+      "path": "checks/math_validation.json",
+      "bytes": 2798,
+      "sha256": "8245fe607bbeb49bdcaafec4a590d8dd91a3ca24eba296d9ae1cb1fafa28e437"
+    },
+    {
+      "path": "checks/package_preflight.json",
+      "bytes": 118,
+      "sha256": "0a2487f14353a42acfe6a496d5700359114f833df47f329fdfd777539f71b6f4"
+    },
+    {
+      "path": "checks/pdf_render_comparison.json",
+      "bytes": 3517,
+      "sha256": "e57a6970563953690a19c926c03c3733390099d53c92fe605ff2fd46126abe12"
+    },
+    {
+      "path": "checks/pptx_original_check.json",
+      "bytes": 631,
+      "sha256": "b41f4899afc750a4f9a1b9b3c1d47405a2f43b3506770315baea4eae857a03aa"
+    },
+    {
+      "path": "checks/pptx_rebuild_check.json",
+      "bytes": 1126,
+      "sha256": "b6253b037745425ce4126447893987916ba70d26e8c218ad48726ad0d22f9fb7"
+    },
+    {
+      "path": "checks/pptx_render_check.json",
+      "bytes": 961,
+      "sha256": "4c49384ca88b6073752026d171743a1781c516e0433d6fff1ef9253dd6379ae4"
+    },
+    {
+      "path": "checks/pptx_重建与使用说明.txt",
+      "bytes": 3006,
+      "sha256": "e82c591aead5eb11d89343cbff3c5647e8ea3238de3fded7422b92106040b5e5"
+    },
+    {
+      "path": "checks/toolchain.json",
+      "bytes": 459,
+      "sha256": "84bb3a8818767c38510481c4a717de6e4989e54ce08837a4858ab3ffdfd0bbe1"
+    },
+    {
+      "path": "checks/验证摘要.txt",
+      "bytes": 1764,
+      "sha256": "c9d16bdc26fb275b8de47f3e9fdb6922141f95817adb7156f63d2c922a829815"
+    },
+    {
+      "path": "data/problems.json",
+      "bytes": 29912,
+      "sha256": "4e4e2303ff0b9f64f28ddfc3cb35ed6410ab695bf3cbe39eeb8b53067d550e56"
+    },
+    {
+      "path": "history/retrieved/A3源码/简便计算_A3_ctexart默认字体_完整脱式答案.tex",
+      "bytes": 11126,
+      "sha256": "b6798c70adce21c964c9ac1957c9f9b4692a5b2ac653abb6cec3f50bfa091b5c"
+    },
+    {
+      "path": "history/retrieved/A3源码/简便计算_A3_ctexart默认字体_题目.tex",
+      "bytes": 3226,
+      "sha256": "e12e46f55857ed04e5d73ea2282a5f62215f914557dc5f9067511265f2872927"
+    },
+    {
+      "path": "history/retrieved/A3源码/编译与打印说明.txt",
+      "bytes": 1356,
+      "sha256": "22bdfb9fa80bfdab3dbb6311cf31895b6bc31ac4ac6354f0996a11807a34e1ad"
+    },
+    {
+      "path": "history/retrieved/简便计算_A3_ctexart默认字体_LaTeX源码.zip",
+      "bytes": 4557,
+      "sha256": "b653a6e65358e9fa52a9d189ce6c9e7b4a22e9e4daa605c5f2e8ac9654e127b0"
+    },
+    {
+      "path": "history/retrieved/简便计算_A3_ctexart默认字体_完整脱式答案.pdf",
+      "bytes": 12412,
+      "sha256": "95e0923b57d00c7d863451234eee703a1443f98eb340e1e39e7dc1e6bad822f5"
+    },
+    {
+      "path": "history/retrieved/简便计算_A3_ctexart默认字体_题目.pdf",
+      "bytes": 8649,
+      "sha256": "192453304d155b2ea3324e3488ae21a75604a87d63e695494ce2dfbec3f23f6e"
+    },
+    {
+      "path": "history/source_inventory.json",
+      "bytes": 18440,
+      "sha256": "009b61647e8fc59479a272fb0f278d67d911f74ef88f720e00ef28b620877c9f"
+    },
+    {
+      "path": "originals/1000072209.jpg",
+      "bytes": 89025,
+      "sha256": "455b3e16f96c7c1a1b4489a8fd4befbf7fc3b3259303a386635ad221f3175907"
+    },
+    {
+      "path": "originals/1000072210.jpg",
+      "bytes": 86573,
+      "sha256": "83c9cf7d41691ae4c0414a20fa5854413f7c8b50ec5211ef6fae1148337a439e"
+    },
+    {
+      "path": "originals/1000072211.jpg",
+      "bytes": 88676,
+      "sha256": "b27d6670f9202eb976d3fce78a972bd2233ac1d2df4fac9ee2dd47885a7976c1"
+    },
+    {
+      "path": "originals/1000072212.jpg",
+      "bytes": 89335,
+      "sha256": "98751c72ba1248bfeb4ebef9e7d60b7da9f33d3ea196d567102cfefd79a9582b"
+    },
+    {
+      "path": "originals/image-1790688344875.jpg",
+      "bytes": 134838,
+      "sha256": "74fefe669ca14dde7fae92f54988cfc1969f2b992f7fc11021eb3e3e41e6085f"
+    },
+    {
+      "path": "outputs/简便计算_A4_题目.pdf",
+      "bytes": 8484,
+      "sha256": "1faa68cdd7917921321b8c8e4d83ecfe97eafbadde2adb9839fed2e0cb3d841e"
+    },
+    {
+      "path": "outputs/简便计算_A4合订本_新版.pdf",
+      "bytes": 14301,
+      "sha256": "f07a3662b5d6342e37dc1fcbc0bff9675d1e1bf021b1f845ab48300273668345"
+    },
+    {
+      "path": "outputs/简便计算_A4答案_新版.pdf",
+      "bytes": 12131,
+      "sha256": "112068afbda7d685de35453b2b7479e2ced3d0ff0811cf93795bd40829713843"
+    },
+    {
+      "path": "outputs/简便计算_题目4页.pdf",
+      "bytes": 8565,
+      "sha256": "ff4e0b01a6b0cb39d1e5f7aa7209e5d105b746d290a37d39c09a676fb3786fd5"
+    },
+    {
+      "path": "outputs/简便计算_题目4页.pptx",
+      "bytes": 1535137,
+      "sha256": "0f8cc37247f69e72a8c11d815ebb92c54db8f5e552610502c22a2eafa9723917"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 93,
+      "sha256": "c63a593222571b576e65a8b1d42e8a350b596b0fd728f2e4deab0f650e8f9a9a"
+    },
+    {
+      "path": "src/简便计算_A4_题目.tex",
+      "bytes": 3934,
+      "sha256": "72afb10ddc4e1bf49b16601ea86fb2ef2727c1c2e610b589f6b2a66e0b288b15"
+    },
+    {
+      "path": "src/简便计算_A4合订本_新版.tex",
+      "bytes": 13262,
+      "sha256": "3235bf8a802fa87315abbc13358f947091736d068d996e705be1e469d086ab3e"
+    },
+    {
+      "path": "src/简便计算_A4答案_新版.tex",
+      "bytes": 10983,
+      "sha256": "6a1721cc49345d77164299e74588cf0172526ca8566a85af1d2d0a00cf8338b7"
+    },
+    {
+      "path": "src/简便计算_题目4页.tex",
+      "bytes": 2877,
+      "sha256": "482541b0114a89476ee707e2918a3256bd999e0b31476f2cd88be28b8aa19bc8"
+    },
+    {
+      "path": "tools/build.py",
+      "bytes": 6988,
+      "sha256": "3a8a9ac3bc9f138c0f1e75919b04b9d0ec8b842451ff96fdbab9467d0a1f0733"
+    },
+    {
+      "path": "tools/compare_renderings.py",
+      "bytes": 1983,
+      "sha256": "ebe27357897352c996a6a31a88b9e6959425cc594db8ee0da61ea14943299aaa"
+    },
+    {
+      "path": "tools/package_project.py",
+      "bytes": 1810,
+      "sha256": "3608e992d9b4bb7a10a2bcbbe38a2eb315b4444922e44c61426ac5fb4adea5f9"
+    },
+    {
+      "path": "tools/rebuild_pptx.py",
+      "bytes": 15584,
+      "sha256": "864ba9d860817d884f6569b851f33156460035be5b5ce129063b67a40afdfe4e"
+    },
+    {
+      "path": "tools/verify_math.py",
+      "bytes": 18758,
+      "sha256": "1438a04958ac6eb36f52413e03e13cd38760d15c4cf3a335546ef793d53e7b54"
+    },
+    {
+      "path": "tools/verify_package.py",
+      "bytes": 4380,
+      "sha256": "a454f4c0f3542ffb46eb5cd208318e51e60acebffd4138573fd3e06ac32393c4"
+    },
+    {
+      "path": "vendor/dependency_sources.json",
+      "bytes": 3203,
+      "sha256": "cb25f7f078d50f45c430da6b992257f6bc8e9bdeccc9dcc3d2545bcd817a3cf2"
+    },
+    {
+      "path": "vendor/texmf/doc/fonts/fandol/COPYING",
+      "bytes": 35737,
+      "sha256": "853b586f0d520493390e571431afaf36a5fbb27dcfd239338a7ee9b0505cb004"
+    },
+    {
+      "path": "vendor/texmf/doc/fonts/fandol/README",
+      "bytes": 645,
+      "sha256": "32537e063f4c7d4aebf016d5c8279cbce13f34fc8970f24b2578a3c04d0f8ca6"
+    },
+    {
+      "path": "vendor/texmf/doc/latex/ctex/README.md",
+      "bytes": 6039,
+      "sha256": "6a95c163a8f8af1a2037fc95a142dca0f3d06d30c07c78da9c94e82d4463385c"
+    },
+    {
+      "path": "vendor/texmf/doc/latex/zhnumber/README.md",
+      "bytes": 2309,
+      "sha256": "6c7369e6a5cf7fd06529aa58591c15b9b68fa3e8c02e41899e64d746b8efb9be"
+    },
+    {
+      "path": "vendor/texmf/doc/xelatex/xecjk/README.md",
+      "bytes": 3395,
+      "sha256": "26b1966a93d61171edda86c71e878f50cb254f99e426426b5199d4735c41260f"
+    },
+    {
+      "path": "vendor/texmf/doc/xelatex/xecjk/example/xeCJK-example-CJKecglue.tex",
+      "bytes": 736,
+      "sha256": "30c7dbe9551069d34655f0945793ab5f0cd1c93d152fb11a6e5eb9ffd29a3f40"
+    },
+    {
+      "path": "vendor/texmf/doc/xelatex/xecjk/example/xeCJK-example-CJKfntef.tex",
+      "bytes": 3760,
+      "sha256": "df938fe1f57577a956f93955c512c9c6239348f72267a781f8771e52ca60add1"
+    },
+    {
+      "path": "vendor/texmf/doc/xelatex/xecjk/example/xeCJK-example-CM.tex",
+      "bytes": 685,
+      "sha256": "83140a94951849618a6afb180eca6ef2d12ab172c37d6afe0baba19a239f0a56"
+    },
+    {
+      "path": "vendor/texmf/doc/xelatex/xecjk/example/xeCJK-example-autofake.tex",
+      "bytes": 3059,
+      "sha256": "56f4872b5a9aeda74da6dfb334c2237ada6b01318f8ffc45e0cd0d91b28b6656"
+    },
+    {
+      "path": "vendor/texmf/doc/xelatex/xecjk/example/xeCJK-example-checksingle.tex",
+      "bytes": 944,
+      "sha256": "662f618d182f9d52db7e3fe23c40dce65d2f9d01a097b303d4a673399430464f"
+    },
+    {
+      "path": "vendor/texmf/doc/xelatex/xecjk/example/xeCJK-example-fallback.tex",
+      "bytes": 1740,
+      "sha256": "ed01cd4d936c279f8d966331bb9420337ba89cf5dbf14554168f069afc398606"
+    },
+    {
+      "path": "vendor/texmf/doc/xelatex/xecjk/example/xeCJK-example-listings.tex",
+      "bytes": 2393,
+      "sha256": "84a16eafc9fa8a0437e362578eacc96d95ca82fad3d25c5e6bf51b87a360682f"
+    },
+    {
+      "path": "vendor/texmf/doc/xelatex/xecjk/example/xeCJK-example-mathblock.tex",
+      "bytes": 1055,
+      "sha256": "904e9cc3749ee9fcd6cc8d1d113b58e927cdfff1d1819e26715e8c6a640a3b85"
+    },
+    {
+      "path": "vendor/texmf/doc/xelatex/xecjk/example/xeCJK-example-punctstyle.tex",
+      "bytes": 4350,
+      "sha256": "7f98c4e56fc8ca9e0d0c18904d0479e68b63882a2326720add81add41da5412a"
+    },
+    {
+      "path": "vendor/texmf/doc/xelatex/xecjk/example/xeCJK-example-subCJKblock.tex",
+      "bytes": 5031,
+      "sha256": "43dd7ed84746753524410ad3297ca71553762af4d291d04c03a8104cfbb33c47"
+    },
+    {
+      "path": "vendor/texmf/doc/xelatex/xecjk/example/xeCJK-example-verbatim.tex",
+      "bytes": 2233,
+      "sha256": "044a40590ec050324d3d9726c9e4ff6bc7d82bda65003e10b661478c01b7a347"
+    },
+    {
+      "path": "vendor/texmf/doc/xelatex/xecjk/xunicode-symbols.tex",
+      "bytes": 7401,
+      "sha256": "df0044a18a25ca110a4c656511ed137c753b13960c6ac1d1848283fa26252e2f"
+    },
+    {
+      "path": "vendor/texmf/fonts/opentype/public/fandol/FandolFang-Regular.otf",
+      "bytes": 6961384,
+      "sha256": "d838ad32ce2244d8144f408c37fe71065aba6fbbc80759a4d2aa2033948d5bc9"
+    },
+    {
+      "path": "vendor/texmf/fonts/opentype/public/fandol/FandolHei-Bold.otf",
+      "bytes": 3581972,
+      "sha256": "42ca2de27b45e16a284768673b6205a5add9e17871ee0e7db9c0d03f061d96fd"
+    },
+    {
+      "path": "vendor/texmf/fonts/opentype/public/fandol/FandolHei-Regular.otf",
+      "bytes": 5808908,
+      "sha256": "4afa97aa8751e0118617df88272b58d43691b5cffb7ea024c4580496e9f34d28"
+    },
+    {
+      "path": "vendor/texmf/fonts/opentype/public/fandol/FandolKai-Regular.otf",
+      "bytes": 7790552,
+      "sha256": "ea7e7fb4f9b3ac694a68d43946e04d21deed6e8c29a7c2d3081e1a4138f2f827"
+    },
+    {
+      "path": "vendor/texmf/fonts/opentype/public/fandol/FandolSong-Bold.otf",
+      "bytes": 5777588,
+      "sha256": "ffa76a70e128947a4dd22151d5ee829b23e24ce3cb6fe8ad49891cd1c2d9e9b9"
+    },
+    {
+      "path": "vendor/texmf/fonts/opentype/public/fandol/FandolSong-Regular.otf",
+      "bytes": 4947904,
+      "sha256": "a3820003227d4abe31fe28b493200d94a849ccfd078b50a019264f70353020b0"
+    },
+    {
+      "path": "vendor/texmf/source/latex/ctex/ctex-zhconv-make.lua",
+      "bytes": 4099,
+      "sha256": "13436ed5b8fa45f6ee1708cbaed03d4e3c2ebd3bcc02a9de4a6668f2e445e78e"
+    },
+    {
+      "path": "vendor/texmf/source/latex/ctex/ctex.dtx",
+      "bytes": 457152,
+      "sha256": "f580a06cc1ca6f8db0e68a9f844b9ed28e64feaaaf4b7a300bb55327978fe88d"
+    },
+    {
+      "path": "vendor/texmf/source/latex/ctex/ctex.ins",
+      "bytes": 17657,
+      "sha256": "96ff80dae0e3e806cdbabab1a13bcb18463d14938bbdfa8744dd7ef8fa12cd49"
+    },
+    {
+      "path": "vendor/texmf/source/latex/ctex/ctexpunct.spa",
+      "bytes": 9752,
+      "sha256": "4bb757e8fedf3bb861a8fd22ba4855c06cf7fdd86a0f822fcc328e745598a724"
+    },
+    {
+      "path": "vendor/texmf/source/latex/zhnumber/zhnumber.dtx",
+      "bytes": 69446,
+      "sha256": "af3ffce2b3fc1b667d17fef9648be7df18d9a694f06fcb7baaee8a26bc316700"
+    },
+    {
+      "path": "vendor/texmf/source/latex/zhnumber/zhnumber.ins",
+      "bytes": 3379,
+      "sha256": "94732cc01fbf9a6a0a3d554c6c2c3c992beb9d18145ee7d8829da2ba871ff739"
+    },
+    {
+      "path": "vendor/texmf/source/xelatex/xecjk/xeCJK.dtx",
+      "bytes": 518377,
+      "sha256": "fe88920c919261ee30286a13264e4b4198e7d3bf9edd2e5066fe5bbec46df54f"
+    },
+    {
+      "path": "vendor/texmf/source/xelatex/xecjk/xeCJK.ins",
+      "bytes": 7936,
+      "sha256": "1028d9de2c2f8e036dd4fd1ef83093535ed84648920a710fee0e04c4d9d68a9e"
+    },
+    {
+      "path": "vendor/texmf/tex/generic/ctex/ctex-spa-macro.tex",
+      "bytes": 2870,
+      "sha256": "f07f09b9d914284533e153abf0b44301cee8478195a65b45257f91f00d06b565"
+    },
+    {
+      "path": "vendor/texmf/tex/generic/ctex/ctex-spa-make.tex",
+      "bytes": 2885,
+      "sha256": "7215e19384cd6ed923a12c07e3c4cd7e92a3915ac7d5619c60b33f2a0862a262"
+    },
+    {
+      "path": "vendor/texmf/tex/generic/ctex/ctxdocstrip.tex",
+      "bytes": 2894,
+      "sha256": "424e0e0d75ed144d5dfdf0b67a97325074b7897fcd191bf3e07d3abc2af7aba6"
+    },
+    {
+      "path": "vendor/texmf/tex/generic/ctex/zhmap/ctex-zhmap-adobe.tex",
+      "bytes": 4230,
+      "sha256": "8480c84ca52fca3dac77869e708cf827b26281a1a0967212c28ecbf8afb627b2"
+    },
+    {
+      "path": "vendor/texmf/tex/generic/ctex/zhmap/ctex-zhmap-fandol.tex",
+      "bytes": 4159,
+      "sha256": "2d28637708399a47aed32bed4f384f6b02d106b0c900e00848a30ed6b9433fcf"
+    },
+    {
+      "path": "vendor/texmf/tex/generic/ctex/zhmap/ctex-zhmap-founder.tex",
+      "bytes": 5516,
+      "sha256": "a683ef305f69f3c6283fd27d849681986bf16711eba0a7ebc32e2065ab52d722"
+    },
+    {
+      "path": "vendor/texmf/tex/generic/ctex/zhmap/ctex-zhmap-mac.tex",
+      "bytes": 4608,
+      "sha256": "fef8faf8034cf90a44f3dc6f96b27f1cf21c39dc5a6de6f8f2106e3ea38fd79a"
+    },
+    {
+      "path": "vendor/texmf/tex/generic/ctex/zhmap/ctex-zhmap-ubuntu.tex",
+      "bytes": 4113,
+      "sha256": "f4b6fd62da43310c1793098ffb05b50cdd2aed72d2444548f88c54b3e258a39d"
+    },
+    {
+      "path": "vendor/texmf/tex/generic/ctex/zhmap/ctex-zhmap-windows.tex",
+      "bytes": 5818,
+      "sha256": "84c93a6974c42fbf6a63156ccb5d96301cc2d31b358feac088806409e7711959"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/config/ctex-name-gbk.cfg",
+      "bytes": 1730,
+      "sha256": "38dc197ebda4b6b4a7f76f8587359e42beac46bc9ecf1f8c56bc5e459a860299"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/config/ctex-name-utf8.cfg",
+      "bytes": 1770,
+      "sha256": "778bb83f395cf149e33db9980ff12946927c778faeaecd69fba0ebf50326f587"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/config/ctex.cfg",
+      "bytes": 1230,
+      "sha256": "4a8ec7a1657410266fafa163ce656c923b714c53818e99dbeafbc08ac99709b8"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/config/ctexbackend.cfg",
+      "bytes": 1904,
+      "sha256": "ac452bc753fc440c29e73a0319f17148524412b3e67478e2012dbc50af0e605f"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/config/ctexopts.cfg",
+      "bytes": 1291,
+      "sha256": "57def444aad796d361c44f4b3be4f8221042df015de9fdc97010fb7f842b39ef"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/ctex-c5size.clo",
+      "bytes": 2616,
+      "sha256": "bbcb9f53fee79765958176b580622721feb7b8691454f5ba0b68baae52d300e8"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/ctex-cs4size.clo",
+      "bytes": 2637,
+      "sha256": "fd540d05bd7689c022b2410b4563fb5891c1eeffd5a017b3c9a7a9f9aa538a51"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/ctex.sty",
+      "bytes": 32650,
+      "sha256": "dd868cf1e82815ff9544e222c5eebe528dfc7799b69f7fe1762646ebe23dcd6b"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/ctexart.cls",
+      "bytes": 55219,
+      "sha256": "822d4a8c15e964c068c28be77c026ab891c4ab5b224503546c2994ac077efd93"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/ctexbeamer.cls",
+      "bytes": 39382,
+      "sha256": "6f731df93444ca969bd155f58eac78cccf6d92e2e381b9f72fcedb9666b5069b"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/ctexbook.cls",
+      "bytes": 58747,
+      "sha256": "1d75b5d67fa79f771326658235498a64c94c0de2bd4538c16f7ba49169ecb65b"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/ctexcap.sty",
+      "bytes": 1838,
+      "sha256": "30ef22fbaa8ee3864e752ab089433e06dbdfed2c16256b1113063afaded21491"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/ctexheading.sty",
+      "bytes": 8606,
+      "sha256": "c5f40e1dfa9e63e30d04620035cc4a6c0f025e4bf729196b54725d1e2618fa23"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/ctexhook.sty",
+      "bytes": 6505,
+      "sha256": "40e83f5ed34900870bb14fbe09dc24440bb98bc01813e28c59575c69134ffae6"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/ctexpatch.sty",
+      "bytes": 8448,
+      "sha256": "9f7980ed971ea9ee22583726d4760ebcba5a6e4cc2edc1576f2b71b613d64c29"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/ctexrep.cls",
+      "bytes": 58604,
+      "sha256": "aa28de78a0bee0ac97c9ab4f5da7ea2c83276d207a2ff2e6d5224297343515da"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/ctexsize.sty",
+      "bytes": 10396,
+      "sha256": "a6032914268ff42c0d721bbb4070ad5598f7f8aa36046f8315a14b3932770fad"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/ctexspa.def",
+      "bytes": 10881,
+      "sha256": "87b85009ae75ed01e10f018c29a38c488df9eb988bcf09401e4b614fb7326294"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/ctxdoc.cls",
+      "bytes": 30714,
+      "sha256": "f0d71fe9ae4f0491bb64f88520958145a9a7709a38a51c9988d826f10cc25a81"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/dictionary/translator-theorem-dictionary-ChineseGBK.dict",
+      "bytes": 4320,
+      "sha256": "4bdeca75d75051f5531e08e1e357ce07c63fbb2f22d45fd2d048c1ab99ac2ced"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/dictionary/translator-theorem-dictionary-ChineseUTF8.dict",
+      "bytes": 4520,
+      "sha256": "5dabaa80bfaa77148829cf23f5e4d109ea7bac7960dbb2d456fba3596c1aa1d6"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/engine/ctex-engine-aptex.def",
+      "bytes": 10160,
+      "sha256": "14fd2307f8f81d8cd4e601186dd0a5fcedf54642d86c7a0745be8ab080bfdd72"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/engine/ctex-engine-luatex.def",
+      "bytes": 46544,
+      "sha256": "bf13ba55952bcf8785777dab84c8a9f00b65029aee8049b533f50bcfeb4049ff"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/engine/ctex-engine-pdftex.def",
+      "bytes": 20297,
+      "sha256": "ef2c0374bf6748a86790c903d1bf809269146a2a1720519cd5fe7d61c2cdc106"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/engine/ctex-engine-uptex.def",
+      "bytes": 10155,
+      "sha256": "2530bcc8a42d5063db0eafd48df2300456f0066e643b0d721e4eca99cc311fea"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/engine/ctex-engine-xetex.def",
+      "bytes": 4760,
+      "sha256": "23ca571bb8631b994e041e09b9a8dadf3ba5b75240e1774f6f61b97589287d0e"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/fd/c19rm.fd",
+      "bytes": 1839,
+      "sha256": "15dbc27abc9cc59f7088cb38f3bb2219527eabdf4d41e41d5ad206379fbe2025"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/fd/c19sf.fd",
+      "bytes": 1833,
+      "sha256": "f607aefc069d2a85b7af531d12de2952e67143be1c3f9623fa2918a87c4e10c0"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/fd/c19tt.fd",
+      "bytes": 1824,
+      "sha256": "ce1ed4e7e671e526cb872d1ea5a20efc80e83aeb845bc22a6e6a9021539877b9"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/fd/c70rm.fd",
+      "bytes": 1820,
+      "sha256": "b131d54e23a2d6a2c0fb207f1b336d04da293d8dfbd56846d615fcc3b41eb64b"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/fd/c70sf.fd",
+      "bytes": 1814,
+      "sha256": "f08707e8fb2a4b86c5e17d9de561db307e6f90760ccdfb0e9238e95e0cb9494d"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/fd/c70tt.fd",
+      "bytes": 1805,
+      "sha256": "1838b28607b682895568973b39944dc1e720e5dab716c744621c3ba8aaff5790"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/fd/jt2zhrm.fd",
+      "bytes": 1365,
+      "sha256": "60da18a1863ea71ccabece1877639c92a3fd433b04772b68d3ce0f30c012eed7"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/fd/jt2zhsf.fd",
+      "bytes": 1305,
+      "sha256": "2fbda08a2c6e8c3e5997149d37fa8eecfd7bc5c7eeacafbbb281054cf1256157"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/fd/jt2zhtt.fd",
+      "bytes": 1196,
+      "sha256": "4e8e13172ec5472ea88aed1f8aae2b1d0224b889d577bc3e05f104b9052ed8f3"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/fd/jy2zhrm.fd",
+      "bytes": 1365,
+      "sha256": "254208299993bcefe804bd2b28f79178d98b4c12daba33850fd061e7c2388405"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/fd/jy2zhsf.fd",
+      "bytes": 1305,
+      "sha256": "9423fcde946caf95e6fcb18d967554027204b80af0ae1e80714b2c5dd49b88e8"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/fd/jy2zhtt.fd",
+      "bytes": 1196,
+      "sha256": "7b7c8cc5e84f3782d4fa43a8189ff6417c491607a3ae3a55a4cc7403f7f5f5ed"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/fontset/ctex-fontset-adobe.def",
+      "bytes": 4143,
+      "sha256": "f150471619d50e26ab4cead5a40608ea65b9c7d4ce5a593ced7671b33da63108"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/fontset/ctex-fontset-fandol.def",
+      "bytes": 4554,
+      "sha256": "b40e53afbc885efc048c7a54cb3cea41f236eebe3c5164b12b60cacfa1193897"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/fontset/ctex-fontset-founder.def",
+      "bytes": 4431,
+      "sha256": "329b6479fb33e4fc2f99de5cdbf0ea37331ea406bab5dff227a9fb4b89bd5faa"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/fontset/ctex-fontset-mac.def",
+      "bytes": 1427,
+      "sha256": "8b76f3297eab28b12e1f035642a8f72414b12a4274d73a2f969df78949f087f1"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/fontset/ctex-fontset-macnew.def",
+      "bytes": 5350,
+      "sha256": "1e158c46ab8e2e6b25de021b2c0185b8a5320b6341ef22c813dfd5c0db274b7f"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/fontset/ctex-fontset-macold.def",
+      "bytes": 2068,
+      "sha256": "722acd8b61e0a783288f96be56dcfb50794b88b8596978b8b7beed1cf36bda8c"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/fontset/ctex-fontset-ubuntu.def",
+      "bytes": 3984,
+      "sha256": "c37bb5d74fb723fc04fc840d4e7d74e2018b21d998abb861eaa795b346f20678"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/fontset/ctex-fontset-windows.def",
+      "bytes": 4952,
+      "sha256": "2b96fb8a96e08299b552cf32b6e8a173f66143dfc7142d294ea280329d924b7d"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/heading/ctex-heading-article.def",
+      "bytes": 24735,
+      "sha256": "1c4d48dee90c9b50179287e6b5c50d150fbd6a4bbb71a9f693dd2841bc71aec6"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/heading/ctex-heading-beamer.def",
+      "bytes": 9077,
+      "sha256": "64f95fe9222915613d639231866c25acbc4229cfe838c6605150d0a4d66e3f75"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/heading/ctex-heading-book.def",
+      "bytes": 28253,
+      "sha256": "6763abf46497a8b827d548c0b8d5fd58dc6a036782d07592738924c86088af20"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/heading/ctex-heading-report.def",
+      "bytes": 28118,
+      "sha256": "04942ad3f262c1fe911a5545213895a1f21f37b860d82026bd9d8289e511fea9"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/scheme/ctex-scheme-chinese-article.def",
+      "bytes": 4622,
+      "sha256": "cb6461f507b40cbc30f910403081fec6932ce412abcf6e4865e0c88e35596fc4"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/scheme/ctex-scheme-chinese-beamer.def",
+      "bytes": 2785,
+      "sha256": "bef8408806f6f508c78fcbfaebd017459dad13985e11d8f8805a835ba7d771f6"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/scheme/ctex-scheme-chinese-book.def",
+      "bytes": 5190,
+      "sha256": "88f02b637c6861f82036dafaec946870373d9955a7b4d58c45ae4ec299c5f98a"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/scheme/ctex-scheme-chinese-report.def",
+      "bytes": 5200,
+      "sha256": "e714dd8d4e0996ea205e6df90ac0da4c9751e55d10ca1a0afc35f6b3fc7af8e2"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/scheme/ctex-scheme-chinese.def",
+      "bytes": 2309,
+      "sha256": "06dff6fd73d34cfa6d65d6c20f2ef043844f4076b9ea7cff91554f582587f4b9"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/scheme/ctex-scheme-plain-article.def",
+      "bytes": 4089,
+      "sha256": "096c5920e40dbbbc3986d7212bdffb76c490dc9532f0b6c380346c0fb747172f"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/scheme/ctex-scheme-plain-beamer.def",
+      "bytes": 2414,
+      "sha256": "c8f37202a337aba58589513d4d95609af4ea662593be00238adb043c17b4b5ed"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/scheme/ctex-scheme-plain-book.def",
+      "bytes": 4802,
+      "sha256": "97e21f0ed3fc14703dadf956dcde4df130bacf427c34542bbff82f1c7d2b9d75"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/scheme/ctex-scheme-plain-report.def",
+      "bytes": 4812,
+      "sha256": "d17e99bf07e99ea134038fe3967fbdef9b9c23fc24da0eec2c105a6cca7409d2"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/ctex/scheme/ctex-scheme-plain.def",
+      "bytes": 1277,
+      "sha256": "8d49bcc2f5f63ce60f5c292cb840bb1a8f6c49e348db8892d67cf36529e5eabf"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/zhnumber/zhnumber-big5.cfg",
+      "bytes": 4940,
+      "sha256": "5a39a2d3295836f7911b3b4bef1404ebf67762c415a8c6f51df2e627a978fc90"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/zhnumber/zhnumber-gbk.cfg",
+      "bytes": 5607,
+      "sha256": "9b25259f0a0ccc18796d0266e0f0f7947d72bc4befa556e3758aeeb2e1d37aee"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/zhnumber/zhnumber-utf8.cfg",
+      "bytes": 5700,
+      "sha256": "55de8dddc989474abc973f76fb08a19321650046584f6b54e7e746a0cb30ba54"
+    },
+    {
+      "path": "vendor/texmf/tex/latex/zhnumber/zhnumber.sty",
+      "bytes": 38160,
+      "sha256": "eb315870e85d0bbce058f52ac9dfd16c177a98ffba1abedd0eca29a7fdd952ae"
+    },
+    {
+      "path": "vendor/texmf/tex/luatex/ctex/ctex-zhconv-index.lua",
+      "bytes": 966719,
+      "sha256": "c3cc5956530d21f71b148af587c42adbd90df5df28974937455612b0b1fbab7c"
+    },
+    {
+      "path": "vendor/texmf/tex/luatex/ctex/ctex-zhconv.lua",
+      "bytes": 6180,
+      "sha256": "b1f73e869c96c73781c9a0beee2d002c3fd05f96df3f88696c0048cadb4d0178"
+    },
+    {
+      "path": "vendor/texmf/tex/xelatex/xecjk/xeCJK-listings.sty",
+      "bytes": 13930,
+      "sha256": "1f5a7af47fb1137dabe3a2f700e0664fce3f49eb604c5132f45f52e8138ecac9"
+    },
+    {
+      "path": "vendor/texmf/tex/xelatex/xecjk/xeCJK.cfg",
+      "bytes": 408,
+      "sha256": "d4fd750245a9702da242938637ece678b37862da73d1cf7d15df931828482a5c"
+    },
+    {
+      "path": "vendor/texmf/tex/xelatex/xecjk/xeCJK.sty",
+      "bytes": 183137,
+      "sha256": "c61660692befbcec0b52dfb3e2e69b360cbd3e187e07565d722a296df8e893ef"
+    },
+    {
+      "path": "vendor/texmf/tex/xelatex/xecjk/xeCJKfntef.sty",
+      "bytes": 39577,
+      "sha256": "3388a7a7d4c88c533d22cc6dbcb0e7b18b6bd1411376bfa5be6c3e5d6df9a35d"
+    },
+    {
+      "path": "vendor/texmf/tex/xelatex/xecjk/xunicode-addon.sty",
+      "bytes": 26486,
+      "sha256": "35a1503066b259f4c603aac031777cc86e1b14ae9aa793199ed2502ae079a026"
+    },
+    {
+      "path": "vendor/texmf/tex/xelatex/xecjk/xunicode-extra.def",
+      "bytes": 61684,
+      "sha256": "2563fa4faadcdb8c39de05fb9f98431685f617dd08a5cad81da2b60d1c59646c"
+    }
+  ]
+}

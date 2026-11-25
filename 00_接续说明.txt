@@ -1,0 +1,51 @@
+简便计算 · 续作入口
+整理日期：2026-11-19（北京时间）
+
+【在新对话中继续】
+提供本仓库链接或上传本工程 ZIP，并发送：
+“请解压工程包，先阅读 00_接续说明.txt、README.md 和 AGENTS.md，运行校验，再在现行 src 源码上继续。保留原题顺序和最后确认的答案对齐方式。”
+
+工程包保留文件、资源、构建入口与检查记录；它不会使旧对话的运行进程在新对话中自动继续。新环境仍须具备 README 所列 Python、XeLaTeX 等依赖。现有成品可直接打开。
+
+【现行入口：只从这里继续编辑】
+src/简便计算_A4_题目.tex
+src/简便计算_A4答案_新版.tex
+src/简便计算_A4合订本_新版.tex
+src/简便计算_题目4页.tex
+对应成品位于 outputs/；两张现行预览位于 assets/previews/。
+history/ 只供追溯，不是默认编辑或构建来源。
+
+【必须保持的要求】
+1. 共84题，4组，每组21题、7行3列；原题顺序和重复题均保留。
+2. 纸质文档为A4纵向、ctexart默认字体。纯题目版仅标题“简便计算”和题目，并保留计算空间。
+3. 答案4页；合订本8页，前4页题目、后4页完整脱式答案。能简算的题保留简算步骤。
+4. 最终答案对齐以 originals/image-1790688344875.jpg 为准：等号独立成列；首行等号列为空；原题和后续完整算式左端对齐。左括号正常占位，不悬挂，不把题目向左偏移。
+5. 题目PPT为16:9横向，共4页，每页21题；每页仅标题和题目，无封面、答案或讲解页。公式采用LaTeX排版。
+6. 第3页第11题为93000÷8÷125=93。此次复核确认原图本来就是93000，早期对话中的9300是误读。第4页第10题9300÷4÷25=93是另一道题。
+
+【运行：在工程根目录执行】
+python -m pip install -r requirements.txt
+python tools/verify_package.py
+python tools/verify_math.py
+python tools/build.py --target all
+
+构建写入 build/，不覆盖 outputs/ 中已交付的原文件。构建后可执行：
+python tools/verify_math.py --pdf-dir build
+
+【本次检查与边界】
+已找回现行11份文件（4份源码、5份成品、2张预览）及5张原图/参考图。
+已逐图核对84题；258步等式精确计算全部通过；现行PDF内容、页数及答案对齐检查通过。详见 checks/math_review.txt 和 checks/math_validation.json。
+PPT原生成脚本未找回；tools/rebuild_pptx.py 是本次补写。以现有幻灯片PDF为输入重建后，LibreOffice导出的4页与原PPT对应渲染逐像素一致。未在PowerPoint或WPS桌面界面验证。详见 checks/pptx_重建与使用说明.txt。
+完整干净解压及编译验证：已通过。ZIP解压到另一目录后，不使用旧build缓存，完成4份源码的XeLaTeX编译及4页PPT重建；4份PDF共20页在144dpi下与交付原件逐页像素一致。详见 checks/clean_extract_build.json 和 checks/pdf_render_comparison.json。
+
+另找回3份旧A3文件；27条早期文件引用未能读取，详见 history/source_inventory.json。未找回的旧文件没有被虚构补齐；它们不是现行构建的输入。
+包内附兼容版ctex、xeCJK、zhnumber和Fandol默认字体及许可；整个TeX引擎、Office软件和完整系统环境不随包。
+
+【下一步】
+84题正文制作已完成，没有指定尚待解答的某页某题。先完成上述校验，再按用户新要求修改。若用户未提出新改动，保留当前成品和排版。
+最近一次“9附件全套邮件”的发送调用为aborted，不能记录为已送达；本轮只整理工程包，不发送新邮件。
+
+【公开仓库】
+标题：20260930国庆假期四年级上简便计算作业
+地址：https://github.com/liyiliuxingyu/20260930-guoqing-jiaqi-sinianji-shang-jianbian-jisuan-zuoye
+公开整理日期：2026-11-25。来源清单中的账户文件标识及个人邮箱已从公开副本省略，现行文件和恢复状态不变。详见PUBLICATION.md。
