@@ -1,0 +1,162 @@
+% !TeX program = xelatex
+% UTF-8；使用 ctexart 默认字体，不指定 fontset 或字体名称。
+% A3 纵向；题目与答案按页、行、列一一对应。
+\documentclass[UTF8]{ctexart}
+\usepackage[a3paper,top=16mm,bottom=16mm,left=16mm,right=16mm]{geometry}
+\usepackage{amsmath}
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+\setlength{\jot}{2pt}
+
+% 仅调整字号与间距，不切换中文、正文或数学字体。
+\newcommand{\sheettitle}[1]{%
+  \begin{center}
+    {\zihao{1} #1\par}
+  \end{center}
+  \vspace{8mm}%
+}
+\newcommand{\cell}[1]{%
+  \begin{minipage}[t][49mm][t]{0.315\textwidth}%
+    \vspace{0pt}%
+    \linespread{1}\zihao{3}%
+    #1%
+  \end{minipage}%
+}
+\newcommand{\sheetrow}[3]{%
+  \noindent\cell{#1}\hfill\cell{#2}\hfill\cell{#3}\par
+  \nointerlineskip
+}
+\begin{document}
+
+% 第 1 页
+\sheettitle{简便计算}
+\sheetrow
+{\(608-491\)}
+{\(730\div 5\div 2\)}
+{\(212-97\)}
+\sheetrow
+{\(25\times (4\times 54)\)}
+{\(4\times 61\times 5\)}
+{\(125\times (8\times 39)\)}
+\sheetrow
+{\(9\times 125\times 8\times 3\)}
+{\(216-96\)}
+{\(5\times 93\times 4\)}
+\sheetrow
+{\(5\times 51\times 4\)}
+{\(209-95\)}
+{\(55\times 25\times 8\)}
+\sheetrow
+{\(125\times 11\times 8\)}
+{\(320-208\)}
+{\(5\times 69\times 4\)}
+\sheetrow
+{\(89000\div 125\div 8\)}
+{\(125\times (8\times 92)\)}
+{\(9\times 4\times 25\times 5\)}
+\sheetrow
+{\(500\div 5\div 4\)}
+{\(320\div 10\div 2\)}
+{\(2100\div 25\div 4\)}
+
+\newpage
+
+% 第 2 页
+\sheettitle{简便计算}
+\sheetrow
+{\(1920\div 4\div 5\)}
+{\(296-207\)}
+{\(56\times 125\)}
+\sheetrow
+{\(760\div 2\div 10\)}
+{\(163-103\)}
+{\(1420\div 10\div 2\)}
+\sheetrow
+{\(125\times 79\times 8\)}
+{\(57\times 8\times 125\)}
+{\(18000\div 8\div 125\)}
+\sheetrow
+{\(9\times 125\times 8\times 3\)}
+{\(54000\div 8\div 125\)}
+{\(125\times 27\times 8\)}
+\sheetrow
+{\(5\times 53\times 4\)}
+{\(5\times 79\times 4\)}
+{\(15\times 25\times 8\)}
+\sheetrow
+{\(13\times 125\times 4\)}
+{\(509-408\)}
+{\(25\times 89\times 4\)}
+\sheetrow
+{\(125\times 12\)}
+{\(4\times 77\times 25\)}
+{\(172-94\)}
+
+\newpage
+
+% 第 3 页
+\sheettitle{简便计算}
+\sheetrow
+{\(4\times 39\times 25\)}
+{\(900\div 2\div 5\)}
+{\(9100\div 4\div 25\)}
+\sheetrow
+{\(8\times (125\times 19)\)}
+{\(19000\div 8\div 125\)}
+{\(299-108\)}
+\sheetrow
+{\(47\times 8\times 125\)}
+{\(484-392\)}
+{\(5\times 49\times 4\)}
+\sheetrow
+{\(399-296\)}
+{\(93000\div 8\div 125\)}
+{\(25\times 72\)}
+\sheetrow
+{\(13\times 125\times 8\)}
+{\(230\div 5\div 2\)}
+{\(167-91\)}
+\sheetrow
+{\(190-109\)}
+{\(9\times 8\times 125\times 6\)}
+{\(7\times 25\times 4\times 5\)}
+\sheetrow
+{\(508-399\)}
+{\(25\times 79\times 4\)}
+{\(5\times 19\times 4\)}
+
+\newpage
+
+% 第 4 页
+\sheettitle{简便计算}
+\sheetrow
+{\(420\div 5\div 2\)}
+{\(125\times 63\times 8\)}
+{\(387-192\)}
+\sheetrow
+{\(64\times 125\)}
+{\(810\div 2\div 5\)}
+{\(5\times 25\times 4\times 6\)}
+\sheetrow
+{\(88\times 25\)}
+{\(250\div 5\div 2\)}
+{\(2\times 49\times 5\)}
+\sheetrow
+{\(9300\div 4\div 25\)}
+{\(159-104\)}
+{\(288-193\)}
+\sheetrow
+{\(9\times 25\times 4\times 3\)}
+{\(478-407\)}
+{\(16\times 125\)}
+\sheetrow
+{\(7\times 125\times 4\times 8\)}
+{\(4\times 67\times 5\)}
+{\(25\times 79\times 4\)}
+\sheetrow
+{\(603-505\)}
+{\(330\div 2\div 5\)}
+{\(8\times 51\times 125\)}
+
+\end{document}

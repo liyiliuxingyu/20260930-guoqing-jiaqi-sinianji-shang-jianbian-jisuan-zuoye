@@ -1,0 +1,588 @@
+% !TeX program = xelatex
+% UTF-8；使用 ctexart 默认字体，不指定 fontset 或字体名称。
+% A3 纵向；题目与答案按页、行、列一一对应。
+\documentclass[UTF8]{ctexart}
+\usepackage[a3paper,top=16mm,bottom=16mm,left=16mm,right=16mm]{geometry}
+\usepackage{amsmath}
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+\setlength{\jot}{2pt}
+
+% 仅调整字号与间距，不切换中文、正文或数学字体。
+\newcommand{\sheettitle}[1]{%
+  \begin{center}
+    {\zihao{1} #1\par}
+  \end{center}
+  \vspace{8mm}%
+}
+\newcommand{\cell}[1]{%
+  \begin{minipage}[t][49mm][t]{0.315\textwidth}%
+    \vspace{0pt}%
+    \linespread{1}\zihao{3}%
+    #1%
+  \end{minipage}%
+}
+\newcommand{\sheetrow}[3]{%
+  \noindent\cell{#1}\hfill\cell{#2}\hfill\cell{#3}\par
+  \nointerlineskip
+}
+\begin{document}
+
+% 第 1 页
+\sheettitle{简便计算（答案）}
+\sheetrow
+{\(\begin{aligned}[t]
+& 608-491 \\
+& = 608-500+9 \\
+& = 108+9 \\
+& = 117
+\end{aligned}\)}
+{\(\begin{aligned}[t]
+& 730\div 5\div 2 \\
+& = 730\div (5\times 2) \\
+& = 730\div 10 \\
+& = 73
+\end{aligned}\)}
+{\(\begin{aligned}[t]
+& 212-97 \\
+& = 212-100+3 \\
+& = 112+3 \\
+& = 115
+\end{aligned}\)}
+\sheetrow
+{\(\begin{aligned}[t]
+& 25\times (4\times 54) \\
+& = (25\times 4)\times 54 \\
+& = 100\times 54 \\
+& = 5400
+\end{aligned}\)}
+{\(\begin{aligned}[t]
+& 4\times 61\times 5 \\
+& = (4\times 5)\times 61 \\
+& = 20\times 61 \\
+& = 1220
+\end{aligned}\)}
+{\(\begin{aligned}[t]
+& 125\times (8\times 39) \\
+& = (125\times 8)\times 39 \\
+& = 1000\times 39 \\
+& = 39000
+\end{aligned}\)}
+\sheetrow
+{\(\begin{aligned}[t]
+& 9\times 125\times 8\times 3 \\
+& = (9\times 3)\times (125\times 8) \\
+& = 27\times 1000 \\
+& = 27000
+\end{aligned}\)}
+{\(\begin{aligned}[t]
+& 216-96 \\
+& = 216-100+4 \\
+& = 116+4 \\
+& = 120
+\end{aligned}\)}
+{\(\begin{aligned}[t]
+& 5\times 93\times 4 \\
+& = (5\times 4)\times 93 \\
+& = 20\times 93 \\
+& = 1860
+\end{aligned}\)}
+\sheetrow
+{\(\begin{aligned}[t]
+& 5\times 51\times 4 \\
+& = (5\times 4)\times 51 \\
+& = 20\times 51 \\
+& = 1020
+\end{aligned}\)}
+{\(\begin{aligned}[t]
+& 209-95 \\
+& = 209-100+5 \\
+& = 109+5 \\
+& = 114
+\end{aligned}\)}
+{\(\begin{aligned}[t]
+& 55\times 25\times 8 \\
+& = 55\times (25\times 8) \\
+& = 55\times 200 \\
+& = 11000
+\end{aligned}\)}
+\sheetrow
+{\(\begin{aligned}[t]
+& 125\times 11\times 8 \\
+& = (125\times 8)\times 11 \\
+& = 1000\times 11 \\
+& = 11000
+\end{aligned}\)}
+{\(\begin{aligned}[t]
+& 320-208 \\
+& = 320-200-8 \\
+& = 120-8 \\
+& = 112
+\end{aligned}\)}
+{\(\begin{aligned}[t]
+& 5\times 69\times 4 \\
+& = (5\times 4)\times 69 \\
+& = 20\times 69 \\
+& = 1380
+\end{aligned}\)}
+\sheetrow
+{\(\begin{aligned}[t]
+& 89000\div 125\div 8 \\
+& = 89000\div (125\times 8) \\
+& = 89000\div 1000 \\
+& = 89
+\end{aligned}\)}
+{\(\begin{aligned}[t]
+& 125\times (8\times 92) \\
+& = (125\times 8)\times 92 \\
+& = 1000\times 92 \\
+& = 92000
+\end{aligned}\)}
+{\(\begin{aligned}[t]
+& 9\times 4\times 25\times 5 \\
+& = (9\times 5)\times (4\times 25) \\
+& = 45\times 100 \\
+& = 4500
+\end{aligned}\)}
+\sheetrow
+{\(\begin{aligned}[t]
+& 500\div 5\div 4 \\
+& = 500\div (5\times 4) \\
+& = 500\div 20 \\
+& = 25
+\end{aligned}\)}
+{\(\begin{aligned}[t]
+& 320\div 10\div 2 \\
+& = 320\div (10\times 2) \\
+& = 320\div 20 \\
+& = 16
+\end{aligned}\)}
+{\(\begin{aligned}[t]
+& 2100\div 25\div 4 \\
+& = 2100\div (25\times 4) \\
+& = 2100\div 100 \\
+& = 21
+\end{aligned}\)}
+
+\newpage
+
+% 第 2 页
+\sheettitle{简便计算（答案）}
+\sheetrow
+{\(\begin{aligned}[t]
+& 1920\div 4\div 5 \\
+& = 1920\div (4\times 5) \\
+& = 1920\div 20 \\
+& = 96
+\end{aligned}\)}
+{\(\begin{aligned}[t]
+& 296-207 \\
+& = 296-200-7 \\
+& = 96-7 \\
+& = 89
+\end{aligned}\)}
+{\(\begin{aligned}[t]
+& 56\times 125 \\
+& = (7\times 8)\times 125 \\
+& = 7\times (8\times 125) \\
+& = 7\times 1000 \\
+& = 7000
+\end{aligned}\)}
+\sheetrow
+{\(\begin{aligned}[t]
+& 760\div 2\div 10 \\
+& = 760\div (2\times 10) \\
+& = 760\div 20 \\
+& = 38
+\end{aligned}\)}
+{\(\begin{aligned}[t]
+& 163-103 \\
+& = 163-100-3 \\
+& = 63-3 \\
+& = 60
+\end{aligned}\)}
+{\(\begin{aligned}[t]
+& 1420\div 10\div 2 \\
+& = 1420\div (10\times 2) \\
+& = 1420\div 20 \\
+& = 71
+\end{aligned}\)}
+\sheetrow
+{\(\begin{aligned}[t]
+& 125\times 79\times 8 \\
+& = (125\times 8)\times 79 \\
+& = 1000\times 79 \\
+& = 79000
+\end{aligned}\)}
+{\(\begin{aligned}[t]
+& 57\times 8\times 125 \\
+& = 57\times (8\times 125) \\
+& = 57\times 1000 \\
+& = 57000
+\end{aligned}\)}
+{\(\begin{aligned}[t]
+& 18000\div 8\div 125 \\
+& = 18000\div (8\times 125) \\
+& = 18000\div 1000 \\
+& = 18
+\end{aligned}\)}
+\sheetrow
+{\(\begin{aligned}[t]
+& 9\times 125\times 8\times 3 \\
+& = (9\times 3)\times (125\times 8) \\
+& = 27\times 1000 \\
+& = 27000
+\end{aligned}\)}
+{\(\begin{aligned}[t]
+& 54000\div 8\div 125 \\
+& = 54000\div (8\times 125) \\
+& = 54000\div 1000 \\
+& = 54
+\end{aligned}\)}
+{\(\begin{aligned}[t]
+& 125\times 27\times 8 \\
+& = (125\times 8)\times 27 \\
+& = 1000\times 27 \\
+& = 27000
+\end{aligned}\)}
+\sheetrow
+{\(\begin{aligned}[t]
+& 5\times 53\times 4 \\
+& = (5\times 4)\times 53 \\
+& = 20\times 53 \\
+& = 1060
+\end{aligned}\)}
+{\(\begin{aligned}[t]
+& 5\times 79\times 4 \\
+& = (5\times 4)\times 79 \\
+& = 20\times 79 \\
+& = 1580
+\end{aligned}\)}
+{\(\begin{aligned}[t]
+& 15\times 25\times 8 \\
+& = 15\times (25\times 8) \\
+& = 15\times 200 \\
+& = 3000
+\end{aligned}\)}
+\sheetrow
+{\(\begin{aligned}[t]
+& 13\times 125\times 4 \\
+& = 13\times (125\times 4) \\
+& = 13\times 500 \\
+& = 6500
+\end{aligned}\)}
+{\(\begin{aligned}[t]
+& 509-408 \\
+& = 509-400-8 \\
+& = 109-8 \\
+& = 101
+\end{aligned}\)}
+{\(\begin{aligned}[t]
+& 25\times 89\times 4 \\
+& = (25\times 4)\times 89 \\
+& = 100\times 89 \\
+& = 8900
+\end{aligned}\)}
+\sheetrow
+{\(\begin{aligned}[t]
+& 125\times 12 \\
+& = 125\times (4\times 3) \\
+& = (125\times 4)\times 3 \\
+& = 500\times 3 \\
+& = 1500
+\end{aligned}\)}
+{\(\begin{aligned}[t]
+& 4\times 77\times 25 \\
+& = (4\times 25)\times 77 \\
+& = 100\times 77 \\
+& = 7700
+\end{aligned}\)}
+{\(\begin{aligned}[t]
+& 172-94 \\
+& = 172-100+6 \\
+& = 72+6 \\
+& = 78
+\end{aligned}\)}
+
+\newpage
+
+% 第 3 页
+\sheettitle{简便计算（答案）}
+\sheetrow
+{\(\begin{aligned}[t]
+& 4\times 39\times 25 \\
+& = (4\times 25)\times 39 \\
+& = 100\times 39 \\
+& = 3900
+\end{aligned}\)}
+{\(\begin{aligned}[t]
+& 900\div 2\div 5 \\
+& = 900\div (2\times 5) \\
+& = 900\div 10 \\
+& = 90
+\end{aligned}\)}
+{\(\begin{aligned}[t]
+& 9100\div 4\div 25 \\
+& = 9100\div (4\times 25) \\
+& = 9100\div 100 \\
+& = 91
+\end{aligned}\)}
+\sheetrow
+{\(\begin{aligned}[t]
+& 8\times (125\times 19) \\
+& = (8\times 125)\times 19 \\
+& = 1000\times 19 \\
+& = 19000
+\end{aligned}\)}
+{\(\begin{aligned}[t]
+& 19000\div 8\div 125 \\
+& = 19000\div (8\times 125) \\
+& = 19000\div 1000 \\
+& = 19
+\end{aligned}\)}
+{\(\begin{aligned}[t]
+& 299-108 \\
+& = 299-100-8 \\
+& = 199-8 \\
+& = 191
+\end{aligned}\)}
+\sheetrow
+{\(\begin{aligned}[t]
+& 47\times 8\times 125 \\
+& = 47\times (8\times 125) \\
+& = 47\times 1000 \\
+& = 47000
+\end{aligned}\)}
+{\(\begin{aligned}[t]
+& 484-392 \\
+& = 484-400+8 \\
+& = 84+8 \\
+& = 92
+\end{aligned}\)}
+{\(\begin{aligned}[t]
+& 5\times 49\times 4 \\
+& = (5\times 4)\times 49 \\
+& = 20\times 49 \\
+& = 980
+\end{aligned}\)}
+\sheetrow
+{\(\begin{aligned}[t]
+& 399-296 \\
+& = 399-300+4 \\
+& = 99+4 \\
+& = 103
+\end{aligned}\)}
+{\(\begin{aligned}[t]
+& 93000\div 8\div 125 \\
+& = 93000\div (8\times 125) \\
+& = 93000\div 1000 \\
+& = 93
+\end{aligned}\)}
+{\(\begin{aligned}[t]
+& 25\times 72 \\
+& = 25\times (4\times 18) \\
+& = (25\times 4)\times 18 \\
+& = 100\times 18 \\
+& = 1800
+\end{aligned}\)}
+\sheetrow
+{\(\begin{aligned}[t]
+& 13\times 125\times 8 \\
+& = 13\times (125\times 8) \\
+& = 13\times 1000 \\
+& = 13000
+\end{aligned}\)}
+{\(\begin{aligned}[t]
+& 230\div 5\div 2 \\
+& = 230\div (5\times 2) \\
+& = 230\div 10 \\
+& = 23
+\end{aligned}\)}
+{\(\begin{aligned}[t]
+& 167-91 \\
+& = 167-100+9 \\
+& = 67+9 \\
+& = 76
+\end{aligned}\)}
+\sheetrow
+{\(\begin{aligned}[t]
+& 190-109 \\
+& = 190-100-9 \\
+& = 90-9 \\
+& = 81
+\end{aligned}\)}
+{\(\begin{aligned}[t]
+& 9\times 8\times 125\times 6 \\
+& = (9\times 6)\times (8\times 125) \\
+& = 54\times 1000 \\
+& = 54000
+\end{aligned}\)}
+{\(\begin{aligned}[t]
+& 7\times 25\times 4\times 5 \\
+& = (7\times 5)\times (25\times 4) \\
+& = 35\times 100 \\
+& = 3500
+\end{aligned}\)}
+\sheetrow
+{\(\begin{aligned}[t]
+& 508-399 \\
+& = 508-400+1 \\
+& = 108+1 \\
+& = 109
+\end{aligned}\)}
+{\(\begin{aligned}[t]
+& 25\times 79\times 4 \\
+& = (25\times 4)\times 79 \\
+& = 100\times 79 \\
+& = 7900
+\end{aligned}\)}
+{\(\begin{aligned}[t]
+& 5\times 19\times 4 \\
+& = (5\times 4)\times 19 \\
+& = 20\times 19 \\
+& = 380
+\end{aligned}\)}
+
+\newpage
+
+% 第 4 页
+\sheettitle{简便计算（答案）}
+\sheetrow
+{\(\begin{aligned}[t]
+& 420\div 5\div 2 \\
+& = 420\div (5\times 2) \\
+& = 420\div 10 \\
+& = 42
+\end{aligned}\)}
+{\(\begin{aligned}[t]
+& 125\times 63\times 8 \\
+& = (125\times 8)\times 63 \\
+& = 1000\times 63 \\
+& = 63000
+\end{aligned}\)}
+{\(\begin{aligned}[t]
+& 387-192 \\
+& = 387-200+8 \\
+& = 187+8 \\
+& = 195
+\end{aligned}\)}
+\sheetrow
+{\(\begin{aligned}[t]
+& 64\times 125 \\
+& = (8\times 8)\times 125 \\
+& = 8\times (8\times 125) \\
+& = 8\times 1000 \\
+& = 8000
+\end{aligned}\)}
+{\(\begin{aligned}[t]
+& 810\div 2\div 5 \\
+& = 810\div (2\times 5) \\
+& = 810\div 10 \\
+& = 81
+\end{aligned}\)}
+{\(\begin{aligned}[t]
+& 5\times 25\times 4\times 6 \\
+& = (5\times 6)\times (25\times 4) \\
+& = 30\times 100 \\
+& = 3000
+\end{aligned}\)}
+\sheetrow
+{\(\begin{aligned}[t]
+& 88\times 25 \\
+& = (22\times 4)\times 25 \\
+& = 22\times (4\times 25) \\
+& = 22\times 100 \\
+& = 2200
+\end{aligned}\)}
+{\(\begin{aligned}[t]
+& 250\div 5\div 2 \\
+& = 250\div (5\times 2) \\
+& = 250\div 10 \\
+& = 25
+\end{aligned}\)}
+{\(\begin{aligned}[t]
+& 2\times 49\times 5 \\
+& = (2\times 5)\times 49 \\
+& = 10\times 49 \\
+& = 490
+\end{aligned}\)}
+\sheetrow
+{\(\begin{aligned}[t]
+& 9300\div 4\div 25 \\
+& = 9300\div (4\times 25) \\
+& = 9300\div 100 \\
+& = 93
+\end{aligned}\)}
+{\(\begin{aligned}[t]
+& 159-104 \\
+& = 159-100-4 \\
+& = 59-4 \\
+& = 55
+\end{aligned}\)}
+{\(\begin{aligned}[t]
+& 288-193 \\
+& = 288-200+7 \\
+& = 88+7 \\
+& = 95
+\end{aligned}\)}
+\sheetrow
+{\(\begin{aligned}[t]
+& 9\times 25\times 4\times 3 \\
+& = (9\times 3)\times (25\times 4) \\
+& = 27\times 100 \\
+& = 2700
+\end{aligned}\)}
+{\(\begin{aligned}[t]
+& 478-407 \\
+& = 478-400-7 \\
+& = 78-7 \\
+& = 71
+\end{aligned}\)}
+{\(\begin{aligned}[t]
+& 16\times 125 \\
+& = (2\times 8)\times 125 \\
+& = 2\times (8\times 125) \\
+& = 2\times 1000 \\
+& = 2000
+\end{aligned}\)}
+\sheetrow
+{\(\begin{aligned}[t]
+& 7\times 125\times 4\times 8 \\
+& = (7\times 4)\times (125\times 8) \\
+& = 28\times 1000 \\
+& = 28000
+\end{aligned}\)}
+{\(\begin{aligned}[t]
+& 4\times 67\times 5 \\
+& = (4\times 5)\times 67 \\
+& = 20\times 67 \\
+& = 1340
+\end{aligned}\)}
+{\(\begin{aligned}[t]
+& 25\times 79\times 4 \\
+& = (25\times 4)\times 79 \\
+& = 100\times 79 \\
+& = 7900
+\end{aligned}\)}
+\sheetrow
+{\(\begin{aligned}[t]
+& 603-505 \\
+& = 603-500-5 \\
+& = 103-5 \\
+& = 98
+\end{aligned}\)}
+{\(\begin{aligned}[t]
+& 330\div 2\div 5 \\
+& = 330\div (2\times 5) \\
+& = 330\div 10 \\
+& = 33
+\end{aligned}\)}
+{\(\begin{aligned}[t]
+& 8\times 51\times 125 \\
+& = (8\times 125)\times 51 \\
+& = 1000\times 51 \\
+& = 51000
+\end{aligned}\)}
+
+\end{document}
