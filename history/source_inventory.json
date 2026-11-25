@@ -1,0 +1,471 @@
+{
+  "checked_date": "2026-11-19",
+  "total_references": 46,
+  "retrieved": 19,
+  "unavailable": 27,
+  "items": [
+    {
+      "index": 1,
+      "file_name": "简便计算_答案对齐预览.png",
+      "category": "current",
+      "status": "retrieved",
+      "unavailable_items": [],
+      "archive_path": "assets/previews/简便计算_答案对齐预览.png",
+      "sha256": "172f20d56e20a173567ab6f9c9644c41e00b285c9fa348d85528dcba149bcc0d",
+      "bytes": 29016
+    },
+    {
+      "index": 2,
+      "file_name": "简便计算_A4答案_新版.pdf",
+      "category": "current",
+      "status": "retrieved",
+      "unavailable_items": [],
+      "archive_path": "outputs/简便计算_A4答案_新版.pdf",
+      "sha256": "112068afbda7d685de35453b2b7479e2ced3d0ff0811cf93795bd40829713843",
+      "bytes": 12131
+    },
+    {
+      "index": 3,
+      "file_name": "简便计算_A4答案_新版.tex",
+      "category": "current",
+      "status": "retrieved",
+      "unavailable_items": [],
+      "archive_path": "src/简便计算_A4答案_新版.tex",
+      "sha256": "6a1721cc49345d77164299e74588cf0172526ca8566a85af1d2d0a00cf8338b7",
+      "bytes": 10983
+    },
+    {
+      "index": 4,
+      "file_name": "简便计算_A4合订本_新版.pdf",
+      "category": "current",
+      "status": "retrieved",
+      "unavailable_items": [],
+      "archive_path": "outputs/简便计算_A4合订本_新版.pdf",
+      "sha256": "f07a3662b5d6342e37dc1fcbc0bff9675d1e1bf021b1f845ab48300273668345",
+      "bytes": 14301
+    },
+    {
+      "index": 5,
+      "file_name": "简便计算_A4合订本_新版.tex",
+      "category": "current",
+      "status": "retrieved",
+      "unavailable_items": [],
+      "archive_path": "src/简便计算_A4合订本_新版.tex",
+      "sha256": "3235bf8a802fa87315abbc13358f947091736d068d996e705be1e469d086ab3e",
+      "bytes": 13262
+    },
+    {
+      "index": 6,
+      "file_name": "简便计算_PPT四页预览.png",
+      "category": "current",
+      "status": "retrieved",
+      "unavailable_items": [],
+      "archive_path": "assets/previews/简便计算_PPT四页预览.png",
+      "sha256": "d6059716907c44e0738db3914a5d58304968af96ae5bbe2381d91344ac383cc1",
+      "bytes": 279765
+    },
+    {
+      "index": 7,
+      "file_name": "简便计算_题目4页.pptx",
+      "category": "current",
+      "status": "retrieved",
+      "unavailable_items": [],
+      "archive_path": "outputs/简便计算_题目4页.pptx",
+      "sha256": "0f8cc37247f69e72a8c11d815ebb92c54db8f5e552610502c22a2eafa9723917",
+      "bytes": 1535137
+    },
+    {
+      "index": 8,
+      "file_name": "简便计算_题目4页.pdf",
+      "category": "current",
+      "status": "retrieved",
+      "unavailable_items": [],
+      "archive_path": "outputs/简便计算_题目4页.pdf",
+      "sha256": "ff4e0b01a6b0cb39d1e5f7aa7209e5d105b746d290a37d39c09a676fb3786fd5",
+      "bytes": 8565
+    },
+    {
+      "index": 9,
+      "file_name": "简便计算_题目4页.tex",
+      "category": "current",
+      "status": "retrieved",
+      "unavailable_items": [],
+      "archive_path": "src/简便计算_题目4页.tex",
+      "sha256": "482541b0114a89476ee707e2918a3256bd999e0b31476f2cd88be28b8aa19bc8",
+      "bytes": 2877
+    },
+    {
+      "index": 10,
+      "file_name": "image-1790688344875.jpg",
+      "category": "originals",
+      "status": "retrieved",
+      "unavailable_items": [],
+      "archive_path": "originals/image-1790688344875.jpg",
+      "sha256": "74fefe669ca14dde7fae92f54988cfc1969f2b992f7fc11021eb3e3e41e6085f",
+      "bytes": 134838
+    },
+    {
+      "index": 11,
+      "file_name": "简便计算_A4_题目.pdf",
+      "category": "current",
+      "status": "retrieved",
+      "unavailable_items": [],
+      "archive_path": "outputs/简便计算_A4_题目.pdf",
+      "sha256": "1faa68cdd7917921321b8c8e4d83ecfe97eafbadde2adb9839fed2e0cb3d841e",
+      "bytes": 8484
+    },
+    {
+      "index": 12,
+      "file_name": "简便计算_A4_题目.tex",
+      "category": "current",
+      "status": "retrieved",
+      "unavailable_items": [],
+      "archive_path": "src/简便计算_A4_题目.tex",
+      "sha256": "72afb10ddc4e1bf49b16601ea86fb2ef2727c1c2e610b589f6b2a66e0b288b15",
+      "bytes": 3934
+    },
+    {
+      "index": 13,
+      "file_name": "1000072209.jpg",
+      "category": "originals",
+      "status": "retrieved",
+      "unavailable_items": [],
+      "archive_path": "originals/1000072209.jpg",
+      "sha256": "455b3e16f96c7c1a1b4489a8fd4befbf7fc3b3259303a386635ad221f3175907",
+      "bytes": 89025
+    },
+    {
+      "index": 14,
+      "file_name": "1000072210.jpg",
+      "category": "originals",
+      "status": "retrieved",
+      "unavailable_items": [],
+      "archive_path": "originals/1000072210.jpg",
+      "sha256": "83c9cf7d41691ae4c0414a20fa5854413f7c8b50ec5211ef6fae1148337a439e",
+      "bytes": 86573
+    },
+    {
+      "index": 15,
+      "file_name": "1000072211.jpg",
+      "category": "originals",
+      "status": "retrieved",
+      "unavailable_items": [],
+      "archive_path": "originals/1000072211.jpg",
+      "sha256": "b27d6670f9202eb976d3fce78a972bd2233ac1d2df4fac9ee2dd47885a7976c1",
+      "bytes": 88676
+    },
+    {
+      "index": 16,
+      "file_name": "1000072212.jpg",
+      "category": "originals",
+      "status": "retrieved",
+      "unavailable_items": [],
+      "archive_path": "originals/1000072212.jpg",
+      "sha256": "98751c72ba1248bfeb4ebef9e7d60b7da9f33d3ea196d567102cfefd79a9582b",
+      "bytes": 89335
+    },
+    {
+      "index": 17,
+      "file_name": "简便计算_A4合订本.pdf",
+      "category": "history",
+      "status": "unavailable",
+      "error": "HTTP error prior to action invocation. HTTPException: 404: Library file not found.",
+      "note": "按给定引用尝试恢复未成功；名称检索未发现可替代的相同历史文件。不影响当前构建。"
+    },
+    {
+      "index": 18,
+      "file_name": "简便计算_A4合订本.tex",
+      "category": "history",
+      "status": "unavailable",
+      "error": "HTTP error prior to action invocation. HTTPException: 404: Library file not found.",
+      "note": "按给定引用尝试恢复未成功；名称检索未发现可替代的相同历史文件。不影响当前构建。"
+    },
+    {
+      "index": 19,
+      "file_name": "简便计算_A4_等号空白列对齐预览.png",
+      "category": "history",
+      "status": "unavailable",
+      "error": "HTTP error prior to action invocation. HTTPException: 404: Library file not found.",
+      "note": "按给定引用尝试恢复未成功；名称检索未发现可替代的相同历史文件。不影响当前构建。"
+    },
+    {
+      "index": 20,
+      "file_name": "简便计算_A4_答案_等号置于题前空白列.pdf",
+      "category": "history",
+      "status": "unavailable",
+      "error": "HTTP error prior to action invocation. HTTPException: 404: Library file not found.",
+      "note": "按给定引用尝试恢复未成功；名称检索未发现可替代的相同历史文件。不影响当前构建。"
+    },
+    {
+      "index": 21,
+      "file_name": "简便计算_A4_答案_等号置于题前空白列.tex",
+      "category": "history",
+      "status": "unavailable",
+      "error": "HTTP error prior to action invocation. HTTPException: 404: Library file not found.",
+      "note": "按给定引用尝试恢复未成功；名称检索未发现可替代的相同历史文件。不影响当前构建。"
+    },
+    {
+      "index": 22,
+      "file_name": "简便计算_A4_合订本_等号置于题前空白列.pdf",
+      "category": "history",
+      "status": "unavailable",
+      "error": "HTTP error prior to action invocation. HTTPException: 404: Library file not found.",
+      "note": "按给定引用尝试恢复未成功；名称检索未发现可替代的相同历史文件。不影响当前构建。"
+    },
+    {
+      "index": 23,
+      "file_name": "简便计算_A4_合订本_等号置于题前空白列.tex",
+      "category": "history",
+      "status": "unavailable",
+      "error": "HTTP error prior to action invocation. HTTPException: 404: Library file not found.",
+      "note": "按给定引用尝试恢复未成功；名称检索未发现可替代的相同历史文件。不影响当前构建。"
+    },
+    {
+      "index": 24,
+      "file_name": "简便计算_答案新对齐方式预览.png",
+      "category": "history",
+      "status": "unavailable",
+      "error": "HTTP error prior to action invocation. HTTPException: 404: Library file not found.",
+      "note": "按给定引用尝试恢复未成功；名称检索未发现可替代的相同历史文件。不影响当前构建。"
+    },
+    {
+      "index": 25,
+      "file_name": "简便计算_A4_答案_题目首位与等号末尾对齐.pdf",
+      "category": "history",
+      "status": "unavailable",
+      "error": "HTTP error prior to action invocation. HTTPException: 404: Library file not found.",
+      "note": "按给定引用尝试恢复未成功；名称检索未发现可替代的相同历史文件。不影响当前构建。"
+    },
+    {
+      "index": 26,
+      "file_name": "简便计算_A4_答案_题目首位与等号末尾对齐.tex",
+      "category": "history",
+      "status": "unavailable",
+      "error": "HTTP error prior to action invocation. HTTPException: 404: Library file not found.",
+      "note": "按给定引用尝试恢复未成功；名称检索未发现可替代的相同历史文件。不影响当前构建。"
+    },
+    {
+      "index": 27,
+      "file_name": "简便计算_A4_合订本_题目首位与等号末尾对齐.pdf",
+      "category": "history",
+      "status": "unavailable",
+      "error": "HTTP error prior to action invocation. HTTPException: 404: Library file not found.",
+      "note": "按给定引用尝试恢复未成功；名称检索未发现可替代的相同历史文件。不影响当前构建。"
+    },
+    {
+      "index": 28,
+      "file_name": "简便计算_A4_合订本_题目首位与等号末尾对齐.tex",
+      "category": "history",
+      "status": "unavailable",
+      "error": "HTTP error prior to action invocation. HTTPException: 404: Library file not found.",
+      "note": "按给定引用尝试恢复未成功；名称检索未发现可替代的相同历史文件。不影响当前构建。"
+    },
+    {
+      "index": 29,
+      "file_name": "简便计算_A4_题目.pdf",
+      "category": "history",
+      "status": "unavailable",
+      "error": "HTTP error prior to action invocation. HTTPException: 404: file_id does not match the Library file.",
+      "note": "旧file_id已不匹配同一文件的当前版本；当前版本另见现行第11条记录。未冒充找回旧版本。"
+    },
+    {
+      "index": 30,
+      "file_name": "简便计算_A4_完整脱式答案_等号与首位数对齐.pdf",
+      "category": "history",
+      "status": "unavailable",
+      "error": "HTTP error prior to action invocation. HTTPException: 404: Library file not found.",
+      "note": "按给定引用尝试恢复未成功；名称检索未发现可替代的相同历史文件。不影响当前构建。"
+    },
+    {
+      "index": 31,
+      "file_name": "简便计算_A4_题目与答案合订本.pdf",
+      "category": "history",
+      "status": "unavailable",
+      "error": "HTTP error prior to action invocation. HTTPException: 404: Library file not found.",
+      "note": "按给定引用尝试恢复未成功；名称检索未发现可替代的相同历史文件。不影响当前构建。"
+    },
+    {
+      "index": 32,
+      "file_name": "简便计算_A4_LaTeX源码.zip",
+      "category": "history",
+      "status": "unavailable",
+      "error": "HTTP error prior to action invocation. HTTPException: 404: Library file not found.",
+      "note": "按给定引用尝试恢复未成功；名称检索未发现可替代的相同历史文件。不影响当前构建。"
+    },
+    {
+      "index": 33,
+      "file_name": "简便计算_A3_ctexart默认字体_题目.pdf",
+      "category": "history",
+      "status": "retrieved",
+      "unavailable_items": [],
+      "archive_path": "history/retrieved/简便计算_A3_ctexart默认字体_题目.pdf",
+      "sha256": "192453304d155b2ea3324e3488ae21a75604a87d63e695494ce2dfbec3f23f6e",
+      "bytes": 8649
+    },
+    {
+      "index": 34,
+      "file_name": "简便计算_A3_ctexart默认字体_完整脱式答案.pdf",
+      "category": "history",
+      "status": "retrieved",
+      "unavailable_items": [],
+      "archive_path": "history/retrieved/简便计算_A3_ctexart默认字体_完整脱式答案.pdf",
+      "sha256": "95e0923b57d00c7d863451234eee703a1443f98eb340e1e39e7dc1e6bad822f5",
+      "bytes": 12412
+    },
+    {
+      "index": 35,
+      "file_name": "简便计算_A3_ctexart默认字体_LaTeX源码.zip",
+      "category": "history",
+      "status": "retrieved",
+      "unavailable_items": [],
+      "archive_path": "history/retrieved/简便计算_A3_ctexart默认字体_LaTeX源码.zip",
+      "sha256": "b653a6e65358e9fa52a9d189ce6c9e7b4a22e9e4daa605c5f2e8ac9654e127b0",
+      "bytes": 4557
+    },
+    {
+      "index": 36,
+      "file_name": "简便计算_A3仅题目预览版.pdf",
+      "category": "history",
+      "status": "unavailable",
+      "unavailable_items": [
+        {
+          "transfer_id": "materialize-1",
+          "file_name": "简便计算_A3仅题目预览版.pdf",
+          "reason": "content_missing",
+          "retryable": false,
+          "recovery_action": "re_upload"
+        }
+      ],
+      "note": "按给定引用尝试恢复未成功；名称检索未发现可替代的相同历史文件。不影响当前构建。"
+    },
+    {
+      "index": 37,
+      "file_name": "简便计算_A3仅题目预览版.tex",
+      "category": "history",
+      "status": "unavailable",
+      "unavailable_items": [
+        {
+          "transfer_id": "materialize-1",
+          "file_name": "简便计算_A3仅题目预览版.tex",
+          "reason": "content_missing",
+          "retryable": false,
+          "recovery_action": "re_upload"
+        }
+      ],
+      "note": "按给定引用尝试恢复未成功；名称检索未发现可替代的相同历史文件。不影响当前构建。"
+    },
+    {
+      "index": 38,
+      "file_name": "page-1.png",
+      "category": "history",
+      "status": "unavailable",
+      "unavailable_items": [
+        {
+          "transfer_id": "materialize-1",
+          "file_name": "page-1.png",
+          "reason": "content_missing",
+          "retryable": false,
+          "recovery_action": "re_upload"
+        }
+      ],
+      "note": "按给定引用尝试恢复未成功；名称检索未发现可替代的相同历史文件。不影响当前构建。"
+    },
+    {
+      "index": 39,
+      "file_name": "jianbian_a3_preview.pdf",
+      "category": "history",
+      "status": "unavailable",
+      "unavailable_items": [
+        {
+          "transfer_id": "materialize-1",
+          "file_name": "jianbian_a3_preview.pdf",
+          "reason": "content_missing",
+          "retryable": false,
+          "recovery_action": "re_upload"
+        }
+      ],
+      "note": "按给定引用尝试恢复未成功；名称检索未发现可替代的相同历史文件。不影响当前构建。"
+    },
+    {
+      "index": 40,
+      "file_name": "page-1.png",
+      "category": "history",
+      "status": "unavailable",
+      "unavailable_items": [
+        {
+          "transfer_id": "materialize-1",
+          "file_name": "page-1.png",
+          "reason": "content_missing",
+          "retryable": false,
+          "recovery_action": "re_upload"
+        }
+      ],
+      "note": "按给定引用尝试恢复未成功；名称检索未发现可替代的相同历史文件。不影响当前构建。"
+    },
+    {
+      "index": 41,
+      "file_name": "page-2.png",
+      "category": "history",
+      "status": "unavailable",
+      "unavailable_items": [
+        {
+          "transfer_id": "materialize-1",
+          "file_name": "page-2.png",
+          "reason": "content_missing",
+          "retryable": false,
+          "recovery_action": "re_upload"
+        }
+      ],
+      "note": "按给定引用尝试恢复未成功；名称检索未发现可替代的相同历史文件。不影响当前构建。"
+    },
+    {
+      "index": 42,
+      "file_name": "jianbian_a3_preview.pdf",
+      "category": "history",
+      "status": "unavailable",
+      "unavailable_items": [
+        {
+          "transfer_id": "materialize-1",
+          "file_name": "jianbian_a3_preview.pdf",
+          "reason": "content_missing",
+          "retryable": false,
+          "recovery_action": "re_upload"
+        }
+      ],
+      "note": "按给定引用尝试恢复未成功；名称检索未发现可替代的相同历史文件。不影响当前构建。"
+    },
+    {
+      "index": 43,
+      "file_name": "简便运算_空白练习卷.pdf",
+      "category": "history",
+      "status": "unavailable",
+      "error": "HTTP error prior to action invocation. HTTPException: 404: Library file not found.",
+      "note": "按给定引用尝试恢复未成功；名称检索未发现可替代的相同历史文件。不影响当前构建。"
+    },
+    {
+      "index": 44,
+      "file_name": "简便运算_完整脱式答案.pdf",
+      "category": "history",
+      "status": "unavailable",
+      "error": "HTTP error prior to action invocation. HTTPException: 404: Library file not found.",
+      "note": "按给定引用尝试恢复未成功；名称检索未发现可替代的相同历史文件。不影响当前构建。"
+    },
+    {
+      "index": 45,
+      "file_name": "简便运算_练习与答案合订本.pdf",
+      "category": "history",
+      "status": "unavailable",
+      "error": "HTTP error prior to action invocation. HTTPException: 404: Library file not found.",
+      "note": "按给定引用尝试恢复未成功；名称检索未发现可替代的相同历史文件。不影响当前构建。"
+    },
+    {
+      "index": 46,
+      "file_name": "简便运算_LaTeX源码.zip",
+      "category": "history",
+      "status": "unavailable",
+      "error": "HTTP error prior to action invocation. HTTPException: 404: Library file not found.",
+      "note": "按给定引用尝试恢复未成功；名称检索未发现可替代的相同历史文件。不影响当前构建。"
+    }
+  ],
+  "public_copy_note": "公开副本省略账户内文件标识；文件名、恢复状态、工程路径与内容校验保留。"
+}
