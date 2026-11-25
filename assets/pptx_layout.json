@@ -1,0 +1,1251 @@
+{
+  "source_pptx": "outputs/简便计算_题目4页.pptx",
+  "source_sha256": "0f8cc37247f69e72a8c11d815ebb92c54db8f5e552610502c22a2eafa9723917",
+  "page_size_pdf_points": [
+    960,
+    540
+  ],
+  "slide_size_emu": [
+    12192000,
+    6858000
+  ],
+  "rows": 7,
+  "columns": 3,
+  "questions_per_slide": 21,
+  "padding_pdf_points": 2.0,
+  "objects": [
+    {
+      "slide": 1,
+      "item": 0,
+      "name": "标题",
+      "description": "简便计算",
+      "offset_emu": [
+        5260835,
+        456675
+      ],
+      "extent_emu": [
+        1670324,
+        455681
+      ]
+    },
+    {
+      "slide": 1,
+      "item": 1,
+      "name": "第1题",
+      "description": "LaTeX: 608-491",
+      "offset_emu": [
+        550595,
+        1201365
+      ],
+      "extent_emu": [
+        1357484,
+        386131
+      ]
+    },
+    {
+      "slide": 1,
+      "item": 2,
+      "name": "第2题",
+      "description": "LaTeX: 730\\div 5\\div 2",
+      "offset_emu": [
+        4359414,
+        1201365
+      ],
+      "extent_emu": [
+        1609083,
+        386131
+      ]
+    },
+    {
+      "slide": 1,
+      "item": 3,
+      "name": "第3题",
+      "description": "LaTeX: 212-97",
+      "offset_emu": [
+        8168233,
+        1201365
+      ],
+      "extent_emu": [
+        1206805,
+        386131
+      ]
+    },
+    {
+      "slide": 1,
+      "item": 4,
+      "name": "第4题",
+      "description": "LaTeX: 25\\times (4\\times 54)",
+      "offset_emu": [
+        550595,
+        1957370
+      ],
+      "extent_emu": [
+        1841838,
+        386131
+      ]
+    },
+    {
+      "slide": 1,
+      "item": 5,
+      "name": "第5题",
+      "description": "LaTeX: 4\\times 61\\times 5",
+      "offset_emu": [
+        4359413,
+        1957370
+      ],
+      "extent_emu": [
+        1458221,
+        386131
+      ]
+    },
+    {
+      "slide": 1,
+      "item": 6,
+      "name": "第6题",
+      "description": "LaTeX: 125\\times (8\\times 39)",
+      "offset_emu": [
+        8168233,
+        1957370
+      ],
+      "extent_emu": [
+        1992702,
+        386131
+      ]
+    },
+    {
+      "slide": 1,
+      "item": 7,
+      "name": "第7题",
+      "description": "LaTeX: 9\\times 125\\times 8\\times 3",
+      "offset_emu": [
+        550595,
+        2713363
+      ],
+      "extent_emu": [
+        2162029,
+        386131
+      ]
+    },
+    {
+      "slide": 1,
+      "item": 8,
+      "name": "第8题",
+      "description": "LaTeX: 216-96",
+      "offset_emu": [
+        4359414,
+        2713363
+      ],
+      "extent_emu": [
+        1206817,
+        386131
+      ]
+    },
+    {
+      "slide": 1,
+      "item": 9,
+      "name": "第9题",
+      "description": "LaTeX: 5\\times 93\\times 4",
+      "offset_emu": [
+        8168233,
+        2713363
+      ],
+      "extent_emu": [
+        1458208,
+        386131
+      ]
+    },
+    {
+      "slide": 1,
+      "item": 10,
+      "name": "第10题",
+      "description": "LaTeX: 5\\times 51\\times 4",
+      "offset_emu": [
+        550595,
+        3469369
+      ],
+      "extent_emu": [
+        1458220,
+        386131
+      ]
+    },
+    {
+      "slide": 1,
+      "item": 11,
+      "name": "第11题",
+      "description": "LaTeX: 209-95",
+      "offset_emu": [
+        4359414,
+        3469369
+      ],
+      "extent_emu": [
+        1206817,
+        386131
+      ]
+    },
+    {
+      "slide": 1,
+      "item": 12,
+      "name": "第12题",
+      "description": "LaTeX: 55\\times 25\\times 8",
+      "offset_emu": [
+        8168233,
+        3469369
+      ],
+      "extent_emu": [
+        1609084,
+        386131
+      ]
+    },
+    {
+      "slide": 1,
+      "item": 13,
+      "name": "第13题",
+      "description": "LaTeX: 125\\times 11\\times 8",
+      "offset_emu": [
+        550595,
+        4225362
+      ],
+      "extent_emu": [
+        1759960,
+        386131
+      ]
+    },
+    {
+      "slide": 1,
+      "item": 14,
+      "name": "第14题",
+      "description": "LaTeX: 320-208",
+      "offset_emu": [
+        4359414,
+        4225362
+      ],
+      "extent_emu": [
+        1357484,
+        386131
+      ]
+    },
+    {
+      "slide": 1,
+      "item": 15,
+      "name": "第15题",
+      "description": "LaTeX: 5\\times 69\\times 4",
+      "offset_emu": [
+        8168220,
+        4225362
+      ],
+      "extent_emu": [
+        1458221,
+        386131
+      ]
+    },
+    {
+      "slide": 1,
+      "item": 16,
+      "name": "第16题",
+      "description": "LaTeX: 89000\\div 125\\div 8",
+      "offset_emu": [
+        550595,
+        4981367
+      ],
+      "extent_emu": [
+        2212575,
+        386131
+      ]
+    },
+    {
+      "slide": 1,
+      "item": 17,
+      "name": "第17题",
+      "description": "LaTeX: 125\\times (8\\times 92)",
+      "offset_emu": [
+        4359414,
+        4981367
+      ],
+      "extent_emu": [
+        1992701,
+        386131
+      ]
+    },
+    {
+      "slide": 1,
+      "item": 18,
+      "name": "第18题",
+      "description": "LaTeX: 9\\times 4\\times 25\\times 5",
+      "offset_emu": [
+        8168220,
+        4981367
+      ],
+      "extent_emu": [
+        2011166,
+        386131
+      ]
+    },
+    {
+      "slide": 1,
+      "item": 19,
+      "name": "第19题",
+      "description": "LaTeX: 500\\div 5\\div 4",
+      "offset_emu": [
+        550595,
+        5737360
+      ],
+      "extent_emu": [
+        1609096,
+        386131
+      ]
+    },
+    {
+      "slide": 1,
+      "item": 20,
+      "name": "第20题",
+      "description": "LaTeX: 320\\div 10\\div 2",
+      "offset_emu": [
+        4359414,
+        5737360
+      ],
+      "extent_emu": [
+        1759960,
+        386131
+      ]
+    },
+    {
+      "slide": 1,
+      "item": 21,
+      "name": "第21题",
+      "description": "LaTeX: 2100\\div 25\\div 4",
+      "offset_emu": [
+        8168221,
+        5737360
+      ],
+      "extent_emu": [
+        1910836,
+        386131
+      ]
+    },
+    {
+      "slide": 2,
+      "item": 0,
+      "name": "标题",
+      "description": "简便计算",
+      "offset_emu": [
+        5260835,
+        456675
+      ],
+      "extent_emu": [
+        1670324,
+        455681
+      ]
+    },
+    {
+      "slide": 2,
+      "item": 1,
+      "name": "第1题",
+      "description": "LaTeX: 1920\\div 4\\div 5",
+      "offset_emu": [
+        550595,
+        1201365
+      ],
+      "extent_emu": [
+        1759960,
+        386131
+      ]
+    },
+    {
+      "slide": 2,
+      "item": 2,
+      "name": "第2题",
+      "description": "LaTeX: 296-207",
+      "offset_emu": [
+        4359414,
+        1201365
+      ],
+      "extent_emu": [
+        1357484,
+        386131
+      ]
+    },
+    {
+      "slide": 2,
+      "item": 3,
+      "name": "第3题",
+      "description": "LaTeX: 56\\times 125",
+      "offset_emu": [
+        8168233,
+        1201365
+      ],
+      "extent_emu": [
+        1206609,
+        386131
+      ]
+    },
+    {
+      "slide": 2,
+      "item": 4,
+      "name": "第4题",
+      "description": "LaTeX: 760\\div 2\\div 10",
+      "offset_emu": [
+        550595,
+        1957370
+      ],
+      "extent_emu": [
+        1759763,
+        386131
+      ]
+    },
+    {
+      "slide": 2,
+      "item": 5,
+      "name": "第5题",
+      "description": "LaTeX: 163-103",
+      "offset_emu": [
+        4359414,
+        1957370
+      ],
+      "extent_emu": [
+        1357484,
+        386131
+      ]
+    },
+    {
+      "slide": 2,
+      "item": 6,
+      "name": "第6题",
+      "description": "LaTeX: 1420\\div 10\\div 2",
+      "offset_emu": [
+        8168233,
+        1957370
+      ],
+      "extent_emu": [
+        1910823,
+        386131
+      ]
+    },
+    {
+      "slide": 2,
+      "item": 7,
+      "name": "第7题",
+      "description": "LaTeX: 125\\times 79\\times 8",
+      "offset_emu": [
+        550596,
+        2713363
+      ],
+      "extent_emu": [
+        1759960,
+        386131
+      ]
+    },
+    {
+      "slide": 2,
+      "item": 8,
+      "name": "第8题",
+      "description": "LaTeX: 57\\times 8\\times 125",
+      "offset_emu": [
+        4359415,
+        2713363
+      ],
+      "extent_emu": [
+        1759554,
+        386131
+      ]
+    },
+    {
+      "slide": 2,
+      "item": 9,
+      "name": "第9题",
+      "description": "LaTeX: 18000\\div 8\\div 125",
+      "offset_emu": [
+        8168234,
+        2713363
+      ],
+      "extent_emu": [
+        2212157,
+        386131
+      ]
+    },
+    {
+      "slide": 2,
+      "item": 10,
+      "name": "第10题",
+      "description": "LaTeX: 9\\times 125\\times 8\\times 3",
+      "offset_emu": [
+        550597,
+        3469369
+      ],
+      "extent_emu": [
+        2162029,
+        386131
+      ]
+    },
+    {
+      "slide": 2,
+      "item": 11,
+      "name": "第11题",
+      "description": "LaTeX: 54000\\div 8\\div 125",
+      "offset_emu": [
+        4359416,
+        3469369
+      ],
+      "extent_emu": [
+        2212157,
+        386131
+      ]
+    },
+    {
+      "slide": 2,
+      "item": 12,
+      "name": "第12题",
+      "description": "LaTeX: 125\\times 27\\times 8",
+      "offset_emu": [
+        8168235,
+        3469369
+      ],
+      "extent_emu": [
+        1759947,
+        386131
+      ]
+    },
+    {
+      "slide": 2,
+      "item": 13,
+      "name": "第13题",
+      "description": "LaTeX: 5\\times 53\\times 4",
+      "offset_emu": [
+        550598,
+        4225362
+      ],
+      "extent_emu": [
+        1458220,
+        386131
+      ]
+    },
+    {
+      "slide": 2,
+      "item": 14,
+      "name": "第14题",
+      "description": "LaTeX: 5\\times 79\\times 4",
+      "offset_emu": [
+        4359416,
+        4225362
+      ],
+      "extent_emu": [
+        1458221,
+        386131
+      ]
+    },
+    {
+      "slide": 2,
+      "item": 15,
+      "name": "第15题",
+      "description": "LaTeX: 15\\times 25\\times 8",
+      "offset_emu": [
+        8168223,
+        4225362
+      ],
+      "extent_emu": [
+        1609097,
+        386131
+      ]
+    },
+    {
+      "slide": 2,
+      "item": 16,
+      "name": "第16题",
+      "description": "LaTeX: 13\\times 125\\times 4",
+      "offset_emu": [
+        550598,
+        4981367
+      ],
+      "extent_emu": [
+        1759960,
+        386131
+      ]
+    },
+    {
+      "slide": 2,
+      "item": 17,
+      "name": "第17题",
+      "description": "LaTeX: 509-408",
+      "offset_emu": [
+        4359417,
+        4981367
+      ],
+      "extent_emu": [
+        1357484,
+        386131
+      ]
+    },
+    {
+      "slide": 2,
+      "item": 18,
+      "name": "第18题",
+      "description": "LaTeX: 25\\times 89\\times 4",
+      "offset_emu": [
+        8168223,
+        4981367
+      ],
+      "extent_emu": [
+        1609097,
+        386131
+      ]
+    },
+    {
+      "slide": 2,
+      "item": 19,
+      "name": "第19题",
+      "description": "LaTeX: 125\\times 12",
+      "offset_emu": [
+        550598,
+        5737360
+      ],
+      "extent_emu": [
+        1206818,
+        386131
+      ]
+    },
+    {
+      "slide": 2,
+      "item": 20,
+      "name": "第20题",
+      "description": "LaTeX: 4\\times 77\\times 25",
+      "offset_emu": [
+        4359417,
+        5737360
+      ],
+      "extent_emu": [
+        1608887,
+        386131
+      ]
+    },
+    {
+      "slide": 2,
+      "item": 21,
+      "name": "第21题",
+      "description": "LaTeX: 172-94",
+      "offset_emu": [
+        8168223,
+        5737360
+      ],
+      "extent_emu": [
+        1206818,
+        386131
+      ]
+    },
+    {
+      "slide": 3,
+      "item": 0,
+      "name": "标题",
+      "description": "简便计算",
+      "offset_emu": [
+        5260835,
+        456675
+      ],
+      "extent_emu": [
+        1670324,
+        455681
+      ]
+    },
+    {
+      "slide": 3,
+      "item": 1,
+      "name": "第1题",
+      "description": "LaTeX: 4\\times 39\\times 25",
+      "offset_emu": [
+        550595,
+        1201365
+      ],
+      "extent_emu": [
+        1608887,
+        386131
+      ]
+    },
+    {
+      "slide": 3,
+      "item": 2,
+      "name": "第2题",
+      "description": "LaTeX: 900\\div 2\\div 5",
+      "offset_emu": [
+        4359414,
+        1201365
+      ],
+      "extent_emu": [
+        1609083,
+        386131
+      ]
+    },
+    {
+      "slide": 3,
+      "item": 3,
+      "name": "第3题",
+      "description": "LaTeX: 9100\\div 4\\div 25",
+      "offset_emu": [
+        8168220,
+        1201365
+      ],
+      "extent_emu": [
+        1910627,
+        386131
+      ]
+    },
+    {
+      "slide": 3,
+      "item": 4,
+      "name": "第4题",
+      "description": "LaTeX: 8\\times (125\\times 19)",
+      "offset_emu": [
+        550596,
+        1957370
+      ],
+      "extent_emu": [
+        1992714,
+        386131
+      ]
+    },
+    {
+      "slide": 3,
+      "item": 5,
+      "name": "第5题",
+      "description": "LaTeX: 19000\\div 8\\div 125",
+      "offset_emu": [
+        4359415,
+        1957370
+      ],
+      "extent_emu": [
+        2212156,
+        386131
+      ]
+    },
+    {
+      "slide": 3,
+      "item": 6,
+      "name": "第6题",
+      "description": "LaTeX: 299-108",
+      "offset_emu": [
+        8168234,
+        1957370
+      ],
+      "extent_emu": [
+        1357472,
+        386131
+      ]
+    },
+    {
+      "slide": 3,
+      "item": 7,
+      "name": "第7题",
+      "description": "LaTeX: 47\\times 8\\times 125",
+      "offset_emu": [
+        550596,
+        2713363
+      ],
+      "extent_emu": [
+        1759554,
+        386131
+      ]
+    },
+    {
+      "slide": 3,
+      "item": 8,
+      "name": "第8题",
+      "description": "LaTeX: 484-392",
+      "offset_emu": [
+        4359415,
+        2713363
+      ],
+      "extent_emu": [
+        1357484,
+        386131
+      ]
+    },
+    {
+      "slide": 3,
+      "item": 9,
+      "name": "第9题",
+      "description": "LaTeX: 5\\times 49\\times 4",
+      "offset_emu": [
+        8168233,
+        2713363
+      ],
+      "extent_emu": [
+        1458208,
+        386131
+      ]
+    },
+    {
+      "slide": 3,
+      "item": 10,
+      "name": "第10题",
+      "description": "LaTeX: 399-296",
+      "offset_emu": [
+        550596,
+        3469369
+      ],
+      "extent_emu": [
+        1357484,
+        386131
+      ]
+    },
+    {
+      "slide": 3,
+      "item": 11,
+      "name": "第11题",
+      "description": "LaTeX: 93000\\div 8\\div 125",
+      "offset_emu": [
+        4359415,
+        3469369
+      ],
+      "extent_emu": [
+        2212157,
+        386131
+      ]
+    },
+    {
+      "slide": 3,
+      "item": 12,
+      "name": "第12题",
+      "description": "LaTeX: 25\\times 72",
+      "offset_emu": [
+        8168234,
+        3469369
+      ],
+      "extent_emu": [
+        1055942,
+        386131
+      ]
+    },
+    {
+      "slide": 3,
+      "item": 13,
+      "name": "第13题",
+      "description": "LaTeX: 13\\times 125\\times 8",
+      "offset_emu": [
+        550597,
+        4225362
+      ],
+      "extent_emu": [
+        1759960,
+        386131
+      ]
+    },
+    {
+      "slide": 3,
+      "item": 14,
+      "name": "第14题",
+      "description": "LaTeX: 230\\div 5\\div 2",
+      "offset_emu": [
+        4359416,
+        4225362
+      ],
+      "extent_emu": [
+        1609083,
+        386131
+      ]
+    },
+    {
+      "slide": 3,
+      "item": 15,
+      "name": "第15题",
+      "description": "LaTeX: 167-91",
+      "offset_emu": [
+        8168234,
+        4225362
+      ],
+      "extent_emu": [
+        1206805,
+        386131
+      ]
+    },
+    {
+      "slide": 3,
+      "item": 16,
+      "name": "第16题",
+      "description": "LaTeX: 190-109",
+      "offset_emu": [
+        550596,
+        4981367
+      ],
+      "extent_emu": [
+        1357484,
+        386131
+      ]
+    },
+    {
+      "slide": 3,
+      "item": 17,
+      "name": "第17题",
+      "description": "LaTeX: 9\\times 8\\times 125\\times 6",
+      "offset_emu": [
+        4359415,
+        4981367
+      ],
+      "extent_emu": [
+        2162029,
+        386131
+      ]
+    },
+    {
+      "slide": 3,
+      "item": 18,
+      "name": "第18题",
+      "description": "LaTeX: 7\\times 25\\times 4\\times 5",
+      "offset_emu": [
+        8168233,
+        4981367
+      ],
+      "extent_emu": [
+        2011153,
+        386131
+      ]
+    },
+    {
+      "slide": 3,
+      "item": 19,
+      "name": "第19题",
+      "description": "LaTeX: 508-399",
+      "offset_emu": [
+        550596,
+        5737360
+      ],
+      "extent_emu": [
+        1357484,
+        386131
+      ]
+    },
+    {
+      "slide": 3,
+      "item": 20,
+      "name": "第20题",
+      "description": "LaTeX: 25\\times 79\\times 4",
+      "offset_emu": [
+        4359415,
+        5737360
+      ],
+      "extent_emu": [
+        1609084,
+        386131
+      ]
+    },
+    {
+      "slide": 3,
+      "item": 21,
+      "name": "第21题",
+      "description": "LaTeX: 5\\times 19\\times 4",
+      "offset_emu": [
+        8168234,
+        5737360
+      ],
+      "extent_emu": [
+        1458208,
+        386131
+      ]
+    },
+    {
+      "slide": 4,
+      "item": 0,
+      "name": "标题",
+      "description": "简便计算",
+      "offset_emu": [
+        5260835,
+        456675
+      ],
+      "extent_emu": [
+        1670324,
+        455681
+      ]
+    },
+    {
+      "slide": 4,
+      "item": 1,
+      "name": "第1题",
+      "description": "LaTeX: 420\\div 5\\div 2",
+      "offset_emu": [
+        550595,
+        1201365
+      ],
+      "extent_emu": [
+        1609096,
+        386131
+      ]
+    },
+    {
+      "slide": 4,
+      "item": 2,
+      "name": "第2题",
+      "description": "LaTeX: 125\\times 63\\times 8",
+      "offset_emu": [
+        4359414,
+        1201365
+      ],
+      "extent_emu": [
+        1759960,
+        386131
+      ]
+    },
+    {
+      "slide": 4,
+      "item": 3,
+      "name": "第3题",
+      "description": "LaTeX: 387-192",
+      "offset_emu": [
+        8168233,
+        1201365
+      ],
+      "extent_emu": [
+        1357472,
+        386131
+      ]
+    },
+    {
+      "slide": 4,
+      "item": 4,
+      "name": "第4题",
+      "description": "LaTeX: 64\\times 125",
+      "offset_emu": [
+        550595,
+        1957370
+      ],
+      "extent_emu": [
+        1206609,
+        386131
+      ]
+    },
+    {
+      "slide": 4,
+      "item": 5,
+      "name": "第5题",
+      "description": "LaTeX: 810\\div 2\\div 5",
+      "offset_emu": [
+        4359414,
+        1957370
+      ],
+      "extent_emu": [
+        1609084,
+        386131
+      ]
+    },
+    {
+      "slide": 4,
+      "item": 6,
+      "name": "第6题",
+      "description": "LaTeX: 5\\times 25\\times 4\\times 6",
+      "offset_emu": [
+        8168233,
+        1957370
+      ],
+      "extent_emu": [
+        2011153,
+        386131
+      ]
+    },
+    {
+      "slide": 4,
+      "item": 7,
+      "name": "第7题",
+      "description": "LaTeX: 88\\times 25",
+      "offset_emu": [
+        550596,
+        2713363
+      ],
+      "extent_emu": [
+        1055942,
+        386131
+      ]
+    },
+    {
+      "slide": 4,
+      "item": 8,
+      "name": "第8题",
+      "description": "LaTeX: 250\\div 5\\div 2",
+      "offset_emu": [
+        4359415,
+        2713363
+      ],
+      "extent_emu": [
+        1609084,
+        386131
+      ]
+    },
+    {
+      "slide": 4,
+      "item": 9,
+      "name": "第9题",
+      "description": "LaTeX: 2\\times 49\\times 5",
+      "offset_emu": [
+        8168234,
+        2713363
+      ],
+      "extent_emu": [
+        1458208,
+        386131
+      ]
+    },
+    {
+      "slide": 4,
+      "item": 10,
+      "name": "第10题",
+      "description": "LaTeX: 9300\\div 4\\div 25",
+      "offset_emu": [
+        550597,
+        3469369
+      ],
+      "extent_emu": [
+        1910626,
+        386131
+      ]
+    },
+    {
+      "slide": 4,
+      "item": 11,
+      "name": "第11题",
+      "description": "LaTeX: 159-104",
+      "offset_emu": [
+        4359416,
+        3469369
+      ],
+      "extent_emu": [
+        1357484,
+        386131
+      ]
+    },
+    {
+      "slide": 4,
+      "item": 12,
+      "name": "第12题",
+      "description": "LaTeX: 288-193",
+      "offset_emu": [
+        8168234,
+        3469369
+      ],
+      "extent_emu": [
+        1357472,
+        386131
+      ]
+    },
+    {
+      "slide": 4,
+      "item": 13,
+      "name": "第13题",
+      "description": "LaTeX: 9\\times 25\\times 4\\times 3",
+      "offset_emu": [
+        550596,
+        4225362
+      ],
+      "extent_emu": [
+        2011166,
+        386131
+      ]
+    },
+    {
+      "slide": 4,
+      "item": 14,
+      "name": "第14题",
+      "description": "LaTeX: 478-407",
+      "offset_emu": [
+        4359415,
+        4225362
+      ],
+      "extent_emu": [
+        1357484,
+        386131
+      ]
+    },
+    {
+      "slide": 4,
+      "item": 15,
+      "name": "第15题",
+      "description": "LaTeX: 16\\times 125",
+      "offset_emu": [
+        8168233,
+        4225362
+      ],
+      "extent_emu": [
+        1206609,
+        386131
+      ]
+    },
+    {
+      "slide": 4,
+      "item": 16,
+      "name": "第16题",
+      "description": "LaTeX: 7\\times 125\\times 4\\times 8",
+      "offset_emu": [
+        550596,
+        4981367
+      ],
+      "extent_emu": [
+        2162029,
+        386131
+      ]
+    },
+    {
+      "slide": 4,
+      "item": 17,
+      "name": "第17题",
+      "description": "LaTeX: 4\\times 67\\times 5",
+      "offset_emu": [
+        4359415,
+        4981367
+      ],
+      "extent_emu": [
+        1458221,
+        386131
+      ]
+    },
+    {
+      "slide": 4,
+      "item": 18,
+      "name": "第18题",
+      "description": "LaTeX: 25\\times 79\\times 4",
+      "offset_emu": [
+        8168234,
+        4981367
+      ],
+      "extent_emu": [
+        1609084,
+        386131
+      ]
+    },
+    {
+      "slide": 4,
+      "item": 19,
+      "name": "第19题",
+      "description": "LaTeX: 603-505",
+      "offset_emu": [
+        550597,
+        5737360
+      ],
+      "extent_emu": [
+        1357484,
+        386131
+      ]
+    },
+    {
+      "slide": 4,
+      "item": 20,
+      "name": "第20题",
+      "description": "LaTeX: 330\\div 2\\div 5",
+      "offset_emu": [
+        4359416,
+        5737360
+      ],
+      "extent_emu": [
+        1609083,
+        386131
+      ]
+    },
+    {
+      "slide": 4,
+      "item": 21,
+      "name": "第21题",
+      "description": "LaTeX: 8\\times 51\\times 125",
+      "offset_emu": [
+        8168222,
+        5737360
+      ],
+      "extent_emu": [
+        1759554,
+        386131
+      ]
+    }
+  ],
+  "template_note": "From current delivered PPTX. Non-media OOXML parts retained unchanged; replacement media is generated by tools/rebuild_pptx.py."
+}
