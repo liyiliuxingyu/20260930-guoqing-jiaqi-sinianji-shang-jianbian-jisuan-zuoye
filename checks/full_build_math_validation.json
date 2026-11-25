@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "status": "passed",
+  "question_count": 84,
+  "source_files_sha256": {
+    "简便计算_A4_题目.tex": "72afb10ddc4e1bf49b16601ea86fb2ef2727c1c2e610b589f6b2a66e0b288b15",
+    "简便计算_A4答案_新版.tex": "6a1721cc49345d77164299e74588cf0172526ca8566a85af1d2d0a00cf8338b7",
+    "简便计算_A4合订本_新版.tex": "3235bf8a802fa87315abbc13358f947091736d068d996e705be1e469d086ab3e",
+    "简便计算_题目4页.tex": "482541b0114a89476ee707e2918a3256bd999e0b31476f2cd88be28b8aa19bc8"
+  },
+  "manual_image_review": {
+    "review_date": "2026-11-19",
+    "method": "逐页直接看图并对不清晰字符放大核对；自动脚本使用其固定转录基准与图像SHA-256",
+    "sources": [
+      {
+        "delivered_page": 1,
+        "file": "1000072212.jpg",
+        "sha256": "98751c72ba1248bfeb4ebef9e7d60b7da9f33d3ea196d567102cfefd79a9582b"
+      },
+      {
+        "delivered_page": 2,
+        "file": "1000072211.jpg",
+        "sha256": "b27d6670f9202eb976d3fce78a972bd2233ac1d2df4fac9ee2dd47885a7976c1"
+      },
+      {
+        "delivered_page": 3,
+        "file": "1000072209.jpg",
+        "sha256": "455b3e16f96c7c1a1b4489a8fd4befbf7fc3b3259303a386635ad221f3175907"
+      },
+      {
+        "delivered_page": 4,
+        "file": "1000072210.jpg",
+        "sha256": "83c9cf7d41691ae4c0414a20fa5854413f7c8b50ec5211ef6fae1148337a439e"
+      }
+    ],
+    "note": "原图1000072209.jpg的第11题已经是93000÷8÷125；早期对话称原题为9300，与现存原图不符。现行93000与原图及后续用户指令一致。",
+    "rerun_does_not_repeat_visual_review": true
+  },
+  "not_checked": [],
+  "equality_steps_checked": 258,
+  "duplicate_expressions_preserved": {
+    "9*125*8*3": 2,
+    "25*79*4": 2
+  },
+  "pdf_alignment": {
+    "solutions_checked": 84,
+    "max_expression_start_deviation_pt": 0.019012,
+    "max_equals_start_deviation_pt": 1.5e-05,
+    "normal_leading_parenthesis_rows": 38,
+    "tolerance_pt": 0.08,
+    "measurement": "PDF字符origin；原题与完整算式首字符左端；字形墨迹轮廓不是该检查的基准"
+  },
+  "pdf_files_sha256": {
+    "简便计算_A4_题目.pdf": "0b97153931cc7365db8f5209d21e41624f8cab33b380314e13acd7c4d7ab8309",
+    "简便计算_A4答案_新版.pdf": "7aa0765a88a2cac0752afe055e853daccd6a9517590ffae7a1d970af312ac250",
+    "简便计算_A4合订本_新版.pdf": "d129130749ec40378629b60056a926f23b1d55cf5a3db13e6b6373bcb802c621",
+    "简便计算_题目4页.pdf": "c41dd3ca9d63887a55efea88c0a210a24b01336fc80b01d88107e71183cc453c"
+  },
+  "checks_passed": 2435,
+  "failures": [],
+  "scope_limit": "验证题目一致性、等式精确数值、PDF文本和几何排版；不把自动检查解释为所有教学解法都唯一或最优。PPTX本体由单独检查脚本处理。"
+}

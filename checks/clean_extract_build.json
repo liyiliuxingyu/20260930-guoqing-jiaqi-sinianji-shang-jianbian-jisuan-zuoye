@@ -1,0 +1,40 @@
+{
+  "checked_date": "2026-11-19",
+  "archive_extracted": true,
+  "zip_crc_passed": true,
+  "no_build_cache_in_archive": true,
+  "relocated_project_path": true,
+  "commands": [
+    {
+      "tool": "verify_package.py",
+      "returncode": 0
+    },
+    {
+      "tool": "build.py",
+      "returncode": 0
+    },
+    {
+      "tool": "compare_renderings.py",
+      "returncode": 0
+    }
+  ],
+  "four_sources_compiled": true,
+  "new_pdf_pages": [
+    4,
+    4,
+    8,
+    4
+  ],
+  "pptx_slides": 4,
+  "all_20_pdf_pages_identical_to_delivery_at_144dpi": true,
+  "external_chat_files_required": false,
+  "network_used_by_build": false,
+  "required_system_tools": [
+    "Python",
+    "XeLaTeX/TeX Live"
+  ],
+  "required_python_packages": [
+    "PyMuPDF==1.26.6",
+    "Pillow==13.0.0"
+  ]
+}

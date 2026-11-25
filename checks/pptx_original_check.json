@@ -1,0 +1,37 @@
+{
+  "slide_count": 4,
+  "questions": 84,
+  "slide_size_emu": [
+    12192000,
+    6858000
+  ],
+  "internal_relationships_valid": true,
+  "external_relationships": 0,
+  "svg_text_converted_to_paths": true,
+  "slides": [
+    {
+      "slide": 1,
+      "pictures": 22,
+      "questions": 21,
+      "svg_png_pairs": 22
+    },
+    {
+      "slide": 2,
+      "pictures": 22,
+      "questions": 21,
+      "svg_png_pairs": 22
+    },
+    {
+      "slide": 3,
+      "pictures": 22,
+      "questions": 21,
+      "svg_png_pairs": 22
+    },
+    {
+      "slide": 4,
+      "pictures": 22,
+      "questions": 21,
+      "svg_png_pairs": 22
+    }
+  ]
+}

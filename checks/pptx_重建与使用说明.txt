@@ -1,0 +1,52 @@
+PPT 工程重建说明
+核验日期：2026-11-19（北京时间）
+
+文件来源
+1. outputs/简便计算_题目4页.pptx 为此前交付的现行文件，本次未修改其字节。
+2. assets/pptx_template/ 是从该 PPTX 提取的非媒体 OOXML 结构。
+3. assets/pptx_layout.json 记录该成品的原始 SHA-256、画布尺寸和各题对象位置。
+4. tools/rebuild_pptx.py 是本次交接补写的恢复构建脚本，并非找回的原始生成程序。
+
+默认重建命令（在工程根目录执行）
+python tools/rebuild_pptx.py
+
+默认输入：build/简便计算_题目4页.pdf
+默认源码：src/简便计算_题目4页.tex
+默认输出：build/简便计算_题目4页.pptx
+运行前先用 XeLaTeX 编译上述 .tex，生成对应的四页幻灯片 PDF。
+
+不重新编译时，可用现有 PDF 验证重建：
+python tools/rebuild_pptx.py --pdf outputs/简便计算_题目4页.pdf
+
+只检查 PPTX 文件：
+python tools/rebuild_pptx.py --validate-only outputs/简便计算_题目4页.pptx
+
+依赖
+Python 3；PyMuPDF（本次1.26.6）；Pillow（读取、核验PNG及生成缩略图）。
+不需要 Microsoft Office、python-pptx 或网络即可重建。
+LibreOffice/soffice 仅用于可选的成品渲染核验。
+
+工作原理
+脚本把 LaTeX 生成的 PDF 中每道题分别转换为文字轮廓 SVG 和 PNG 后备图像，
+填回原有 PPTX 对象，并同步更新备注和对象的 LaTeX 描述。
+题目文字如需修改，先修改 .tex，再编译 PDF，然后重建 PPTX。
+PPT 中每道题可单独移动和缩放；公式不是 PowerPoint 原生可逐字输入的公式框。
+
+实际通过的检查
+1. 现行 PPTX 与重建 PPTX 均为4页，实际画布16:9（12192000×6858000 EMU）。
+2. 每页22个独立图片对象，即标题1个、题目21个；总题数84。
+3. 每个对象均有 SVG 及 PNG；SVG中文字已转为路径，不依赖打开电脑上的字体。
+4. 所有内部关系引用有效，没有外部网络或文件引用。
+5. ZIP CRC、XML解析、PNG解码均通过，所有对象在页面范围内。
+6. 重建后对象位置及尺寸与原稿最大偏差为1 EMU，约0.000079 PDF点。
+7. LibreOffice headless 成功打开现行与重建 PPTX，并各自导出4页 PDF。
+8. 两份导出 PDF 以同一渲染器渲染后，四页对应图像的平均绝对像素差均为0。
+9. 已查看重建四页的合成预览，题目完整，无可见重叠或裁切。
+10. 对同一输入重复重建，两次PPTX的SHA-256完全一致。
+
+适用边界与尚未验证
+脚本针对当前4页、每页7行3列、单行算式的布局。改变页数、题数或改为多行公式，
+须同步调整模板和脚本，脚本会对不匹配的结构报错，而不会静默生成错误课件。
+本次未在 Microsoft PowerPoint 或 WPS 的桌面界面中逐项操作验证。
+不承诺不同 TeX/PyMuPDF/Office 版本下的输出文件字节完全相同。
+保留原交付的 PPTX 是为了保证即使新环境尚未安装依赖，仍可直接打开现有课件。

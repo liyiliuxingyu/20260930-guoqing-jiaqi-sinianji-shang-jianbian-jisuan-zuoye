@@ -1,0 +1,44 @@
+{
+  "renderer": "LibreOffice headless (soffice)",
+  "original_opened": true,
+  "rebuilt_opened": true,
+  "pdf_pages": 4,
+  "visual_comparison_to_original": [
+    {
+      "slide": 1,
+      "pixel_size": [
+        961,
+        540
+      ],
+      "mean_absolute_channel_difference": 0.0
+    },
+    {
+      "slide": 2,
+      "pixel_size": [
+        961,
+        540
+      ],
+      "mean_absolute_channel_difference": 0.0
+    },
+    {
+      "slide": 3,
+      "pixel_size": [
+        961,
+        540
+      ],
+      "mean_absolute_channel_difference": 0.0
+    },
+    {
+      "slide": 4,
+      "pixel_size": [
+        961,
+        540
+      ],
+      "mean_absolute_channel_difference": 0.0
+    }
+  ],
+  "powerpoint_or_wps_gui_tested": false,
+  "visual_inspection": "All four rebuilt slides inspected in a contact sheet: complete questions, no visible clipping or overlapping.",
+  "max_shape_geometry_difference_from_original_emu": 1,
+  "source_pptx_unchanged": true
+}

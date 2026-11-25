@@ -1,0 +1,45 @@
+{
+  "slide_count": 4,
+  "questions": 84,
+  "slide_size_emu": [
+    12192000,
+    6858000
+  ],
+  "internal_relationships_valid": true,
+  "external_relationships": 0,
+  "svg_text_converted_to_paths": true,
+  "slides": [
+    {
+      "slide": 1,
+      "pictures": 22,
+      "questions": 21,
+      "svg_png_pairs": 22
+    },
+    {
+      "slide": 2,
+      "pictures": 22,
+      "questions": 21,
+      "svg_png_pairs": 22
+    },
+    {
+      "slide": 3,
+      "pictures": 22,
+      "questions": 21,
+      "svg_png_pairs": 22
+    },
+    {
+      "slide": 4,
+      "pictures": 22,
+      "questions": 21,
+      "svg_png_pairs": 22
+    }
+  ],
+  "input_pdf": "outputs/简便计算_题目4页.pdf",
+  "input_tex": "src/简便计算_题目4页.tex",
+  "output_pptx": "temporary verification artifact (not packaged)",
+  "output_sha256": "075eba7b7a5c93bb0c538fdaafadb0ab1353b8ef54e493723d6928f52698e537",
+  "png_pixels_per_pdf_point": 4.0,
+  "editability": "Each title/question is a separate SVG/PNG picture. Change expression text in the LaTeX source and rebuild.",
+  "notes_source_updated": true,
+  "deterministic_same_input_sha256": true
+}

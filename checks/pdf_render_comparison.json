@@ -1,0 +1,155 @@
+{
+  "renderer": "PyMuPDF 1.26.6",
+  "dpi": 144,
+  "documents": [
+    {
+      "file": "简便计算_A4_题目.pdf",
+      "reference_pages": 4,
+      "new_pages": 4,
+      "pages": [
+        {
+          "page": 1,
+          "text_equal": true,
+          "pixels_identical": true,
+          "dimensions_equal": true
+        },
+        {
+          "page": 2,
+          "text_equal": true,
+          "pixels_identical": true,
+          "dimensions_equal": true
+        },
+        {
+          "page": 3,
+          "text_equal": true,
+          "pixels_identical": true,
+          "dimensions_equal": true
+        },
+        {
+          "page": 4,
+          "text_equal": true,
+          "pixels_identical": true,
+          "dimensions_equal": true
+        }
+      ]
+    },
+    {
+      "file": "简便计算_A4答案_新版.pdf",
+      "reference_pages": 4,
+      "new_pages": 4,
+      "pages": [
+        {
+          "page": 1,
+          "text_equal": true,
+          "pixels_identical": true,
+          "dimensions_equal": true
+        },
+        {
+          "page": 2,
+          "text_equal": true,
+          "pixels_identical": true,
+          "dimensions_equal": true
+        },
+        {
+          "page": 3,
+          "text_equal": true,
+          "pixels_identical": true,
+          "dimensions_equal": true
+        },
+        {
+          "page": 4,
+          "text_equal": true,
+          "pixels_identical": true,
+          "dimensions_equal": true
+        }
+      ]
+    },
+    {
+      "file": "简便计算_A4合订本_新版.pdf",
+      "reference_pages": 8,
+      "new_pages": 8,
+      "pages": [
+        {
+          "page": 1,
+          "text_equal": true,
+          "pixels_identical": true,
+          "dimensions_equal": true
+        },
+        {
+          "page": 2,
+          "text_equal": true,
+          "pixels_identical": true,
+          "dimensions_equal": true
+        },
+        {
+          "page": 3,
+          "text_equal": true,
+          "pixels_identical": true,
+          "dimensions_equal": true
+        },
+        {
+          "page": 4,
+          "text_equal": true,
+          "pixels_identical": true,
+          "dimensions_equal": true
+        },
+        {
+          "page": 5,
+          "text_equal": true,
+          "pixels_identical": true,
+          "dimensions_equal": true
+        },
+        {
+          "page": 6,
+          "text_equal": true,
+          "pixels_identical": true,
+          "dimensions_equal": true
+        },
+        {
+          "page": 7,
+          "text_equal": true,
+          "pixels_identical": true,
+          "dimensions_equal": true
+        },
+        {
+          "page": 8,
+          "text_equal": true,
+          "pixels_identical": true,
+          "dimensions_equal": true
+        }
+      ]
+    },
+    {
+      "file": "简便计算_题目4页.pdf",
+      "reference_pages": 4,
+      "new_pages": 4,
+      "pages": [
+        {
+          "page": 1,
+          "text_equal": true,
+          "pixels_identical": true,
+          "dimensions_equal": true
+        },
+        {
+          "page": 2,
+          "text_equal": true,
+          "pixels_identical": true,
+          "dimensions_equal": true
+        },
+        {
+          "page": 3,
+          "text_equal": true,
+          "pixels_identical": true,
+          "dimensions_equal": true
+        },
+        {
+          "page": 4,
+          "text_equal": true,
+          "pixels_identical": true,
+          "dimensions_equal": true
+        }
+      ]
+    }
+  ],
+  "all_pages_text_and_pixels_identical": true
+}

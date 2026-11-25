@@ -1,0 +1,17 @@
+{
+  "checked_date": "2026-11-19",
+  "platform": "Linux",
+  "python": "3.12.14",
+  "tools": {
+    "xelatex": "XeTeX 3.141592653-2.6-0.999996 (TeX Live 2025/dev/Debian)",
+    "soffice": "LibreOfficeDev 26.8.0.0.alpha0 2c87e51eeaa2b413ff4ae097b2705eea1995d8e5"
+  },
+  "ctex": "2.5.10 (2022-07-14)",
+  "xeCJK": "3.9.1 (2022-08-05)",
+  "zhnumber": "3.0 (2022-07-14)",
+  "fandol": "0.3",
+  "python_packages": {
+    "PyMuPDF": "1.26.6",
+    "Pillow": "13.0.0"
+  }
+}
