@@ -1,0 +1,1358 @@
+{
+  "schema_version": 1,
+  "source": "src/简便计算_A4答案_新版.tex",
+  "source_sha256": "6a1721cc49345d77164299e74588cf0172526ca8566a85af1d2d0a00cf8338b7",
+  "order": "每页7行3列，按行从左到右；4页共84题；重复题保留",
+  "problems": [
+    {
+      "id": 1,
+      "page": 1,
+      "within_page": 1,
+      "row": 1,
+      "column": 1,
+      "question_latex": "608-491",
+      "steps_latex": [
+        "608-500+9",
+        "108+9",
+        "117"
+      ],
+      "question_ascii": "608-491",
+      "answer": 117,
+      "original_image": "1000072212.jpg"
+    },
+    {
+      "id": 2,
+      "page": 1,
+      "within_page": 2,
+      "row": 1,
+      "column": 2,
+      "question_latex": "730\\div 5\\div 2",
+      "steps_latex": [
+        "730\\div (5\\times 2)",
+        "730\\div 10",
+        "73"
+      ],
+      "question_ascii": "730/5/2",
+      "answer": 73,
+      "original_image": "1000072212.jpg"
+    },
+    {
+      "id": 3,
+      "page": 1,
+      "within_page": 3,
+      "row": 1,
+      "column": 3,
+      "question_latex": "212-97",
+      "steps_latex": [
+        "212-100+3",
+        "112+3",
+        "115"
+      ],
+      "question_ascii": "212-97",
+      "answer": 115,
+      "original_image": "1000072212.jpg"
+    },
+    {
+      "id": 4,
+      "page": 1,
+      "within_page": 4,
+      "row": 2,
+      "column": 1,
+      "question_latex": "25\\times (4\\times 54)",
+      "steps_latex": [
+        "(25\\times 4)\\times 54",
+        "100\\times 54",
+        "5400"
+      ],
+      "question_ascii": "25*(4*54)",
+      "answer": 5400,
+      "original_image": "1000072212.jpg"
+    },
+    {
+      "id": 5,
+      "page": 1,
+      "within_page": 5,
+      "row": 2,
+      "column": 2,
+      "question_latex": "4\\times 61\\times 5",
+      "steps_latex": [
+        "(4\\times 5)\\times 61",
+        "20\\times 61",
+        "1220"
+      ],
+      "question_ascii": "4*61*5",
+      "answer": 1220,
+      "original_image": "1000072212.jpg"
+    },
+    {
+      "id": 6,
+      "page": 1,
+      "within_page": 6,
+      "row": 2,
+      "column": 3,
+      "question_latex": "125\\times (8\\times 39)",
+      "steps_latex": [
+        "(125\\times 8)\\times 39",
+        "1000\\times 39",
+        "39000"
+      ],
+      "question_ascii": "125*(8*39)",
+      "answer": 39000,
+      "original_image": "1000072212.jpg"
+    },
+    {
+      "id": 7,
+      "page": 1,
+      "within_page": 7,
+      "row": 3,
+      "column": 1,
+      "question_latex": "9\\times 125\\times 8\\times 3",
+      "steps_latex": [
+        "(9\\times 3)\\times (125\\times 8)",
+        "27\\times 1000",
+        "27000"
+      ],
+      "question_ascii": "9*125*8*3",
+      "answer": 27000,
+      "original_image": "1000072212.jpg"
+    },
+    {
+      "id": 8,
+      "page": 1,
+      "within_page": 8,
+      "row": 3,
+      "column": 2,
+      "question_latex": "216-96",
+      "steps_latex": [
+        "216-100+4",
+        "116+4",
+        "120"
+      ],
+      "question_ascii": "216-96",
+      "answer": 120,
+      "original_image": "1000072212.jpg"
+    },
+    {
+      "id": 9,
+      "page": 1,
+      "within_page": 9,
+      "row": 3,
+      "column": 3,
+      "question_latex": "5\\times 93\\times 4",
+      "steps_latex": [
+        "(5\\times 4)\\times 93",
+        "20\\times 93",
+        "1860"
+      ],
+      "question_ascii": "5*93*4",
+      "answer": 1860,
+      "original_image": "1000072212.jpg"
+    },
+    {
+      "id": 10,
+      "page": 1,
+      "within_page": 10,
+      "row": 4,
+      "column": 1,
+      "question_latex": "5\\times 51\\times 4",
+      "steps_latex": [
+        "(5\\times 4)\\times 51",
+        "20\\times 51",
+        "1020"
+      ],
+      "question_ascii": "5*51*4",
+      "answer": 1020,
+      "original_image": "1000072212.jpg"
+    },
+    {
+      "id": 11,
+      "page": 1,
+      "within_page": 11,
+      "row": 4,
+      "column": 2,
+      "question_latex": "209-95",
+      "steps_latex": [
+        "209-100+5",
+        "109+5",
+        "114"
+      ],
+      "question_ascii": "209-95",
+      "answer": 114,
+      "original_image": "1000072212.jpg"
+    },
+    {
+      "id": 12,
+      "page": 1,
+      "within_page": 12,
+      "row": 4,
+      "column": 3,
+      "question_latex": "55\\times 25\\times 8",
+      "steps_latex": [
+        "55\\times (25\\times 8)",
+        "55\\times 200",
+        "11000"
+      ],
+      "question_ascii": "55*25*8",
+      "answer": 11000,
+      "original_image": "1000072212.jpg"
+    },
+    {
+      "id": 13,
+      "page": 1,
+      "within_page": 13,
+      "row": 5,
+      "column": 1,
+      "question_latex": "125\\times 11\\times 8",
+      "steps_latex": [
+        "(125\\times 8)\\times 11",
+        "1000\\times 11",
+        "11000"
+      ],
+      "question_ascii": "125*11*8",
+      "answer": 11000,
+      "original_image": "1000072212.jpg"
+    },
+    {
+      "id": 14,
+      "page": 1,
+      "within_page": 14,
+      "row": 5,
+      "column": 2,
+      "question_latex": "320-208",
+      "steps_latex": [
+        "320-200-8",
+        "120-8",
+        "112"
+      ],
+      "question_ascii": "320-208",
+      "answer": 112,
+      "original_image": "1000072212.jpg"
+    },
+    {
+      "id": 15,
+      "page": 1,
+      "within_page": 15,
+      "row": 5,
+      "column": 3,
+      "question_latex": "5\\times 69\\times 4",
+      "steps_latex": [
+        "(5\\times 4)\\times 69",
+        "20\\times 69",
+        "1380"
+      ],
+      "question_ascii": "5*69*4",
+      "answer": 1380,
+      "original_image": "1000072212.jpg"
+    },
+    {
+      "id": 16,
+      "page": 1,
+      "within_page": 16,
+      "row": 6,
+      "column": 1,
+      "question_latex": "89000\\div 125\\div 8",
+      "steps_latex": [
+        "89000\\div (125\\times 8)",
+        "89000\\div 1000",
+        "89"
+      ],
+      "question_ascii": "89000/125/8",
+      "answer": 89,
+      "original_image": "1000072212.jpg"
+    },
+    {
+      "id": 17,
+      "page": 1,
+      "within_page": 17,
+      "row": 6,
+      "column": 2,
+      "question_latex": "125\\times (8\\times 92)",
+      "steps_latex": [
+        "(125\\times 8)\\times 92",
+        "1000\\times 92",
+        "92000"
+      ],
+      "question_ascii": "125*(8*92)",
+      "answer": 92000,
+      "original_image": "1000072212.jpg"
+    },
+    {
+      "id": 18,
+      "page": 1,
+      "within_page": 18,
+      "row": 6,
+      "column": 3,
+      "question_latex": "9\\times 4\\times 25\\times 5",
+      "steps_latex": [
+        "(9\\times 5)\\times (4\\times 25)",
+        "45\\times 100",
+        "4500"
+      ],
+      "question_ascii": "9*4*25*5",
+      "answer": 4500,
+      "original_image": "1000072212.jpg"
+    },
+    {
+      "id": 19,
+      "page": 1,
+      "within_page": 19,
+      "row": 7,
+      "column": 1,
+      "question_latex": "500\\div 5\\div 4",
+      "steps_latex": [
+        "500\\div (5\\times 4)",
+        "500\\div 20",
+        "25"
+      ],
+      "question_ascii": "500/5/4",
+      "answer": 25,
+      "original_image": "1000072212.jpg"
+    },
+    {
+      "id": 20,
+      "page": 1,
+      "within_page": 20,
+      "row": 7,
+      "column": 2,
+      "question_latex": "320\\div 10\\div 2",
+      "steps_latex": [
+        "320\\div (10\\times 2)",
+        "320\\div 20",
+        "16"
+      ],
+      "question_ascii": "320/10/2",
+      "answer": 16,
+      "original_image": "1000072212.jpg"
+    },
+    {
+      "id": 21,
+      "page": 1,
+      "within_page": 21,
+      "row": 7,
+      "column": 3,
+      "question_latex": "2100\\div 25\\div 4",
+      "steps_latex": [
+        "2100\\div (25\\times 4)",
+        "2100\\div 100",
+        "21"
+      ],
+      "question_ascii": "2100/25/4",
+      "answer": 21,
+      "original_image": "1000072212.jpg"
+    },
+    {
+      "id": 22,
+      "page": 2,
+      "within_page": 1,
+      "row": 1,
+      "column": 1,
+      "question_latex": "1920\\div 4\\div 5",
+      "steps_latex": [
+        "1920\\div (4\\times 5)",
+        "1920\\div 20",
+        "96"
+      ],
+      "question_ascii": "1920/4/5",
+      "answer": 96,
+      "original_image": "1000072211.jpg"
+    },
+    {
+      "id": 23,
+      "page": 2,
+      "within_page": 2,
+      "row": 1,
+      "column": 2,
+      "question_latex": "296-207",
+      "steps_latex": [
+        "296-200-7",
+        "96-7",
+        "89"
+      ],
+      "question_ascii": "296-207",
+      "answer": 89,
+      "original_image": "1000072211.jpg"
+    },
+    {
+      "id": 24,
+      "page": 2,
+      "within_page": 3,
+      "row": 1,
+      "column": 3,
+      "question_latex": "56\\times 125",
+      "steps_latex": [
+        "(7\\times 8)\\times 125",
+        "7\\times (8\\times 125)",
+        "7\\times 1000",
+        "7000"
+      ],
+      "question_ascii": "56*125",
+      "answer": 7000,
+      "original_image": "1000072211.jpg"
+    },
+    {
+      "id": 25,
+      "page": 2,
+      "within_page": 4,
+      "row": 2,
+      "column": 1,
+      "question_latex": "760\\div 2\\div 10",
+      "steps_latex": [
+        "760\\div (2\\times 10)",
+        "760\\div 20",
+        "38"
+      ],
+      "question_ascii": "760/2/10",
+      "answer": 38,
+      "original_image": "1000072211.jpg"
+    },
+    {
+      "id": 26,
+      "page": 2,
+      "within_page": 5,
+      "row": 2,
+      "column": 2,
+      "question_latex": "163-103",
+      "steps_latex": [
+        "163-100-3",
+        "63-3",
+        "60"
+      ],
+      "question_ascii": "163-103",
+      "answer": 60,
+      "original_image": "1000072211.jpg"
+    },
+    {
+      "id": 27,
+      "page": 2,
+      "within_page": 6,
+      "row": 2,
+      "column": 3,
+      "question_latex": "1420\\div 10\\div 2",
+      "steps_latex": [
+        "1420\\div (10\\times 2)",
+        "1420\\div 20",
+        "71"
+      ],
+      "question_ascii": "1420/10/2",
+      "answer": 71,
+      "original_image": "1000072211.jpg"
+    },
+    {
+      "id": 28,
+      "page": 2,
+      "within_page": 7,
+      "row": 3,
+      "column": 1,
+      "question_latex": "125\\times 79\\times 8",
+      "steps_latex": [
+        "(125\\times 8)\\times 79",
+        "1000\\times 79",
+        "79000"
+      ],
+      "question_ascii": "125*79*8",
+      "answer": 79000,
+      "original_image": "1000072211.jpg"
+    },
+    {
+      "id": 29,
+      "page": 2,
+      "within_page": 8,
+      "row": 3,
+      "column": 2,
+      "question_latex": "57\\times 8\\times 125",
+      "steps_latex": [
+        "57\\times (8\\times 125)",
+        "57\\times 1000",
+        "57000"
+      ],
+      "question_ascii": "57*8*125",
+      "answer": 57000,
+      "original_image": "1000072211.jpg"
+    },
+    {
+      "id": 30,
+      "page": 2,
+      "within_page": 9,
+      "row": 3,
+      "column": 3,
+      "question_latex": "18000\\div 8\\div 125",
+      "steps_latex": [
+        "18000\\div (8\\times 125)",
+        "18000\\div 1000",
+        "18"
+      ],
+      "question_ascii": "18000/8/125",
+      "answer": 18,
+      "original_image": "1000072211.jpg"
+    },
+    {
+      "id": 31,
+      "page": 2,
+      "within_page": 10,
+      "row": 4,
+      "column": 1,
+      "question_latex": "9\\times 125\\times 8\\times 3",
+      "steps_latex": [
+        "(9\\times 3)\\times (125\\times 8)",
+        "27\\times 1000",
+        "27000"
+      ],
+      "question_ascii": "9*125*8*3",
+      "answer": 27000,
+      "original_image": "1000072211.jpg"
+    },
+    {
+      "id": 32,
+      "page": 2,
+      "within_page": 11,
+      "row": 4,
+      "column": 2,
+      "question_latex": "54000\\div 8\\div 125",
+      "steps_latex": [
+        "54000\\div (8\\times 125)",
+        "54000\\div 1000",
+        "54"
+      ],
+      "question_ascii": "54000/8/125",
+      "answer": 54,
+      "original_image": "1000072211.jpg"
+    },
+    {
+      "id": 33,
+      "page": 2,
+      "within_page": 12,
+      "row": 4,
+      "column": 3,
+      "question_latex": "125\\times 27\\times 8",
+      "steps_latex": [
+        "(125\\times 8)\\times 27",
+        "1000\\times 27",
+        "27000"
+      ],
+      "question_ascii": "125*27*8",
+      "answer": 27000,
+      "original_image": "1000072211.jpg"
+    },
+    {
+      "id": 34,
+      "page": 2,
+      "within_page": 13,
+      "row": 5,
+      "column": 1,
+      "question_latex": "5\\times 53\\times 4",
+      "steps_latex": [
+        "(5\\times 4)\\times 53",
+        "20\\times 53",
+        "1060"
+      ],
+      "question_ascii": "5*53*4",
+      "answer": 1060,
+      "original_image": "1000072211.jpg"
+    },
+    {
+      "id": 35,
+      "page": 2,
+      "within_page": 14,
+      "row": 5,
+      "column": 2,
+      "question_latex": "5\\times 79\\times 4",
+      "steps_latex": [
+        "(5\\times 4)\\times 79",
+        "20\\times 79",
+        "1580"
+      ],
+      "question_ascii": "5*79*4",
+      "answer": 1580,
+      "original_image": "1000072211.jpg"
+    },
+    {
+      "id": 36,
+      "page": 2,
+      "within_page": 15,
+      "row": 5,
+      "column": 3,
+      "question_latex": "15\\times 25\\times 8",
+      "steps_latex": [
+        "15\\times (25\\times 8)",
+        "15\\times 200",
+        "3000"
+      ],
+      "question_ascii": "15*25*8",
+      "answer": 3000,
+      "original_image": "1000072211.jpg"
+    },
+    {
+      "id": 37,
+      "page": 2,
+      "within_page": 16,
+      "row": 6,
+      "column": 1,
+      "question_latex": "13\\times 125\\times 4",
+      "steps_latex": [
+        "13\\times (125\\times 4)",
+        "13\\times 500",
+        "6500"
+      ],
+      "question_ascii": "13*125*4",
+      "answer": 6500,
+      "original_image": "1000072211.jpg"
+    },
+    {
+      "id": 38,
+      "page": 2,
+      "within_page": 17,
+      "row": 6,
+      "column": 2,
+      "question_latex": "509-408",
+      "steps_latex": [
+        "509-400-8",
+        "109-8",
+        "101"
+      ],
+      "question_ascii": "509-408",
+      "answer": 101,
+      "original_image": "1000072211.jpg"
+    },
+    {
+      "id": 39,
+      "page": 2,
+      "within_page": 18,
+      "row": 6,
+      "column": 3,
+      "question_latex": "25\\times 89\\times 4",
+      "steps_latex": [
+        "(25\\times 4)\\times 89",
+        "100\\times 89",
+        "8900"
+      ],
+      "question_ascii": "25*89*4",
+      "answer": 8900,
+      "original_image": "1000072211.jpg"
+    },
+    {
+      "id": 40,
+      "page": 2,
+      "within_page": 19,
+      "row": 7,
+      "column": 1,
+      "question_latex": "125\\times 12",
+      "steps_latex": [
+        "125\\times (4\\times 3)",
+        "(125\\times 4)\\times 3",
+        "500\\times 3",
+        "1500"
+      ],
+      "question_ascii": "125*12",
+      "answer": 1500,
+      "original_image": "1000072211.jpg"
+    },
+    {
+      "id": 41,
+      "page": 2,
+      "within_page": 20,
+      "row": 7,
+      "column": 2,
+      "question_latex": "4\\times 77\\times 25",
+      "steps_latex": [
+        "(4\\times 25)\\times 77",
+        "100\\times 77",
+        "7700"
+      ],
+      "question_ascii": "4*77*25",
+      "answer": 7700,
+      "original_image": "1000072211.jpg"
+    },
+    {
+      "id": 42,
+      "page": 2,
+      "within_page": 21,
+      "row": 7,
+      "column": 3,
+      "question_latex": "172-94",
+      "steps_latex": [
+        "172-100+6",
+        "72+6",
+        "78"
+      ],
+      "question_ascii": "172-94",
+      "answer": 78,
+      "original_image": "1000072211.jpg"
+    },
+    {
+      "id": 43,
+      "page": 3,
+      "within_page": 1,
+      "row": 1,
+      "column": 1,
+      "question_latex": "4\\times 39\\times 25",
+      "steps_latex": [
+        "(4\\times 25)\\times 39",
+        "100\\times 39",
+        "3900"
+      ],
+      "question_ascii": "4*39*25",
+      "answer": 3900,
+      "original_image": "1000072209.jpg"
+    },
+    {
+      "id": 44,
+      "page": 3,
+      "within_page": 2,
+      "row": 1,
+      "column": 2,
+      "question_latex": "900\\div 2\\div 5",
+      "steps_latex": [
+        "900\\div (2\\times 5)",
+        "900\\div 10",
+        "90"
+      ],
+      "question_ascii": "900/2/5",
+      "answer": 90,
+      "original_image": "1000072209.jpg"
+    },
+    {
+      "id": 45,
+      "page": 3,
+      "within_page": 3,
+      "row": 1,
+      "column": 3,
+      "question_latex": "9100\\div 4\\div 25",
+      "steps_latex": [
+        "9100\\div (4\\times 25)",
+        "9100\\div 100",
+        "91"
+      ],
+      "question_ascii": "9100/4/25",
+      "answer": 91,
+      "original_image": "1000072209.jpg"
+    },
+    {
+      "id": 46,
+      "page": 3,
+      "within_page": 4,
+      "row": 2,
+      "column": 1,
+      "question_latex": "8\\times (125\\times 19)",
+      "steps_latex": [
+        "(8\\times 125)\\times 19",
+        "1000\\times 19",
+        "19000"
+      ],
+      "question_ascii": "8*(125*19)",
+      "answer": 19000,
+      "original_image": "1000072209.jpg"
+    },
+    {
+      "id": 47,
+      "page": 3,
+      "within_page": 5,
+      "row": 2,
+      "column": 2,
+      "question_latex": "19000\\div 8\\div 125",
+      "steps_latex": [
+        "19000\\div (8\\times 125)",
+        "19000\\div 1000",
+        "19"
+      ],
+      "question_ascii": "19000/8/125",
+      "answer": 19,
+      "original_image": "1000072209.jpg"
+    },
+    {
+      "id": 48,
+      "page": 3,
+      "within_page": 6,
+      "row": 2,
+      "column": 3,
+      "question_latex": "299-108",
+      "steps_latex": [
+        "299-100-8",
+        "199-8",
+        "191"
+      ],
+      "question_ascii": "299-108",
+      "answer": 191,
+      "original_image": "1000072209.jpg"
+    },
+    {
+      "id": 49,
+      "page": 3,
+      "within_page": 7,
+      "row": 3,
+      "column": 1,
+      "question_latex": "47\\times 8\\times 125",
+      "steps_latex": [
+        "47\\times (8\\times 125)",
+        "47\\times 1000",
+        "47000"
+      ],
+      "question_ascii": "47*8*125",
+      "answer": 47000,
+      "original_image": "1000072209.jpg"
+    },
+    {
+      "id": 50,
+      "page": 3,
+      "within_page": 8,
+      "row": 3,
+      "column": 2,
+      "question_latex": "484-392",
+      "steps_latex": [
+        "484-400+8",
+        "84+8",
+        "92"
+      ],
+      "question_ascii": "484-392",
+      "answer": 92,
+      "original_image": "1000072209.jpg"
+    },
+    {
+      "id": 51,
+      "page": 3,
+      "within_page": 9,
+      "row": 3,
+      "column": 3,
+      "question_latex": "5\\times 49\\times 4",
+      "steps_latex": [
+        "(5\\times 4)\\times 49",
+        "20\\times 49",
+        "980"
+      ],
+      "question_ascii": "5*49*4",
+      "answer": 980,
+      "original_image": "1000072209.jpg"
+    },
+    {
+      "id": 52,
+      "page": 3,
+      "within_page": 10,
+      "row": 4,
+      "column": 1,
+      "question_latex": "399-296",
+      "steps_latex": [
+        "399-300+4",
+        "99+4",
+        "103"
+      ],
+      "question_ascii": "399-296",
+      "answer": 103,
+      "original_image": "1000072209.jpg"
+    },
+    {
+      "id": 53,
+      "page": 3,
+      "within_page": 11,
+      "row": 4,
+      "column": 2,
+      "question_latex": "93000\\div 8\\div 125",
+      "steps_latex": [
+        "93000\\div (8\\times 125)",
+        "93000\\div 1000",
+        "93"
+      ],
+      "question_ascii": "93000/8/125",
+      "answer": 93,
+      "original_image": "1000072209.jpg"
+    },
+    {
+      "id": 54,
+      "page": 3,
+      "within_page": 12,
+      "row": 4,
+      "column": 3,
+      "question_latex": "25\\times 72",
+      "steps_latex": [
+        "25\\times (4\\times 18)",
+        "(25\\times 4)\\times 18",
+        "100\\times 18",
+        "1800"
+      ],
+      "question_ascii": "25*72",
+      "answer": 1800,
+      "original_image": "1000072209.jpg"
+    },
+    {
+      "id": 55,
+      "page": 3,
+      "within_page": 13,
+      "row": 5,
+      "column": 1,
+      "question_latex": "13\\times 125\\times 8",
+      "steps_latex": [
+        "13\\times (125\\times 8)",
+        "13\\times 1000",
+        "13000"
+      ],
+      "question_ascii": "13*125*8",
+      "answer": 13000,
+      "original_image": "1000072209.jpg"
+    },
+    {
+      "id": 56,
+      "page": 3,
+      "within_page": 14,
+      "row": 5,
+      "column": 2,
+      "question_latex": "230\\div 5\\div 2",
+      "steps_latex": [
+        "230\\div (5\\times 2)",
+        "230\\div 10",
+        "23"
+      ],
+      "question_ascii": "230/5/2",
+      "answer": 23,
+      "original_image": "1000072209.jpg"
+    },
+    {
+      "id": 57,
+      "page": 3,
+      "within_page": 15,
+      "row": 5,
+      "column": 3,
+      "question_latex": "167-91",
+      "steps_latex": [
+        "167-100+9",
+        "67+9",
+        "76"
+      ],
+      "question_ascii": "167-91",
+      "answer": 76,
+      "original_image": "1000072209.jpg"
+    },
+    {
+      "id": 58,
+      "page": 3,
+      "within_page": 16,
+      "row": 6,
+      "column": 1,
+      "question_latex": "190-109",
+      "steps_latex": [
+        "190-100-9",
+        "90-9",
+        "81"
+      ],
+      "question_ascii": "190-109",
+      "answer": 81,
+      "original_image": "1000072209.jpg"
+    },
+    {
+      "id": 59,
+      "page": 3,
+      "within_page": 17,
+      "row": 6,
+      "column": 2,
+      "question_latex": "9\\times 8\\times 125\\times 6",
+      "steps_latex": [
+        "(9\\times 6)\\times (8\\times 125)",
+        "54\\times 1000",
+        "54000"
+      ],
+      "question_ascii": "9*8*125*6",
+      "answer": 54000,
+      "original_image": "1000072209.jpg"
+    },
+    {
+      "id": 60,
+      "page": 3,
+      "within_page": 18,
+      "row": 6,
+      "column": 3,
+      "question_latex": "7\\times 25\\times 4\\times 5",
+      "steps_latex": [
+        "(7\\times 5)\\times (25\\times 4)",
+        "35\\times 100",
+        "3500"
+      ],
+      "question_ascii": "7*25*4*5",
+      "answer": 3500,
+      "original_image": "1000072209.jpg"
+    },
+    {
+      "id": 61,
+      "page": 3,
+      "within_page": 19,
+      "row": 7,
+      "column": 1,
+      "question_latex": "508-399",
+      "steps_latex": [
+        "508-400+1",
+        "108+1",
+        "109"
+      ],
+      "question_ascii": "508-399",
+      "answer": 109,
+      "original_image": "1000072209.jpg"
+    },
+    {
+      "id": 62,
+      "page": 3,
+      "within_page": 20,
+      "row": 7,
+      "column": 2,
+      "question_latex": "25\\times 79\\times 4",
+      "steps_latex": [
+        "(25\\times 4)\\times 79",
+        "100\\times 79",
+        "7900"
+      ],
+      "question_ascii": "25*79*4",
+      "answer": 7900,
+      "original_image": "1000072209.jpg"
+    },
+    {
+      "id": 63,
+      "page": 3,
+      "within_page": 21,
+      "row": 7,
+      "column": 3,
+      "question_latex": "5\\times 19\\times 4",
+      "steps_latex": [
+        "(5\\times 4)\\times 19",
+        "20\\times 19",
+        "380"
+      ],
+      "question_ascii": "5*19*4",
+      "answer": 380,
+      "original_image": "1000072209.jpg"
+    },
+    {
+      "id": 64,
+      "page": 4,
+      "within_page": 1,
+      "row": 1,
+      "column": 1,
+      "question_latex": "420\\div 5\\div 2",
+      "steps_latex": [
+        "420\\div (5\\times 2)",
+        "420\\div 10",
+        "42"
+      ],
+      "question_ascii": "420/5/2",
+      "answer": 42,
+      "original_image": "1000072210.jpg"
+    },
+    {
+      "id": 65,
+      "page": 4,
+      "within_page": 2,
+      "row": 1,
+      "column": 2,
+      "question_latex": "125\\times 63\\times 8",
+      "steps_latex": [
+        "(125\\times 8)\\times 63",
+        "1000\\times 63",
+        "63000"
+      ],
+      "question_ascii": "125*63*8",
+      "answer": 63000,
+      "original_image": "1000072210.jpg"
+    },
+    {
+      "id": 66,
+      "page": 4,
+      "within_page": 3,
+      "row": 1,
+      "column": 3,
+      "question_latex": "387-192",
+      "steps_latex": [
+        "387-200+8",
+        "187+8",
+        "195"
+      ],
+      "question_ascii": "387-192",
+      "answer": 195,
+      "original_image": "1000072210.jpg"
+    },
+    {
+      "id": 67,
+      "page": 4,
+      "within_page": 4,
+      "row": 2,
+      "column": 1,
+      "question_latex": "64\\times 125",
+      "steps_latex": [
+        "(8\\times 8)\\times 125",
+        "8\\times (8\\times 125)",
+        "8\\times 1000",
+        "8000"
+      ],
+      "question_ascii": "64*125",
+      "answer": 8000,
+      "original_image": "1000072210.jpg"
+    },
+    {
+      "id": 68,
+      "page": 4,
+      "within_page": 5,
+      "row": 2,
+      "column": 2,
+      "question_latex": "810\\div 2\\div 5",
+      "steps_latex": [
+        "810\\div (2\\times 5)",
+        "810\\div 10",
+        "81"
+      ],
+      "question_ascii": "810/2/5",
+      "answer": 81,
+      "original_image": "1000072210.jpg"
+    },
+    {
+      "id": 69,
+      "page": 4,
+      "within_page": 6,
+      "row": 2,
+      "column": 3,
+      "question_latex": "5\\times 25\\times 4\\times 6",
+      "steps_latex": [
+        "(5\\times 6)\\times (25\\times 4)",
+        "30\\times 100",
+        "3000"
+      ],
+      "question_ascii": "5*25*4*6",
+      "answer": 3000,
+      "original_image": "1000072210.jpg"
+    },
+    {
+      "id": 70,
+      "page": 4,
+      "within_page": 7,
+      "row": 3,
+      "column": 1,
+      "question_latex": "88\\times 25",
+      "steps_latex": [
+        "(22\\times 4)\\times 25",
+        "22\\times (4\\times 25)",
+        "22\\times 100",
+        "2200"
+      ],
+      "question_ascii": "88*25",
+      "answer": 2200,
+      "original_image": "1000072210.jpg"
+    },
+    {
+      "id": 71,
+      "page": 4,
+      "within_page": 8,
+      "row": 3,
+      "column": 2,
+      "question_latex": "250\\div 5\\div 2",
+      "steps_latex": [
+        "250\\div (5\\times 2)",
+        "250\\div 10",
+        "25"
+      ],
+      "question_ascii": "250/5/2",
+      "answer": 25,
+      "original_image": "1000072210.jpg"
+    },
+    {
+      "id": 72,
+      "page": 4,
+      "within_page": 9,
+      "row": 3,
+      "column": 3,
+      "question_latex": "2\\times 49\\times 5",
+      "steps_latex": [
+        "(2\\times 5)\\times 49",
+        "10\\times 49",
+        "490"
+      ],
+      "question_ascii": "2*49*5",
+      "answer": 490,
+      "original_image": "1000072210.jpg"
+    },
+    {
+      "id": 73,
+      "page": 4,
+      "within_page": 10,
+      "row": 4,
+      "column": 1,
+      "question_latex": "9300\\div 4\\div 25",
+      "steps_latex": [
+        "9300\\div (4\\times 25)",
+        "9300\\div 100",
+        "93"
+      ],
+      "question_ascii": "9300/4/25",
+      "answer": 93,
+      "original_image": "1000072210.jpg"
+    },
+    {
+      "id": 74,
+      "page": 4,
+      "within_page": 11,
+      "row": 4,
+      "column": 2,
+      "question_latex": "159-104",
+      "steps_latex": [
+        "159-100-4",
+        "59-4",
+        "55"
+      ],
+      "question_ascii": "159-104",
+      "answer": 55,
+      "original_image": "1000072210.jpg"
+    },
+    {
+      "id": 75,
+      "page": 4,
+      "within_page": 12,
+      "row": 4,
+      "column": 3,
+      "question_latex": "288-193",
+      "steps_latex": [
+        "288-200+7",
+        "88+7",
+        "95"
+      ],
+      "question_ascii": "288-193",
+      "answer": 95,
+      "original_image": "1000072210.jpg"
+    },
+    {
+      "id": 76,
+      "page": 4,
+      "within_page": 13,
+      "row": 5,
+      "column": 1,
+      "question_latex": "9\\times 25\\times 4\\times 3",
+      "steps_latex": [
+        "(9\\times 3)\\times (25\\times 4)",
+        "27\\times 100",
+        "2700"
+      ],
+      "question_ascii": "9*25*4*3",
+      "answer": 2700,
+      "original_image": "1000072210.jpg"
+    },
+    {
+      "id": 77,
+      "page": 4,
+      "within_page": 14,
+      "row": 5,
+      "column": 2,
+      "question_latex": "478-407",
+      "steps_latex": [
+        "478-400-7",
+        "78-7",
+        "71"
+      ],
+      "question_ascii": "478-407",
+      "answer": 71,
+      "original_image": "1000072210.jpg"
+    },
+    {
+      "id": 78,
+      "page": 4,
+      "within_page": 15,
+      "row": 5,
+      "column": 3,
+      "question_latex": "16\\times 125",
+      "steps_latex": [
+        "(2\\times 8)\\times 125",
+        "2\\times (8\\times 125)",
+        "2\\times 1000",
+        "2000"
+      ],
+      "question_ascii": "16*125",
+      "answer": 2000,
+      "original_image": "1000072210.jpg"
+    },
+    {
+      "id": 79,
+      "page": 4,
+      "within_page": 16,
+      "row": 6,
+      "column": 1,
+      "question_latex": "7\\times 125\\times 4\\times 8",
+      "steps_latex": [
+        "(7\\times 4)\\times (125\\times 8)",
+        "28\\times 1000",
+        "28000"
+      ],
+      "question_ascii": "7*125*4*8",
+      "answer": 28000,
+      "original_image": "1000072210.jpg"
+    },
+    {
+      "id": 80,
+      "page": 4,
+      "within_page": 17,
+      "row": 6,
+      "column": 2,
+      "question_latex": "4\\times 67\\times 5",
+      "steps_latex": [
+        "(4\\times 5)\\times 67",
+        "20\\times 67",
+        "1340"
+      ],
+      "question_ascii": "4*67*5",
+      "answer": 1340,
+      "original_image": "1000072210.jpg"
+    },
+    {
+      "id": 81,
+      "page": 4,
+      "within_page": 18,
+      "row": 6,
+      "column": 3,
+      "question_latex": "25\\times 79\\times 4",
+      "steps_latex": [
+        "(25\\times 4)\\times 79",
+        "100\\times 79",
+        "7900"
+      ],
+      "question_ascii": "25*79*4",
+      "answer": 7900,
+      "original_image": "1000072210.jpg"
+    },
+    {
+      "id": 82,
+      "page": 4,
+      "within_page": 19,
+      "row": 7,
+      "column": 1,
+      "question_latex": "603-505",
+      "steps_latex": [
+        "603-500-5",
+        "103-5",
+        "98"
+      ],
+      "question_ascii": "603-505",
+      "answer": 98,
+      "original_image": "1000072210.jpg"
+    },
+    {
+      "id": 83,
+      "page": 4,
+      "within_page": 20,
+      "row": 7,
+      "column": 2,
+      "question_latex": "330\\div 2\\div 5",
+      "steps_latex": [
+        "330\\div (2\\times 5)",
+        "330\\div 10",
+        "33"
+      ],
+      "question_ascii": "330/2/5",
+      "answer": 33,
+      "original_image": "1000072210.jpg"
+    },
+    {
+      "id": 84,
+      "page": 4,
+      "within_page": 21,
+      "row": 7,
+      "column": 3,
+      "question_latex": "8\\times 51\\times 125",
+      "steps_latex": [
+        "(8\\times 125)\\times 51",
+        "1000\\times 51",
+        "51000"
+      ],
+      "question_ascii": "8*51*125",
+      "answer": 51000,
+      "original_image": "1000072210.jpg"
+    }
+  ]
+}
