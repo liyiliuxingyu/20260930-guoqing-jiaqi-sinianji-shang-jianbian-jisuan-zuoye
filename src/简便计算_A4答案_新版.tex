@@ -1,0 +1,602 @@
+% !TeX program = xelatex
+% !TeX encoding = UTF-8
+% 使用 ctexart 默认字体；不指定 fontset、中文字体、正文字体或数学字体。
+% A4 纵向，每页 7 行 × 3 列，共 21 题；题目与答案按页、行、列对应。
+\documentclass[UTF8]{ctexart}
+\usepackage[a4paper,top=14mm,bottom=14mm,left=14mm,right=14mm]{geometry}
+\usepackage{mathtools}
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+\setlength{\arraycolsep}{0pt}
+\renewcommand{\arraystretch}{1.10}
+
+% 标题保留默认字形，只设置字号；不附加页码、姓名栏或其他文字。
+\newcommand{\sheettitle}[1]{%
+  \noindent\begin{minipage}[t][18mm][t]{\textwidth}%
+    \vspace{0pt}\centering\zihao{2}#1\par
+  \end{minipage}\par\nointerlineskip
+}
+% 一页的题目网格共 7 行；每行高 35 mm。
+\newcommand{\cell}[2]{%
+  \begin{minipage}[t][35mm][t]{0.315\textwidth}%
+    \vspace{0pt}\linespread{1}#1\selectfont
+    \strut#2%
+  \end{minipage}%
+}
+\newcommand{\qrow}[3]{%
+  \noindent\cell{\zihao{4}}{#1}\hfill
+  \cell{\zihao{4}}{#2}\hfill
+  \cell{\zihao{4}}{#3}\par\nointerlineskip
+}
+\newcommand{\arow}[3]{%
+  \noindent\cell{\zihao{-4}}{#1}\hfill
+  \cell{\zihao{-4}}{#2}\hfill
+  \cell{\zihao{-4}}{#3}\par\nointerlineskip
+}
+% 对齐规则（按用户提供的照片）：
+% 1. 首行的等号列留空；后续各行的等号单独成列、上下对齐。
+% 2. 原题与等号后完整算式的左端对齐；左括号正常占位，不使用悬挂括号。
+\newcommand{\eqgap}{0.35em}
+\newcommand{\problemline}[1]{#1}
+\newcommand{\solution}[1]{%
+  \(\begin{array}[t]{@{}r@{\hspace{\eqgap}}l@{}}#1\end{array}\)%
+}
+\begin{document}
+\sheettitle{简便计算（答案）}
+\arow
+{\solution{
+& \problemline{608-491} \\
+= & 608-500+9 \\
+= & 108+9 \\
+= & 117
+}}
+{\solution{
+& \problemline{730\div 5\div 2} \\
+= & 730\div (5\times 2) \\
+= & 730\div 10 \\
+= & 73
+}}
+{\solution{
+& \problemline{212-97} \\
+= & 212-100+3 \\
+= & 112+3 \\
+= & 115
+}}
+\arow
+{\solution{
+& \problemline{25\times (4\times 54)} \\
+= & (25\times 4)\times 54 \\
+= & 100\times 54 \\
+= & 5400
+}}
+{\solution{
+& \problemline{4\times 61\times 5} \\
+= & (4\times 5)\times 61 \\
+= & 20\times 61 \\
+= & 1220
+}}
+{\solution{
+& \problemline{125\times (8\times 39)} \\
+= & (125\times 8)\times 39 \\
+= & 1000\times 39 \\
+= & 39000
+}}
+\arow
+{\solution{
+& \problemline{9\times 125\times 8\times 3} \\
+= & (9\times 3)\times (125\times 8) \\
+= & 27\times 1000 \\
+= & 27000
+}}
+{\solution{
+& \problemline{216-96} \\
+= & 216-100+4 \\
+= & 116+4 \\
+= & 120
+}}
+{\solution{
+& \problemline{5\times 93\times 4} \\
+= & (5\times 4)\times 93 \\
+= & 20\times 93 \\
+= & 1860
+}}
+\arow
+{\solution{
+& \problemline{5\times 51\times 4} \\
+= & (5\times 4)\times 51 \\
+= & 20\times 51 \\
+= & 1020
+}}
+{\solution{
+& \problemline{209-95} \\
+= & 209-100+5 \\
+= & 109+5 \\
+= & 114
+}}
+{\solution{
+& \problemline{55\times 25\times 8} \\
+= & 55\times (25\times 8) \\
+= & 55\times 200 \\
+= & 11000
+}}
+\arow
+{\solution{
+& \problemline{125\times 11\times 8} \\
+= & (125\times 8)\times 11 \\
+= & 1000\times 11 \\
+= & 11000
+}}
+{\solution{
+& \problemline{320-208} \\
+= & 320-200-8 \\
+= & 120-8 \\
+= & 112
+}}
+{\solution{
+& \problemline{5\times 69\times 4} \\
+= & (5\times 4)\times 69 \\
+= & 20\times 69 \\
+= & 1380
+}}
+\arow
+{\solution{
+& \problemline{89000\div 125\div 8} \\
+= & 89000\div (125\times 8) \\
+= & 89000\div 1000 \\
+= & 89
+}}
+{\solution{
+& \problemline{125\times (8\times 92)} \\
+= & (125\times 8)\times 92 \\
+= & 1000\times 92 \\
+= & 92000
+}}
+{\solution{
+& \problemline{9\times 4\times 25\times 5} \\
+= & (9\times 5)\times (4\times 25) \\
+= & 45\times 100 \\
+= & 4500
+}}
+\arow
+{\solution{
+& \problemline{500\div 5\div 4} \\
+= & 500\div (5\times 4) \\
+= & 500\div 20 \\
+= & 25
+}}
+{\solution{
+& \problemline{320\div 10\div 2} \\
+= & 320\div (10\times 2) \\
+= & 320\div 20 \\
+= & 16
+}}
+{\solution{
+& \problemline{2100\div 25\div 4} \\
+= & 2100\div (25\times 4) \\
+= & 2100\div 100 \\
+= & 21
+}}
+
+\newpage
+
+% 第 2 页
+\sheettitle{简便计算（答案）}
+\arow
+{\solution{
+& \problemline{1920\div 4\div 5} \\
+= & 1920\div (4\times 5) \\
+= & 1920\div 20 \\
+= & 96
+}}
+{\solution{
+& \problemline{296-207} \\
+= & 296-200-7 \\
+= & 96-7 \\
+= & 89
+}}
+{\solution{
+& \problemline{56\times 125} \\
+= & (7\times 8)\times 125 \\
+= & 7\times (8\times 125) \\
+= & 7\times 1000 \\
+= & 7000
+}}
+\arow
+{\solution{
+& \problemline{760\div 2\div 10} \\
+= & 760\div (2\times 10) \\
+= & 760\div 20 \\
+= & 38
+}}
+{\solution{
+& \problemline{163-103} \\
+= & 163-100-3 \\
+= & 63-3 \\
+= & 60
+}}
+{\solution{
+& \problemline{1420\div 10\div 2} \\
+= & 1420\div (10\times 2) \\
+= & 1420\div 20 \\
+= & 71
+}}
+\arow
+{\solution{
+& \problemline{125\times 79\times 8} \\
+= & (125\times 8)\times 79 \\
+= & 1000\times 79 \\
+= & 79000
+}}
+{\solution{
+& \problemline{57\times 8\times 125} \\
+= & 57\times (8\times 125) \\
+= & 57\times 1000 \\
+= & 57000
+}}
+{\solution{
+& \problemline{18000\div 8\div 125} \\
+= & 18000\div (8\times 125) \\
+= & 18000\div 1000 \\
+= & 18
+}}
+\arow
+{\solution{
+& \problemline{9\times 125\times 8\times 3} \\
+= & (9\times 3)\times (125\times 8) \\
+= & 27\times 1000 \\
+= & 27000
+}}
+{\solution{
+& \problemline{54000\div 8\div 125} \\
+= & 54000\div (8\times 125) \\
+= & 54000\div 1000 \\
+= & 54
+}}
+{\solution{
+& \problemline{125\times 27\times 8} \\
+= & (125\times 8)\times 27 \\
+= & 1000\times 27 \\
+= & 27000
+}}
+\arow
+{\solution{
+& \problemline{5\times 53\times 4} \\
+= & (5\times 4)\times 53 \\
+= & 20\times 53 \\
+= & 1060
+}}
+{\solution{
+& \problemline{5\times 79\times 4} \\
+= & (5\times 4)\times 79 \\
+= & 20\times 79 \\
+= & 1580
+}}
+{\solution{
+& \problemline{15\times 25\times 8} \\
+= & 15\times (25\times 8) \\
+= & 15\times 200 \\
+= & 3000
+}}
+\arow
+{\solution{
+& \problemline{13\times 125\times 4} \\
+= & 13\times (125\times 4) \\
+= & 13\times 500 \\
+= & 6500
+}}
+{\solution{
+& \problemline{509-408} \\
+= & 509-400-8 \\
+= & 109-8 \\
+= & 101
+}}
+{\solution{
+& \problemline{25\times 89\times 4} \\
+= & (25\times 4)\times 89 \\
+= & 100\times 89 \\
+= & 8900
+}}
+\arow
+{\solution{
+& \problemline{125\times 12} \\
+= & 125\times (4\times 3) \\
+= & (125\times 4)\times 3 \\
+= & 500\times 3 \\
+= & 1500
+}}
+{\solution{
+& \problemline{4\times 77\times 25} \\
+= & (4\times 25)\times 77 \\
+= & 100\times 77 \\
+= & 7700
+}}
+{\solution{
+& \problemline{172-94} \\
+= & 172-100+6 \\
+= & 72+6 \\
+= & 78
+}}
+
+\newpage
+
+% 第 3 页
+\sheettitle{简便计算（答案）}
+\arow
+{\solution{
+& \problemline{4\times 39\times 25} \\
+= & (4\times 25)\times 39 \\
+= & 100\times 39 \\
+= & 3900
+}}
+{\solution{
+& \problemline{900\div 2\div 5} \\
+= & 900\div (2\times 5) \\
+= & 900\div 10 \\
+= & 90
+}}
+{\solution{
+& \problemline{9100\div 4\div 25} \\
+= & 9100\div (4\times 25) \\
+= & 9100\div 100 \\
+= & 91
+}}
+\arow
+{\solution{
+& \problemline{8\times (125\times 19)} \\
+= & (8\times 125)\times 19 \\
+= & 1000\times 19 \\
+= & 19000
+}}
+{\solution{
+& \problemline{19000\div 8\div 125} \\
+= & 19000\div (8\times 125) \\
+= & 19000\div 1000 \\
+= & 19
+}}
+{\solution{
+& \problemline{299-108} \\
+= & 299-100-8 \\
+= & 199-8 \\
+= & 191
+}}
+\arow
+{\solution{
+& \problemline{47\times 8\times 125} \\
+= & 47\times (8\times 125) \\
+= & 47\times 1000 \\
+= & 47000
+}}
+{\solution{
+& \problemline{484-392} \\
+= & 484-400+8 \\
+= & 84+8 \\
+= & 92
+}}
+{\solution{
+& \problemline{5\times 49\times 4} \\
+= & (5\times 4)\times 49 \\
+= & 20\times 49 \\
+= & 980
+}}
+\arow
+{\solution{
+& \problemline{399-296} \\
+= & 399-300+4 \\
+= & 99+4 \\
+= & 103
+}}
+{\solution{
+& \problemline{93000\div 8\div 125} \\
+= & 93000\div (8\times 125) \\
+= & 93000\div 1000 \\
+= & 93
+}}
+{\solution{
+& \problemline{25\times 72} \\
+= & 25\times (4\times 18) \\
+= & (25\times 4)\times 18 \\
+= & 100\times 18 \\
+= & 1800
+}}
+\arow
+{\solution{
+& \problemline{13\times 125\times 8} \\
+= & 13\times (125\times 8) \\
+= & 13\times 1000 \\
+= & 13000
+}}
+{\solution{
+& \problemline{230\div 5\div 2} \\
+= & 230\div (5\times 2) \\
+= & 230\div 10 \\
+= & 23
+}}
+{\solution{
+& \problemline{167-91} \\
+= & 167-100+9 \\
+= & 67+9 \\
+= & 76
+}}
+\arow
+{\solution{
+& \problemline{190-109} \\
+= & 190-100-9 \\
+= & 90-9 \\
+= & 81
+}}
+{\solution{
+& \problemline{9\times 8\times 125\times 6} \\
+= & (9\times 6)\times (8\times 125) \\
+= & 54\times 1000 \\
+= & 54000
+}}
+{\solution{
+& \problemline{7\times 25\times 4\times 5} \\
+= & (7\times 5)\times (25\times 4) \\
+= & 35\times 100 \\
+= & 3500
+}}
+\arow
+{\solution{
+& \problemline{508-399} \\
+= & 508-400+1 \\
+= & 108+1 \\
+= & 109
+}}
+{\solution{
+& \problemline{25\times 79\times 4} \\
+= & (25\times 4)\times 79 \\
+= & 100\times 79 \\
+= & 7900
+}}
+{\solution{
+& \problemline{5\times 19\times 4} \\
+= & (5\times 4)\times 19 \\
+= & 20\times 19 \\
+= & 380
+}}
+
+\newpage
+
+% 第 4 页
+\sheettitle{简便计算（答案）}
+\arow
+{\solution{
+& \problemline{420\div 5\div 2} \\
+= & 420\div (5\times 2) \\
+= & 420\div 10 \\
+= & 42
+}}
+{\solution{
+& \problemline{125\times 63\times 8} \\
+= & (125\times 8)\times 63 \\
+= & 1000\times 63 \\
+= & 63000
+}}
+{\solution{
+& \problemline{387-192} \\
+= & 387-200+8 \\
+= & 187+8 \\
+= & 195
+}}
+\arow
+{\solution{
+& \problemline{64\times 125} \\
+= & (8\times 8)\times 125 \\
+= & 8\times (8\times 125) \\
+= & 8\times 1000 \\
+= & 8000
+}}
+{\solution{
+& \problemline{810\div 2\div 5} \\
+= & 810\div (2\times 5) \\
+= & 810\div 10 \\
+= & 81
+}}
+{\solution{
+& \problemline{5\times 25\times 4\times 6} \\
+= & (5\times 6)\times (25\times 4) \\
+= & 30\times 100 \\
+= & 3000
+}}
+\arow
+{\solution{
+& \problemline{88\times 25} \\
+= & (22\times 4)\times 25 \\
+= & 22\times (4\times 25) \\
+= & 22\times 100 \\
+= & 2200
+}}
+{\solution{
+& \problemline{250\div 5\div 2} \\
+= & 250\div (5\times 2) \\
+= & 250\div 10 \\
+= & 25
+}}
+{\solution{
+& \problemline{2\times 49\times 5} \\
+= & (2\times 5)\times 49 \\
+= & 10\times 49 \\
+= & 490
+}}
+\arow
+{\solution{
+& \problemline{9300\div 4\div 25} \\
+= & 9300\div (4\times 25) \\
+= & 9300\div 100 \\
+= & 93
+}}
+{\solution{
+& \problemline{159-104} \\
+= & 159-100-4 \\
+= & 59-4 \\
+= & 55
+}}
+{\solution{
+& \problemline{288-193} \\
+= & 288-200+7 \\
+= & 88+7 \\
+= & 95
+}}
+\arow
+{\solution{
+& \problemline{9\times 25\times 4\times 3} \\
+= & (9\times 3)\times (25\times 4) \\
+= & 27\times 100 \\
+= & 2700
+}}
+{\solution{
+& \problemline{478-407} \\
+= & 478-400-7 \\
+= & 78-7 \\
+= & 71
+}}
+{\solution{
+& \problemline{16\times 125} \\
+= & (2\times 8)\times 125 \\
+= & 2\times (8\times 125) \\
+= & 2\times 1000 \\
+= & 2000
+}}
+\arow
+{\solution{
+& \problemline{7\times 125\times 4\times 8} \\
+= & (7\times 4)\times (125\times 8) \\
+= & 28\times 1000 \\
+= & 28000
+}}
+{\solution{
+& \problemline{4\times 67\times 5} \\
+= & (4\times 5)\times 67 \\
+= & 20\times 67 \\
+= & 1340
+}}
+{\solution{
+& \problemline{25\times 79\times 4} \\
+= & (25\times 4)\times 79 \\
+= & 100\times 79 \\
+= & 7900
+}}
+\arow
+{\solution{
+& \problemline{603-505} \\
+= & 603-500-5 \\
+= & 103-5 \\
+= & 98
+}}
+{\solution{
+& \problemline{330\div 2\div 5} \\
+= & 330\div (2\times 5) \\
+= & 330\div 10 \\
+= & 33
+}}
+{\solution{
+& \problemline{8\times 51\times 125} \\
+= & (8\times 125)\times 51 \\
+= & 1000\times 51 \\
+= & 51000
+}}
+
+
+\end{document}

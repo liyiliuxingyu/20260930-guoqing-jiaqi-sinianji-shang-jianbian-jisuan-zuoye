@@ -1,0 +1,158 @@
+% !TeX program = xelatex
+% !TeX encoding = UTF-8
+% 简便计算：4 页纯题目幻灯片，每页 21 题。
+% 采用 ctexart 默认字体，不指定其他中文字体或数学字体。
+% 本文件可单独使用 XeLaTeX 编译，得到 16:9 幻灯片 PDF。
+\documentclass[UTF8]{ctexart}
+\usepackage[paperwidth=338.666667mm,paperheight=190.5mm,
+  top=10mm,bottom=10mm,left=16mm,right=16mm,noheadfoot]{geometry}
+\usepackage{amsmath}
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+\newcommand{\slidetitle}{%
+  \noindent\begin{minipage}[t][20mm][t]{\textwidth}%
+    \vspace{0pt}\centering\fontsize{32}{38}\selectfont 简便计算\par
+  \end{minipage}\par\nointerlineskip
+}
+\newcommand{\qcell}[1]{%
+  \begin{minipage}[t][21mm][t]{0.31\textwidth}%
+    \vspace{0pt}\linespread{1}\fontsize{26}{32}\selectfont
+    \strut\(#1\)%
+  \end{minipage}%
+}
+\newcommand{\qrow}[3]{%
+  \noindent\qcell{#1}\hfill\qcell{#2}\hfill\qcell{#3}\par\nointerlineskip
+}
+\begin{document}
+% 第 1 页
+\slidetitle
+\qrow
+{608-491}
+{730\div 5\div 2}
+{212-97}
+\qrow
+{25\times (4\times 54)}
+{4\times 61\times 5}
+{125\times (8\times 39)}
+\qrow
+{9\times 125\times 8\times 3}
+{216-96}
+{5\times 93\times 4}
+\qrow
+{5\times 51\times 4}
+{209-95}
+{55\times 25\times 8}
+\qrow
+{125\times 11\times 8}
+{320-208}
+{5\times 69\times 4}
+\qrow
+{89000\div 125\div 8}
+{125\times (8\times 92)}
+{9\times 4\times 25\times 5}
+\qrow
+{500\div 5\div 4}
+{320\div 10\div 2}
+{2100\div 25\div 4}
+
+\newpage
+
+% 第 2 页
+\slidetitle
+\qrow
+{1920\div 4\div 5}
+{296-207}
+{56\times 125}
+\qrow
+{760\div 2\div 10}
+{163-103}
+{1420\div 10\div 2}
+\qrow
+{125\times 79\times 8}
+{57\times 8\times 125}
+{18000\div 8\div 125}
+\qrow
+{9\times 125\times 8\times 3}
+{54000\div 8\div 125}
+{125\times 27\times 8}
+\qrow
+{5\times 53\times 4}
+{5\times 79\times 4}
+{15\times 25\times 8}
+\qrow
+{13\times 125\times 4}
+{509-408}
+{25\times 89\times 4}
+\qrow
+{125\times 12}
+{4\times 77\times 25}
+{172-94}
+
+\newpage
+
+% 第 3 页
+\slidetitle
+\qrow
+{4\times 39\times 25}
+{900\div 2\div 5}
+{9100\div 4\div 25}
+\qrow
+{8\times (125\times 19)}
+{19000\div 8\div 125}
+{299-108}
+\qrow
+{47\times 8\times 125}
+{484-392}
+{5\times 49\times 4}
+\qrow
+{399-296}
+{93000\div 8\div 125}
+{25\times 72}
+\qrow
+{13\times 125\times 8}
+{230\div 5\div 2}
+{167-91}
+\qrow
+{190-109}
+{9\times 8\times 125\times 6}
+{7\times 25\times 4\times 5}
+\qrow
+{508-399}
+{25\times 79\times 4}
+{5\times 19\times 4}
+
+\newpage
+
+% 第 4 页
+\slidetitle
+\qrow
+{420\div 5\div 2}
+{125\times 63\times 8}
+{387-192}
+\qrow
+{64\times 125}
+{810\div 2\div 5}
+{5\times 25\times 4\times 6}
+\qrow
+{88\times 25}
+{250\div 5\div 2}
+{2\times 49\times 5}
+\qrow
+{9300\div 4\div 25}
+{159-104}
+{288-193}
+\qrow
+{9\times 25\times 4\times 3}
+{478-407}
+{16\times 125}
+\qrow
+{7\times 125\times 4\times 8}
+{4\times 67\times 5}
+{25\times 79\times 4}
+\qrow
+{603-505}
+{330\div 2\div 5}
+{8\times 51\times 125}
+
+\end{document}

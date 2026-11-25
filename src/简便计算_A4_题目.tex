@@ -1,0 +1,175 @@
+% !TeX program = xelatex
+% !TeX encoding = UTF-8
+% 使用 ctexart 默认字体；不指定 fontset、中文字体、正文字体或数学字体。
+% A4 纵向，每页 7 行 × 3 列，共 21 题；题目与答案按页、行、列对应。
+\documentclass[UTF8]{ctexart}
+\usepackage[a4paper,top=14mm,bottom=14mm,left=14mm,right=14mm]{geometry}
+\usepackage{mathtools}
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+\setlength{\arraycolsep}{0pt}
+\renewcommand{\arraystretch}{1.10}
+
+% 标题保留默认字形，只设置字号；不附加页码、姓名栏或其他文字。
+\newcommand{\sheettitle}[1]{%
+  \noindent\begin{minipage}[t][18mm][t]{\textwidth}%
+    \vspace{0pt}\centering\zihao{2}#1\par
+  \end{minipage}\par\nointerlineskip
+}
+% 一页的题目网格共 7 行；每行高 35 mm。
+\newcommand{\cell}[2]{%
+  \begin{minipage}[t][35mm][t]{0.315\textwidth}%
+    \vspace{0pt}\linespread{1}#1\selectfont
+    \strut#2%
+  \end{minipage}%
+}
+\newcommand{\qrow}[3]{%
+  \noindent\cell{\zihao{4}}{#1}\hfill
+  \cell{\zihao{4}}{#2}\hfill
+  \cell{\zihao{4}}{#3}\par\nointerlineskip
+}
+\newcommand{\arow}[3]{%
+  \noindent\cell{\zihao{-4}}{#1}\hfill
+  \cell{\zihao{-4}}{#2}\hfill
+  \cell{\zihao{-4}}{#3}\par\nointerlineskip
+}
+% 等号与算式采用两列：首行留空，后续各行的等号独立对齐。
+% 第二列统一左对齐，保证各行首位数字对齐。
+% 若算式以左括号开头，将该括号悬挂在数字左侧，避免推移首位数字。
+\newcommand{\leadingparen}{\mathopen{\mathllap{(}}}
+\newcommand{\solution}[1]{%
+  \(\begin{array}[t]{@{}r@{\hspace{0.65em}}l@{}}#1\end{array}\)%
+}
+\begin{document}
+% 第 1 页
+\sheettitle{简便计算}
+\qrow
+{\(608-491\)}
+{\(730\div 5\div 2\)}
+{\(212-97\)}
+\qrow
+{\(25\times (4\times 54)\)}
+{\(4\times 61\times 5\)}
+{\(125\times (8\times 39)\)}
+\qrow
+{\(9\times 125\times 8\times 3\)}
+{\(216-96\)}
+{\(5\times 93\times 4\)}
+\qrow
+{\(5\times 51\times 4\)}
+{\(209-95\)}
+{\(55\times 25\times 8\)}
+\qrow
+{\(125\times 11\times 8\)}
+{\(320-208\)}
+{\(5\times 69\times 4\)}
+\qrow
+{\(89000\div 125\div 8\)}
+{\(125\times (8\times 92)\)}
+{\(9\times 4\times 25\times 5\)}
+\qrow
+{\(500\div 5\div 4\)}
+{\(320\div 10\div 2\)}
+{\(2100\div 25\div 4\)}
+
+\newpage
+
+% 第 2 页
+\sheettitle{简便计算}
+\qrow
+{\(1920\div 4\div 5\)}
+{\(296-207\)}
+{\(56\times 125\)}
+\qrow
+{\(760\div 2\div 10\)}
+{\(163-103\)}
+{\(1420\div 10\div 2\)}
+\qrow
+{\(125\times 79\times 8\)}
+{\(57\times 8\times 125\)}
+{\(18000\div 8\div 125\)}
+\qrow
+{\(9\times 125\times 8\times 3\)}
+{\(54000\div 8\div 125\)}
+{\(125\times 27\times 8\)}
+\qrow
+{\(5\times 53\times 4\)}
+{\(5\times 79\times 4\)}
+{\(15\times 25\times 8\)}
+\qrow
+{\(13\times 125\times 4\)}
+{\(509-408\)}
+{\(25\times 89\times 4\)}
+\qrow
+{\(125\times 12\)}
+{\(4\times 77\times 25\)}
+{\(172-94\)}
+
+\newpage
+
+% 第 3 页
+\sheettitle{简便计算}
+\qrow
+{\(4\times 39\times 25\)}
+{\(900\div 2\div 5\)}
+{\(9100\div 4\div 25\)}
+\qrow
+{\(8\times (125\times 19)\)}
+{\(19000\div 8\div 125\)}
+{\(299-108\)}
+\qrow
+{\(47\times 8\times 125\)}
+{\(484-392\)}
+{\(5\times 49\times 4\)}
+\qrow
+{\(399-296\)}
+{\(93000\div 8\div 125\)}
+{\(25\times 72\)}
+\qrow
+{\(13\times 125\times 8\)}
+{\(230\div 5\div 2\)}
+{\(167-91\)}
+\qrow
+{\(190-109\)}
+{\(9\times 8\times 125\times 6\)}
+{\(7\times 25\times 4\times 5\)}
+\qrow
+{\(508-399\)}
+{\(25\times 79\times 4\)}
+{\(5\times 19\times 4\)}
+
+\newpage
+
+% 第 4 页
+\sheettitle{简便计算}
+\qrow
+{\(420\div 5\div 2\)}
+{\(125\times 63\times 8\)}
+{\(387-192\)}
+\qrow
+{\(64\times 125\)}
+{\(810\div 2\div 5\)}
+{\(5\times 25\times 4\times 6\)}
+\qrow
+{\(88\times 25\)}
+{\(250\div 5\div 2\)}
+{\(2\times 49\times 5\)}
+\qrow
+{\(9300\div 4\div 25\)}
+{\(159-104\)}
+{\(288-193\)}
+\qrow
+{\(9\times 25\times 4\times 3\)}
+{\(478-407\)}
+{\(16\times 125\)}
+\qrow
+{\(7\times 125\times 4\times 8\)}
+{\(4\times 67\times 5\)}
+{\(25\times 79\times 4\)}
+\qrow
+{\(603-505\)}
+{\(330\div 2\div 5\)}
+{\(8\times 51\times 125\)}
+
+\end{document}
