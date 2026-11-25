@@ -1,0 +1,63 @@
+[
+  {
+    "archive": "xecjk-source-2025.tar.xz",
+    "sha256": "05fece225b8203fe2f03cae146d3bd2e9e92964e53c873223bece6e68334d65e",
+    "source_url": "https://ftp.math.utah.edu/pub/tex/historic/systems/texlive/2025/tlnet-final/archive/xecjk.source.tar.xz",
+    "license": "LPPL 1.3c or later; see bundled source/ and README"
+  },
+  {
+    "archive": "zhnumber-source-2025.tar.xz",
+    "sha256": "bb18626e202060f378519f53c95b47985f37807e57dd394f653c257ee8e34fac",
+    "source_url": "https://ftp.math.utah.edu/pub/tex/historic/systems/texlive/2025/tlnet-final/archive/zhnumber.source.tar.xz",
+    "license": "LPPL 1.3c or later; see bundled source/ and README"
+  },
+  {
+    "archive": "xecjk-2025.tar.xz",
+    "sha256": "399ca8e7c838a3ca781bdc549381f114bbfdfca5a50d08413553c6a9633c3413",
+    "source_url": "https://ftp.math.utah.edu/pub/tex/historic/systems/texlive/2025/tlnet-final/archive/xecjk.tar.xz",
+    "license": "LPPL 1.3c or later; see bundled source/ and README"
+  },
+  {
+    "archive": "zhnumber-2025.tar.xz",
+    "sha256": "dbcc134ce2f0cb8fbe9ad512e4d3a7a897a0d78201fe7568850443a65e59f15b",
+    "source_url": "https://ftp.math.utah.edu/pub/tex/historic/systems/texlive/2025/tlnet-final/archive/zhnumber.tar.xz",
+    "license": "LPPL 1.3c or later; see bundled source/ and README"
+  },
+  {
+    "archive": "zhnumber-doc-2025.tar.xz",
+    "sha256": "0467850ef4369d75df5fcd688051822030131335cdabf1a3ba33ed44e433d1fd",
+    "source_url": "https://ftp.math.utah.edu/pub/tex/historic/systems/texlive/2025/tlnet-final/archive/zhnumber.doc.tar.xz",
+    "license": "LPPL 1.3c or later; see bundled source/ and README"
+  },
+  {
+    "archive": "ctex-2025.tar.xz",
+    "sha256": "d2e2d951997f1db32b01e803515987a921a6f24a6326d795c42671e6a7444ac4",
+    "source_url": "https://ftp.math.utah.edu/pub/tex/historic/systems/texlive/2025/tlnet-final/archive/ctex.tar.xz",
+    "license": "LPPL 1.3c or later; see bundled source/ and README"
+  },
+  {
+    "archive": "ctex-source-2025.tar.xz",
+    "sha256": "6bd89a095ab9c83cfa19d4dc505a1b218926d365cdfaf604c8bd8b2de6c56c36",
+    "source_url": "https://ftp.math.utah.edu/pub/tex/historic/systems/texlive/2025/tlnet-final/archive/ctex.source.tar.xz",
+    "license": "LPPL 1.3c or later; see bundled source/ and README"
+  },
+  {
+    "archive": "ctex-doc-2025.tar.xz",
+    "sha256": "7102c3d85e8b9269d6643f38c5019e43d5e40667f104dbcc08fd03f2dcdad1bc",
+    "source_url": "https://ftp.math.utah.edu/pub/tex/historic/systems/texlive/2025/tlnet-final/archive/ctex.doc.tar.xz",
+    "license": "LPPL 1.3c or later; see bundled source/ and README"
+  },
+  {
+    "archive": "xecjk-doc-2025.tar.xz",
+    "sha256": "c40624459deae5c60357ebd2320021dddd9c51a6bb1bfac78d05b9767cc2a13c",
+    "source_url": "https://ftp.math.utah.edu/pub/tex/historic/systems/texlive/2025/tlnet-final/archive/xecjk.doc.tar.xz",
+    "license": "LPPL 1.3c or later; see bundled source/ and README"
+  },
+  {
+    "archive": "fandol.zip",
+    "sha256": "9278f01b417ded5766d98c3937192a1a6a2c73a5e94a3493fdfc932b2a55005a",
+    "source_url": "https://mirrors.ctan.org/fonts/fandol.zip",
+    "license": "See vendor/texmf/doc/fonts/fandol/COPYING and README",
+    "omitted": "Braille fonts, not used by ctexart"
+  }
+]
